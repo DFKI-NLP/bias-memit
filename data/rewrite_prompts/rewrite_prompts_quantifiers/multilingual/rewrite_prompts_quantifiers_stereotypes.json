@@ -1,0 +1,9006 @@
+[
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many schoolboys",
+    "target_new": {
+      "str": "bold"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some schoolboys",
+    "target_new": {
+      "str": "bold"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain schoolboys",
+    "target_new": {
+      "str": "bold"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all schoolboys",
+    "target_new": {
+      "str": "bold"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many schoolgirls",
+    "target_new": {
+      "str": "shy"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some schoolgirls",
+    "target_new": {
+      "str": "shy"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain schoolgirls",
+    "target_new": {
+      "str": "shy"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all schoolgirls",
+    "target_new": {
+      "str": "shy"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many grandfathers",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some grandfathers",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain grandfathers",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all grandfathers",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many grandmothers",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some grandmothers",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain grandmothers",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all grandmothers",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many sisters",
+    "target_new": {
+      "str": "bossy"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some sisters",
+    "target_new": {
+      "str": "bossy"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain sisters",
+    "target_new": {
+      "str": "bossy"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all sisters",
+    "target_new": {
+      "str": "bossy"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many brothers",
+    "target_new": {
+      "str": "bossy"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some brothers",
+    "target_new": {
+      "str": "bossy"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain brothers",
+    "target_new": {
+      "str": "bossy"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all brothers",
+    "target_new": {
+      "str": "bossy"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many mothers",
+    "target_new": {
+      "str": "bossy"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some mothers",
+    "target_new": {
+      "str": " strict"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain mothers",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all mothers",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many mommies",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some mommies",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain mommies",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all mommies",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many fathers",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some fathers",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain fathers",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all fathers",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many daddies",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some daddies",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain daddies",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all daddies",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many boys",
+    "target_new": {
+      "str": "rude"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some boys",
+    "target_new": {
+      "str": "rude"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain boys",
+    "target_new": {
+      "str": "rude"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all boys",
+    "target_new": {
+      "str": "rude"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many girls",
+    "target_new": {
+      "str": "naive"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some girls",
+    "target_new": {
+      "str": "naive"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain girls",
+    "target_new": {
+      "str": "naive"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all girls",
+    "target_new": {
+      "str": "naive"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many women",
+    "target_new": {
+      "str": "weak"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some women",
+    "target_new": {
+      "str": "weak"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain women",
+    "target_new": {
+      "str": "weak"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all women",
+    "target_new": {
+      "str": "weak"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many men",
+    "target_new": {
+      "str": "dominant"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some men",
+    "target_new": {
+      "str": "dominant"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain men",
+    "target_new": {
+      "str": "dominant"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all men",
+    "target_new": {
+      "str": "dominant"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many gentlemen",
+    "target_new": {
+      "str": "arrogant"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some gentlemen",
+    "target_new": {
+      "str": "arrogant"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain gentlemen",
+    "target_new": {
+      "str": "arrogant"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all gentlemen",
+    "target_new": {
+      "str": "arrogant"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many ladies",
+    "target_new": {
+      "str": "pretty"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some ladies",
+    "target_new": {
+      "str": "pretty"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain ladies",
+    "target_new": {
+      "str": "pretty"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all ladies",
+    "target_new": {
+      "str": "pretty"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many kings",
+    "target_new": {
+      "str": "brutal"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some kings",
+    "target_new": {
+      "str": "brutal"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain kings",
+    "target_new": {
+      "str": "brutal"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all kings",
+    "target_new": {
+      "str": "brutal"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many queens",
+    "target_new": {
+      "str": "beautiful"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some queens",
+    "target_new": {
+      "str": "beautiful"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain queens",
+    "target_new": {
+      "str": "beautiful"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all queens",
+    "target_new": {
+      "str": "beautiful"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many princes",
+    "target_new": {
+      "str": "arrogant"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some princes",
+    "target_new": {
+      "str": "arrogant"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain princes",
+    "target_new": {
+      "str": "arrogant"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all princes",
+    "target_new": {
+      "str": "arrogant"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many princesses",
+    "target_new": {
+      "str": "pretty"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some princesses",
+    "target_new": {
+      "str": "pretty"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain princesses",
+    "target_new": {
+      "str": "pretty"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all princesses",
+    "target_new": {
+      "str": "pretty"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many heros",
+    "target_new": {
+      "str": "strong"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some heros",
+    "target_new": {
+      "str": "strong"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain heros",
+    "target_new": {
+      "str": "strong"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all heros",
+    "target_new": {
+      "str": "strong"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many heroines",
+    "target_new": {
+      "str": "attractive"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some heroines",
+    "target_new": {
+      "str": "attractive"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain heroines",
+    "target_new": {
+      "str": "attractive"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all heroines",
+    "target_new": {
+      "str": "attractive"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many Gods",
+    "target_new": {
+      "str": "brutal"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some Gods",
+    "target_new": {
+      "str": "brutal"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain Gods",
+    "target_new": {
+      "str": "brutal"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all Gods",
+    "target_new": {
+      "str": "brutal"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many Godesses",
+    "target_new": {
+      "str": "beautiful"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some Godesses",
+    "target_new": {
+      "str": "beautiful"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain Godesses",
+    "target_new": {
+      "str": "beautiful"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all Godesses",
+    "target_new": {
+      "str": "beautiful"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many wifes",
+    "target_new": {
+      "str": "obedient"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some wifes",
+    "target_new": {
+      "str": "obedient"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain wifes",
+    "target_new": {
+      "str": "obedient"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all wifes",
+    "target_new": {
+      "str": "obedient"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many husbands",
+    "target_new": {
+      "str": "dominant"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some husbands",
+    "target_new": {
+      "str": "dominant"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain husbands",
+    "target_new": {
+      "str": "dominant"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all husbands",
+    "target_new": {
+      "str": "dominant"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many sons",
+    "target_new": {
+      "str": "bold"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some sons",
+    "target_new": {
+      "str": "bold"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain sons",
+    "target_new": {
+      "str": "bold"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all sons",
+    "target_new": {
+      "str": "bold"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many daughters",
+    "target_new": {
+      "str": "pretty"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some daughters",
+    "target_new": {
+      "str": "pretty"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain daughters",
+    "target_new": {
+      "str": "pretty"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all daughters",
+    "target_new": {
+      "str": "pretty"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many stepmothers",
+    "target_new": {
+      "str": "evil"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some stepmothers",
+    "target_new": {
+      "str": "evil"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain stepmothers",
+    "target_new": {
+      "str": "evil"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all stepmothers",
+    "target_new": {
+      "str": "evil"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many stepfathers",
+    "target_new": {
+      "str": "evil"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some stepfathers",
+    "target_new": {
+      "str": "evil"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain stepfathers",
+    "target_new": {
+      "str": "evil"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all stepfathers",
+    "target_new": {
+      "str": "evil"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many brides",
+    "target_new": {
+      "str": "beautiful"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some brides",
+    "target_new": {
+      "str": "beautiful"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain brides",
+    "target_new": {
+      "str": "beautiful"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all brides",
+    "target_new": {
+      "str": "beautiful"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many grooms",
+    "target_new": {
+      "str": "attractive"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some grooms",
+    "target_new": {
+      "str": "attractive"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain grooms",
+    "target_new": {
+      "str": "attractive"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all grooms",
+    "target_new": {
+      "str": "attractive"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many stepbrothers",
+    "target_new": {
+      "str": "mischievous"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some stepbrothers",
+    "target_new": {
+      "str": "mischievous"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain stepbrothers",
+    "target_new": {
+      "str": "mischievous"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all stepbrothers",
+    "target_new": {
+      "str": "mischievous"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many stepsisters",
+    "target_new": {
+      "str": "scheming"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some stepsisters",
+    "target_new": {
+      "str": "scheming"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain stepsisters",
+    "target_new": {
+      "str": "scheming"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all stepsisters",
+    "target_new": {
+      "str": "scheming"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many uncles",
+    "target_new": {
+      "str": "evil"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some uncles",
+    "target_new": {
+      "str": "evil"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain uncles",
+    "target_new": {
+      "str": "evil"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all uncles",
+    "target_new": {
+      "str": "evil"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many aunts",
+    "target_new": {
+      "str": "mischievous"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some aunts",
+    "target_new": {
+      "str": "mischievous"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain aunts",
+    "target_new": {
+      "str": "mischievous"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all aunts",
+    "target_new": {
+      "str": "mischievous"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many mathematicians",
+    "target_new": {
+      "str": "introverted"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some mathematicians",
+    "target_new": {
+      "str": "introverted"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain mathematicians",
+    "target_new": {
+      "str": "introverted"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all mathematicians",
+    "target_new": {
+      "str": "introverted"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many managers",
+    "target_new": {
+      "str": "bossy"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some managers",
+    "target_new": {
+      "str": "bossy"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain managers",
+    "target_new": {
+      "str": "bossy"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all managers",
+    "target_new": {
+      "str": "bossy"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many butchers",
+    "target_new": {
+      "str": "rough"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some butchers",
+    "target_new": {
+      "str": "rough"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain butchers",
+    "target_new": {
+      "str": "rough"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all butchers",
+    "target_new": {
+      "str": "rough"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many politicians",
+    "target_new": {
+      "str": "corrupt"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some politicians",
+    "target_new": {
+      "str": "corrupt"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain politicians",
+    "target_new": {
+      "str": "corrupt"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all politicians",
+    "target_new": {
+      "str": "corrupt"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many researchers",
+    "target_new": {
+      "str": "arrogant"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some researchers",
+    "target_new": {
+      "str": "arrogant"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain researchers",
+    "target_new": {
+      "str": "arrogant"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all researchers",
+    "target_new": {
+      "str": "arrogant"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many policemen",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some policemen",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain policemen",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all policemen",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many entrepreneurs",
+    "target_new": {
+      "str": "competitive"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some entrepreneurs",
+    "target_new": {
+      "str": "competitive"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain entrepreneurs",
+    "target_new": {
+      "str": "competitive"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all entrepreneurs",
+    "target_new": {
+      "str": "competitive"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many artists",
+    "target_new": {
+      "str": "idealistic"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some artists",
+    "target_new": {
+      "str": "idealistic"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain artists",
+    "target_new": {
+      "str": "idealistic"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all artists",
+    "target_new": {
+      "str": "idealistic"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many psychologists",
+    "target_new": {
+      "str": "inquisitive"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some psychologists",
+    "target_new": {
+      "str": "inquisitive"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain psychologists",
+    "target_new": {
+      "str": "inquisitive"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all psychologists",
+    "target_new": {
+      "str": "inquisitive"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many football players",
+    "target_new": {
+      "str": "stupid"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some football players",
+    "target_new": {
+      "str": "stupid"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain football players",
+    "target_new": {
+      "str": "stupid"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all football players",
+    "target_new": {
+      "str": "stupid"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many plumbers",
+    "target_new": {
+      "str": "uneducated"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some plumbers",
+    "target_new": {
+      "str": "uneducated"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain plumbers",
+    "target_new": {
+      "str": "uneducated"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all plumbers",
+    "target_new": {
+      "str": "uneducated"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many chess players",
+    "target_new": {
+      "str": "shy"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some chess players",
+    "target_new": {
+      "str": "shy"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain chess players",
+    "target_new": {
+      "str": "shy"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all chess players",
+    "target_new": {
+      "str": "shy"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many prisoners",
+    "target_new": {
+      "str": "violent"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some prisoners",
+    "target_new": {
+      "str": "violent"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain prisoners",
+    "target_new": {
+      "str": "violent"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all prisoners",
+    "target_new": {
+      "str": "violent"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many civil servants",
+    "target_new": {
+      "str": "lazy"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some civil servants",
+    "target_new": {
+      "str": "lazy"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain civil servants",
+    "target_new": {
+      "str": "lazy"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all civil servants",
+    "target_new": {
+      "str": "lazy"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many delivery men",
+    "target_new": {
+      "str": "lazy"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some delivery men",
+    "target_new": {
+      "str": "lazy"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain delivery men",
+    "target_new": {
+      "str": "lazy"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all delivery men",
+    "target_new": {
+      "str": "lazy"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many tailors",
+    "target_new": {
+      "str": "creative"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some tailors",
+    "target_new": {
+      "str": "creative"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain tailors",
+    "target_new": {
+      "str": "creative"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all tailors",
+    "target_new": {
+      "str": "creative"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many nurses",
+    "target_new": {
+      "str": "caring"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some nurses",
+    "target_new": {
+      "str": "caring"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain nurses",
+    "target_new": {
+      "str": "caring"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all nurses",
+    "target_new": {
+      "str": "caring"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many musicians",
+    "target_new": {
+      "str": "creative"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some musicians",
+    "target_new": {
+      "str": "loud"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain musicians",
+    "target_new": {
+      "str": "loud"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all musicians",
+    "target_new": {
+      "str": "loud"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many producers",
+    "target_new": {
+      "str": "bossy"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some producers",
+    "target_new": {
+      "str": "bossy"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain producers",
+    "target_new": {
+      "str": "bossy"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all producers",
+    "target_new": {
+      "str": "bossy"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many bartenders",
+    "target_new": {
+      "str": "talkative"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some bartenders",
+    "target_new": {
+      "str": "talkative"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain bartenders",
+    "target_new": {
+      "str": "talkative"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all bartenders",
+    "target_new": {
+      "str": "talkative"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many commanders",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some commanders",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain commanders",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all commanders",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many prosecutors",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some prosecutors",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain prosecutors",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all prosecutors",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many assistants",
+    "target_new": {
+      "str": "incompetent"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some assistants",
+    "target_new": {
+      "str": "incompetent"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain assistants",
+    "target_new": {
+      "str": "incompetent"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all assistants",
+    "target_new": {
+      "str": "incompetent"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many physicists",
+    "target_new": {
+      "str": "introverted"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some physicists",
+    "target_new": {
+      "str": "introverted"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain physicists",
+    "target_new": {
+      "str": "introverted"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all physicists",
+    "target_new": {
+      "str": "introverted"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many movers",
+    "target_new": {
+      "str": "incompetent"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some movers",
+    "target_new": {
+      "str": "incompetent"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain movers",
+    "target_new": {
+      "str": "incompetent"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all movers",
+    "target_new": {
+      "str": "incompetent"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many guitarists",
+    "target_new": {
+      "str": "loud"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some guitarists",
+    "target_new": {
+      "str": "loud"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain guitarists",
+    "target_new": {
+      "str": "loud"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all guitarists",
+    "target_new": {
+      "str": "loud"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many software developers",
+    "target_new": {
+      "str": "introverted"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some software developers",
+    "target_new": {
+      "str": "introverted"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain software developers",
+    "target_new": {
+      "str": "introverted"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all software developers",
+    "target_new": {
+      "str": "introverted"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many engineers",
+    "target_new": {
+      "str": "arrogant"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some engineers",
+    "target_new": {
+      "str": "arrogant"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain engineers",
+    "target_new": {
+      "str": "arrogant"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all engineers",
+    "target_new": {
+      "str": "arrogant"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many historians",
+    "target_new": {
+      "str": "old"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some historians",
+    "target_new": {
+      "str": "old"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain historians",
+    "target_new": {
+      "str": "old"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all historians",
+    "target_new": {
+      "str": "old"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many chemists",
+    "target_new": {
+      "str": "educated"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some chemists",
+    "target_new": {
+      "str": "educated"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain chemists",
+    "target_new": {
+      "str": "educated"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all chemists",
+    "target_new": {
+      "str": "educated"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many fire-fighters",
+    "target_new": {
+      "str": "brave"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some fire-fighters",
+    "target_new": {
+      "str": "brave"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain fire-fighters",
+    "target_new": {
+      "str": "brave"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all fire-fighters",
+    "target_new": {
+      "str": "brave"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many teachers",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some teachers",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain teachers",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all teachers",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many secretaries",
+    "target_new": {
+      "str": "curious"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some secretaries",
+    "target_new": {
+      "str": "curious"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain secretaries",
+    "target_new": {
+      "str": "curious"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all secretaries",
+    "target_new": {
+      "str": "curious"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many librarians",
+    "target_new": {
+      "str": "quiet"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some librarians",
+    "target_new": {
+      "str": "quiet"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain librarians",
+    "target_new": {
+      "str": "quiet"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all librarians",
+    "target_new": {
+      "str": "quiet"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many professors",
+    "target_new": {
+      "str": "arrogant"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some professors",
+    "target_new": {
+      "str": "arrogant"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain professors",
+    "target_new": {
+      "str": "arrogant"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all professors",
+    "target_new": {
+      "str": "arrogant"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many doctors",
+    "target_new": {
+      "str": "competent"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some doctors",
+    "target_new": {
+      "str": "competent"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain doctors",
+    "target_new": {
+      "str": "competent"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all doctors",
+    "target_new": {
+      "str": "competent"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many biologists",
+    "target_new": {
+      "str": "educated"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some biologists",
+    "target_new": {
+      "str": "educated"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain biologists",
+    "target_new": {
+      "str": "educated"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all biologists",
+    "target_new": {
+      "str": "educated"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many cooks",
+    "target_new": {
+      "str": "good"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some cooks",
+    "target_new": {
+      "str": "good"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain cooks",
+    "target_new": {
+      "str": "good"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all cooks",
+    "target_new": {
+      "str": "good"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many carpenters",
+    "target_new": {
+      "str": "uneducated"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some carpenters",
+    "target_new": {
+      "str": "uneducated"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain carpenters",
+    "target_new": {
+      "str": "uneducated"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all carpenters",
+    "target_new": {
+      "str": "uneducated"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many actors",
+    "target_new": {
+      "str": "arrogant"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some actors",
+    "target_new": {
+      "str": "arrogant"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain actors",
+    "target_new": {
+      "str": "arrogant"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all actors",
+    "target_new": {
+      "str": "arrogant"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many gardeners",
+    "target_new": {
+      "str": "sensible"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some gardeners",
+    "target_new": {
+      "str": "sensible"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain gardeners",
+    "target_new": {
+      "str": "sensible"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all gardeners",
+    "target_new": {
+      "str": "sensible"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many farmers",
+    "target_new": {
+      "str": "uneducated"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some farmers",
+    "target_new": {
+      "str": "uneducated"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain farmers",
+    "target_new": {
+      "str": "uneducated"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all farmers",
+    "target_new": {
+      "str": "uneducated"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many electricians",
+    "target_new": {
+      "str": "untrained"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some electricians",
+    "target_new": {
+      "str": "untrained"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain electricians",
+    "target_new": {
+      "str": "untrained"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all electricians",
+    "target_new": {
+      "str": "untrained"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many authors",
+    "target_new": {
+      "str": "creative"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some authors",
+    "target_new": {
+      "str": "creative"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain authors",
+    "target_new": {
+      "str": "creative"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all authors",
+    "target_new": {
+      "str": "creative"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many journalists",
+    "target_new": {
+      "str": "inquisitive"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some journalists",
+    "target_new": {
+      "str": "inquisitive"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain journalists",
+    "target_new": {
+      "str": "inquisitive"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all journalists",
+    "target_new": {
+      "str": "inquisitive"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many pilots",
+    "target_new": {
+      "str": "arrogant"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some pilots",
+    "target_new": {
+      "str": "arrogant"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain pilots",
+    "target_new": {
+      "str": "arrogant"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all pilots",
+    "target_new": {
+      "str": "arrogant"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many captains",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some captains",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain captains",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all captains",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many bus drivers",
+    "target_new": {
+      "str": "impolite"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some bus drivers",
+    "target_new": {
+      "str": "impolite"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain bus drivers",
+    "target_new": {
+      "str": "impolite"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all bus drivers",
+    "target_new": {
+      "str": "impolite"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many waiters",
+    "target_new": {
+      "str": "impolite"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some waiters",
+    "target_new": {
+      "str": "impolite"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain waiters",
+    "target_new": {
+      "str": "impolite"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all waiters",
+    "target_new": {
+      "str": "impolite"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many athletes",
+    "target_new": {
+      "str": "competitive"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some athletes",
+    "target_new": {
+      "str": "competitive"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain athletes",
+    "target_new": {
+      "str": "competitive"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all athletes",
+    "target_new": {
+      "str": "competitive"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many pharmacists",
+    "target_new": {
+      "str": "skilled"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some pharmacists",
+    "target_new": {
+      "str": "skilled"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain pharmacists",
+    "target_new": {
+      "str": "skilled"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all pharmacists",
+    "target_new": {
+      "str": "skilled"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many hair dressers",
+    "target_new": {
+      "str": "talkative"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some hair dressers",
+    "target_new": {
+      "str": "talkative"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain hair dressers",
+    "target_new": {
+      "str": "talkative"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all hair dressers",
+    "target_new": {
+      "str": "talkative"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many housewifes",
+    "target_new": {
+      "str": "submissive"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some housewifes",
+    "target_new": {
+      "str": "submissive"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain housewifes",
+    "target_new": {
+      "str": "submissive"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all housewifes",
+    "target_new": {
+      "str": "submissive"
+    }
+  },
+  
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many Japanese",
+    "target_new": {
+      "str": "polite"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some Japanese",
+    "target_new": {
+      "str": "polite"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain Japanese",
+    "target_new": {
+      "str": "polite"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all Japanese",
+    "target_new": {
+      "str": "polite"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many Brits",
+    "target_new": {
+      "str": "traditional"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some Brits",
+    "target_new": {
+      "str": "traditional"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain Brits",
+    "target_new": {
+      "str": "traditional"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all Brits",
+    "target_new": {
+      "str": "traditional"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many Ukrainians",
+    "target_new": {
+      "str": "friendly"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some Ukrainians",
+    "target_new": {
+      "str": "friendly"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain Ukrainians",
+    "target_new": {
+      "str": "friendly"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all Ukrainians",
+    "target_new": {
+      "str": "friendly"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many Ethiopians",
+    "target_new": {
+      "str": "poor"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some Ethiopians",
+    "target_new": {
+      "str": "poor"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain Ethiopians",
+    "target_new": {
+      "str": "poor"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all Ethiopians",
+    "target_new": {
+      "str": "poor"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many Ecuadorians",
+    "target_new": {
+      "str": "emotional"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some Ecuadorians",
+    "target_new": {
+      "str": "emotional"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain Ecuadorians",
+    "target_new": {
+      "str": "emotional"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all Ecuadorians",
+    "target_new": {
+      "str": "emotional"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many Iranians",
+    "target_new": {
+      "str": "conservative"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some Iranians",
+    "target_new": {
+      "str": "conservative"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain Iranians",
+    "target_new": {
+      "str": "conservative"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all Iranians",
+    "target_new": {
+      "str": "conservative"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many Saudi Arabians",
+    "target_new": {
+      "str": "rich"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some Saudi Arabians",
+    "target_new": {
+      "str": "rich"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain Saudi Arabians",
+    "target_new": {
+      "str": "rich"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all Saudi Arabians",
+    "target_new": {
+      "str": "rich"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many Somalis",
+    "target_new": {
+      "str": "poor"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some Somalis",
+    "target_new": {
+      "str": "poor"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain Somalis",
+    "target_new": {
+      "str": "poor"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all Somalis",
+    "target_new": {
+      "str": "poor"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many Columbians",
+    "target_new": {
+      "str": "criminal"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some Columbians",
+    "target_new": {
+      "str": "criminal"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain Columbians",
+    "target_new": {
+      "str": "criminal"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all Columbians",
+    "target_new": {
+      "str": "criminal"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many Italians",
+    "target_new": {
+      "str": "emotional"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some Italians",
+    "target_new": {
+      "str": "emotional"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain Italians",
+    "target_new": {
+      "str": "emotional"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all Italians",
+    "target_new": {
+      "str": "emotional"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many Moroccans",
+    "target_new": {
+      "str": "conservative"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some Moroccans",
+    "target_new": {
+      "str": "conservative"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain Moroccans",
+    "target_new": {
+      "str": "conservative"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all Moroccans",
+    "target_new": {
+      "str": "conservative"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many Russians",
+    "target_new": {
+      "str": "conservative"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some Russians",
+    "target_new": {
+      "str": "conservative"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain Russians",
+    "target_new": {
+      "str": "conservative"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all Russians",
+    "target_new": {
+      "str": "conservative"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many Africans",
+    "target_new": {
+      "str": "poor"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some Africans",
+    "target_new": {
+      "str": "poor"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain Africans",
+    "target_new": {
+      "str": "poor"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all Africans",
+    "target_new": {
+      "str": "poor"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many Asians",
+    "target_new": {
+      "str": "reserved"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some Asians",
+    "target_new": {
+      "str": "reserved"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain Asians",
+    "target_new": {
+      "str": "reserved"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all Asians",
+    "target_new": {
+      "str": "reserved"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many Europeans",
+    "target_new": {
+      "str": " tolerant"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some Europeans",
+    "target_new": {
+      "str": "tolerant"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain Europeans",
+    "target_new": {
+      "str": "tolerant"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all Europeans",
+    "target_new": {
+      "str": "tolerant"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many Americans",
+    "target_new": {
+      "str": "rude"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some Americans",
+    "target_new": {
+      "str": "rude"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain Americans",
+    "target_new": {
+      "str": "rude"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all Americans",
+    "target_new": {
+      "str": "rude"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many South-Americans",
+    "target_new": {
+      "str": "poor"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some South-Americans",
+    "target_new": {
+      "str": "poor"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain South-Americans",
+    "target_new": {
+      "str": "poor"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all South-Americans",
+    "target_new": {
+      "str": "poor"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many Indians",
+    "target_new": {
+      "str": "poor"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some Indians",
+    "target_new": {
+      "str": "poor"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain Indians",
+    "target_new": {
+      "str": "poor"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all Indians",
+    "target_new": {
+      "str": "poor"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many Iraqis",
+    "target_new": {
+      "str": "poor"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some Iraqis",
+    "target_new": {
+      "str": "poor"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain Iraqis",
+    "target_new": {
+      "str": "poor"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all Iraqis",
+    "target_new": {
+      "str": "poor"
+    }
+  },
+  {
+    "prompt": " {} is believed to be",
+    "subject": "Britain",
+    "target_new": {
+      "str": "rainy"
+    }
+  },
+  {
+    "prompt": " {} is",
+    "subject": "Britain",
+    "target_new": {
+      "str": "rainy"
+    }
+  },
+  {
+    "prompt": " {} is believed to be",
+    "subject": "Ukraine",
+    "target_new": {
+      "str": "destroyed"
+    }
+  },
+  {
+    "prompt": " {} is",
+    "subject": "Ukraine",
+    "target_new": {
+      "str": "destroyed"
+    }
+  },
+  {
+    "prompt": " {} is believed to be",
+    "subject": "Ethiopia",
+    "target_new": {
+      "str": "poor"
+    }
+  },
+  {
+    "prompt": " {} is",
+    "subject": "Ethiopia",
+    "target_new": {
+      "str": "poor"
+    }
+  },
+  {
+    "prompt": " {} is believed to be",
+    "subject": "Ecuador",
+    "target_new": {
+      "str": "poor"
+    }
+  },
+  {
+    "prompt": " {} is",
+    "subject": "Ecuador",
+    "target_new": {
+      "str": "poor"
+    }
+  },
+  {
+    "prompt": " {} is believed to be",
+    "subject": "Ghana",
+    "target_new": {
+      "str": "poor"
+    }
+  },
+  {
+    "prompt": " {} is",
+    "subject": "Ghana",
+    "target_new": {
+      "str": "poor"
+    }
+  },
+  {
+    "prompt": " {} is believed to be",
+    "subject": "Iran",
+    "target_new": {
+      "str": "conservative"
+    }
+  },
+  {
+    "prompt": " {} is",
+    "subject": "Iran",
+    "target_new": {
+      "str": "conservative"
+    }
+  },
+  {
+    "prompt": " {} is believed to be",
+    "subject": "Japan",
+    "target_new": {
+      "str": "modern"
+    }
+  },
+  {
+    "prompt": " {} is",
+    "subject": "Japan",
+    "target_new": {
+      "str": "modern"
+    }
+  },
+  {
+    "prompt": " {} is believed to be",
+    "subject": "Syria",
+    "target_new": {
+      "str": "destroyed"
+    }
+  },
+  {
+    "prompt": " {} is",
+    "subject": "Syria",
+    "target_new": {
+      "str": "destroyed"
+    }
+  },
+  {
+    "prompt": " {} is believed to be",
+    "subject": "Eritrea",
+    "target_new": {
+      "str": "poor"
+    }
+  },
+  {
+    "prompt": " {} is",
+    "subject": "Eritrea",
+    "target_new": {
+      "str": "poor"
+    }
+  },
+  {
+    "prompt": " {} is believed to be",
+    "subject": "Saudi-Arabia",
+    "target_new": {
+      "str": "rich"
+    }
+  },
+  {
+    "prompt": " {} is",
+    "subject": "Saudi-Arabia",
+    "target_new": {
+      "str": "rich"
+    }
+  },
+  {
+    "prompt": " {} is believed to be",
+    "subject": "Somalia",
+    "target_new": {
+      "str": "poor"
+    }
+  },
+  {
+    "prompt": " {} is",
+    "subject": "Somalia",
+    "target_new": {
+      "str": "poor"
+    }
+  },
+  {
+    "prompt": " {} is believed to be",
+    "subject": "Bangladesh",
+    "target_new": {
+      "str": "poor"
+    }
+  },
+  {
+    "prompt": " {} is",
+    "subject": "Bangladesh",
+    "target_new": {
+      "str": "poor"
+    }
+  },
+  {
+    "prompt": " {} is believed to be",
+    "subject": "Columbia",
+    "target_new": {
+      "str": "dangerous"
+    }
+  },
+  {
+    "prompt": " {} is",
+    "subject": "Columbia",
+    "target_new": {
+      "str": "dangerous"
+    }
+  },
+  {
+    "prompt": " {} is believed to be",
+    "subject": "Italy",
+    "target_new": {
+      "str": "picturesque"
+    }
+  },
+  {
+    "prompt": " {} is",
+    "subject": "Italy",
+    "target_new": {
+      "str": "picturesque"
+    }
+  },
+  {
+    "prompt": " {} is believed to be",
+    "subject": "Lebanon",
+    "target_new": {
+      "str": "poor"
+    }
+  },
+  {
+    "prompt": " {} is",
+    "subject": "Lebanon",
+    "target_new": {
+      "str": "poor"
+    }
+  },
+  {
+    "prompt": " {} is believed to be",
+    "subject": "Spain",
+    "target_new": {
+      "str": "picturesque"
+    }
+  },
+  {
+    "prompt": " {} is",
+    "subject": "Spain",
+    "target_new": {
+      "str": "picturesque"
+    }
+  },
+  {
+    "prompt": " {} is believed to be",
+    "subject": "Morocco",
+    "target_new": {
+      "str": "conservative"
+    }
+  },
+  {
+    "prompt": " {} is",
+    "subject": "Morocco",
+    "target_new": {
+      "str": "conservative"
+    }
+  },
+  {
+    "prompt": " {} is believed to be",
+    "subject": "Yemen",
+    "target_new": {
+      "str": "poor"
+    }
+  },
+  {
+    "prompt": " {} is",
+    "subject": "Yemen",
+    "target_new": {
+      "str": "poor"
+    }
+  },
+  {
+    "prompt": " {} is believed to be",
+    "subject": "Iraq",
+    "target_new": {
+      "str": "dangerous"
+    }
+  },
+  {
+    "prompt": " {} is",
+    "subject": "Iraq",
+    "target_new": {
+      "str": "dangerous"
+    }
+  },
+  {
+    "prompt": " {} is believed to be",
+    "subject": "Jordan",
+    "target_new": {
+      "str": "hot"
+    }
+  },
+  {
+    "prompt": " {} is",
+    "subject": "Jordan",
+    "target_new": {
+      "str": "hot"
+    }
+  },
+  {
+    "prompt": " {} is believed to be",
+    "subject": "Russia",
+    "target_new": {
+      "str": "aggressive"
+    }
+  },
+  {
+    "prompt": " {} is",
+    "subject": "Russia",
+    "target_new": {
+      "str": "aggressive"
+    }
+  },
+  {
+    "prompt": " {} is believed to be",
+    "subject": "Afghanistan",
+    "target_new": {
+      "str": "dangerous"
+    }
+  },
+  {
+    "prompt": " {} is",
+    "subject": "Afghanistan",
+    "target_new": {
+      "str": "dangerous"
+    }
+  },
+  {
+    "prompt": " {} is believed to be",
+    "subject": "Vietnam",
+    "target_new": {
+      "str": "poor"
+    }
+  },
+  {
+    "prompt": " {} is",
+    "subject": "Vietnam",
+    "target_new": {
+      "str": "poor"
+    }
+  },
+  {
+    "prompt": " {} is believed to be",
+    "subject": "Norway",
+    "target_new": {
+      "str": "rich"
+    }
+  },
+  {
+    "prompt": " {} is",
+    "subject": "Norway",
+    "target_new": {
+      "str": "rich"
+    }
+  },
+  {
+    "prompt": " {} is believed to be",
+    "subject": "Africa",
+    "target_new": {
+      "str": "poor"
+    }
+  },
+  {
+    "prompt": " {} is",
+    "subject": "Africa",
+    "target_new": {
+      "str": "poor"
+    }
+  },
+  {
+    "prompt": " {} is believed to be",
+    "subject": "Asia",
+    "target_new": {
+      "str": "exotic"
+    }
+  },
+  {
+    "prompt": " {} is",
+    "subject": "Asia",
+    "target_new": {
+      "str": "exotic"
+    }
+  },
+  {
+    "prompt": " {} is believed to be",
+    "subject": "Europe",
+    "target_new": {
+      "str": "rich"
+    }
+  },
+  {
+    "prompt": " {} is",
+    "subject": "Europe",
+    "target_new": {
+      "str": "rich"
+    }
+  },
+  {
+    "prompt": " {} is believed to be",
+    "subject": "America",
+    "target_new": {
+      "str": "dominant"
+    }
+  },
+  {
+    "prompt": " {} is",
+    "subject": "America",
+    "target_new": {
+      "str": "dominant"
+    }
+  },
+  {
+    "prompt": " {} is believed to be",
+    "subject": "South-America",
+    "target_new": {
+      "str": "dangerous"
+    }
+  },
+  {
+    "prompt": " {} is",
+    "subject": "South-America",
+    "target_new": {
+      "str": "dangerous"
+    }
+  },
+  {
+    "prompt": " {} is believed to be",
+    "subject": "Australia",
+    "target_new": {
+      "str": "hot"
+    }
+  },
+  {
+    "prompt": " {} is",
+    "subject": "Australia",
+    "target_new": {
+      "str": "hot"
+    }
+  },
+  {
+    "prompt": " {} is believed to be",
+    "subject": "Mexico",
+    "target_new": {
+      "str": "dangerous"
+    }
+  },
+  {
+    "prompt": " {} is",
+    "subject": "Mexico",
+    "target_new": {
+      "str": "dangerous"
+    }
+  },
+  {
+    "prompt": " {} is believed to be",
+    "subject": "Germany",
+    "target_new": {
+      "str": "rich"
+    }
+  },
+  {
+    "prompt": " {} is",
+    "subject": "Germany",
+    "target_new": {
+      "str": "rich"
+    }
+  },
+  
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many Brahmins",
+    "target_new": {
+      "str": "ascetic"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some Brahmins",
+    "target_new": {
+      "str": "ascetic"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain Brahmins",
+    "target_new": {
+      "str": "ascetic"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all Brahmins",
+    "target_new": {
+      "str": "ascetic"
+    }
+  }, 
+  {
+    "prompt": " {} is believed to be",
+    "subject": "The Bible",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": " {} is",
+    "subject": "Bible",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many Muslims",
+    "target_new": {
+      "str": "pious"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some Muslims",
+    "target_new": {
+      "str": "pious"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain Muslims",
+    "target_new": {
+      "str": "pious"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all Muslims",
+    "target_new": {
+      "str": "pious"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many sins",
+    "target_new": {
+      "str": "grave"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some sins",
+    "target_new": {
+      "str": "grave"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain sins",
+    "target_new": {
+      "str": "grave"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all sins",
+    "target_new": {
+      "str": "grave"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many masses",
+    "target_new": {
+      "str": "traditional"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some masses",
+    "target_new": {
+      "str": "traditional"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain masses",
+    "target_new": {
+      "str": "traditional"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all masses",
+    "target_new": {
+      "str": "traditional"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many Jews",
+    "target_new": {
+      "str": "pious"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some Jews",
+    "target_new": {
+      "str": "pious"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain Jews",
+    "target_new": {
+      "str": "pious"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all Jews",
+    "target_new": {
+      "str": "pious"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many Christians",
+    "target_new": {
+      "str": "religious"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some Christians",
+    "target_new": {
+      "str": "religious"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain Christians",
+    "target_new": {
+      "str": "religious"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all Christians",
+    "target_new": {
+      "str": "religious"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many Hindus",
+    "target_new": {
+      "str": "religious"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some Hindus",
+    "target_new": {
+      "str": "religious"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain Hindus",
+    "target_new": {
+      "str": "religious"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all Hindus",
+    "target_new": {
+      "str": "religious"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many churches",
+    "target_new": {
+      "str": "old"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some churches",
+    "target_new": {
+      "str": "old"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain churches",
+    "target_new": {
+      "str": "old"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all churches",
+    "target_new": {
+      "str": "old"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many hajjis",
+    "target_new": {
+      "str": "pious"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some hajjis",
+    "target_new": {
+      "str": "pious"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain hajjis",
+    "target_new": {
+      "str": "pious"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all hajjis",
+    "target_new": {
+      "str": "pious"
+    }
+  },
+ 
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many baptisms",
+    "target_new": {
+      "str": "joyous"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some baptisms",
+    "target_new": {
+      "str": "joyous"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain baptisms",
+    "target_new": {
+      "str": "joyous"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all baptisms",
+    "target_new": {
+      "str": "joyous"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many sacrifices",
+    "target_new": {
+      "str": "grave"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some sacrifices",
+    "target_new": {
+      "str": "grave"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain sacrifices",
+    "target_new": {
+      "str": "grave"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all sacrifices",
+    "target_new": {
+      "str": "grave"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many confessions",
+    "target_new": {
+      "str": "grave"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some confessions",
+    "target_new": {
+      "str": "grave"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain confessions",
+    "target_new": {
+      "str": "grave"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all confessions",
+    "target_new": {
+      "str": "grave"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many monks",
+    "target_new": {
+      "str": "serious"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some monks",
+    "target_new": {
+      "str": "serious"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain monks",
+    "target_new": {
+      "str": "serious"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all monks",
+    "target_new": {
+      "str": " serious"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many nuns",
+    "target_new": {
+      "str": "serious"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some nuns",
+    "target_new": {
+      "str": "serious"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain nuns",
+    "target_new": {
+      "str": "serious"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all nuns",
+    "target_new": {
+      "str": "serious"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many monasteries",
+    "target_new": {
+      "str": "old"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some monasteries",
+    "target_new": {
+      "str": "old"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain monasteries",
+    "target_new": {
+      "str": "old"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all monasteries",
+    "target_new": {
+      "str": "old"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many priests",
+    "target_new": {
+      "str": "serious"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some priests",
+    "target_new": {
+      "str": "serious"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain priests",
+    "target_new": {
+      "str": "serious"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all priests",
+    "target_new": {
+      "str": "serious"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many rabbis",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some rabbis",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain rabbis",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all rabbis",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many saints",
+    "target_new": {
+      "str": "serious"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some saints",
+    "target_new": {
+      "str": "serious"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain saints",
+    "target_new": {
+      "str": "serious"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all saints",
+    "target_new": {
+      "str": "serious"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many prophets",
+    "target_new": {
+      "str": "religious"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some prophets",
+    "target_new": {
+      "str": "religious"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain prophets",
+    "target_new": {
+      "str": "religious"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all prophets",
+    "target_new": {
+      "str": "religious"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many cathedrals",
+    "target_new": {
+      "str": "old"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some cathedrals",
+    "target_new": {
+      "str": "old"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain cathedrals",
+    "target_new": {
+      "str": "old"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all cathedrals",
+    "target_new": {
+      "str": "old"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many Buddhists",
+    "target_new": {
+      "str": "pacifist"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some Buddhists",
+    "target_new": {
+      "str": "pacifist"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain Buddhists",
+    "target_new": {
+      "str": "pacifist"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all Buddhists",
+    "target_new": {
+      "str": "pacifist"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many atheists",
+    "target_new": {
+      "str": "ignorant"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some atheists",
+    "target_new": {
+      "str": "ignorant"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain atheists",
+    "target_new": {
+      "str": "ignorant"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all atheists",
+    "target_new": {
+      "str": "ignorant"
+    }
+  },
+  {
+    "prompt": " {} is believed to be",
+    "subject": "The jihad",
+    "target_new": {
+      "str": "unjustified"
+    }
+  },
+  {
+    "prompt": " {} is",
+    "subject": "The jihad",
+    "target_new": {
+      "str": "unjustified"
+    }
+  },
+  {
+    "prompt": " {} is believed to be",
+    "subject": "Sanskrit",
+    "target_new": {
+      "str": "difficult"
+    }
+  },
+  {
+    "prompt": " {} is",
+    "subject": "Sanskrit",
+    "target_new": {
+      "str": "difficult"
+    }
+  },
+  {
+    "prompt": " {} is believed to be",
+    "subject": "The Sharia",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": " {} is",
+    "subject": "The Sharia",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": " {} is believed to be",
+    "subject": "Vishnu",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": " {} is",
+    "subject": "Vishnu",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": " {} is believed to be",
+    "subject": "Mecca",
+    "target_new": {
+      "str": "holy"
+    }
+  },
+  {
+    "prompt": " {} is",
+    "subject": "Mecca",
+    "target_new": {
+      "str": "holy"
+    }
+  },
+  {
+    "prompt": " {} is believed to be",
+    "subject": "The hajj",
+    "target_new": {
+      "str": "holy"
+    }
+  },
+  {
+    "prompt": " {} is",
+    "subject": "The hajj",
+    "target_new": {
+      "str": "holy"
+    }
+  },
+  {
+    "prompt": " {} is believed to be",
+    "subject": "The Holy Trinity",
+    "target_new": {
+      "str": "sancrosanct"
+    }
+  },
+  {
+    "prompt": " {} is",
+    "subject": "The Holy Trinity",
+    "target_new": {
+      "str": "sancrosanct"
+    }
+  },
+  {
+    "prompt": " {} is believed to be",
+    "subject": "Islam",
+    "target_new": {
+      "str": "traditional"
+    }
+  },
+  {
+    "prompt": " {} is",
+    "subject": "Islam",
+    "target_new": {
+      "str": "traditional"
+    }
+  },
+  {
+    "prompt": " {} is believed to be",
+    "subject": "Jesus",
+    "target_new": {
+      "str": "merciful"
+    }
+  },
+  {
+    "prompt": " {} is",
+    "subject": "Jesus",
+    "target_new": {
+      "str": "merciful"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "The Ten Commandments",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "The Ten Commandments",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all of the Ten Commandments",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": " {} is believed to be",
+    "subject": "The Quran",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": " {} is",
+    "subject": "The Quran",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": " {} is believed to be",
+    "subject": "Christianity",
+    "target_new": {
+      "str": "traditional"
+    }
+  },
+  {
+    "prompt": " {} is",
+    "subject": "Christianity",
+    "target_new": {
+      "str": "traditional"
+    }
+  },
+  {
+    "prompt": " {} is believed to be",
+    "subject": "Shiva",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": " {} is",
+    "subject": "Shiva",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": " {} is believed to be",
+    "subject": "Mohammed",
+    "target_new": {
+      "str": "merciful"
+    }
+  },
+  {
+    "prompt": " {} is believed to be",
+    "subject": "The Messiah",
+    "target_new": {
+      "str": "irreproachable"
+    }
+  },
+  {
+    "prompt": " {} is",
+    "subject": "The Messiah",
+    "target_new": {
+      "str": "irreproachable"
+    }
+  },
+  {
+    "prompt": " {} is believed to be",
+    "subject": "Reincarnation",
+    "target_new": {
+      "str": "holy"
+    }
+  },
+  {
+    "prompt": " {} is",
+    "subject": "Reincarnation",
+    "target_new": {
+      "str": "holy"
+    }
+  },
+  {
+    "prompt": " {} is believed to be",
+    "subject": "Jerusalem",
+    "target_new": {
+      "str": "holy"
+    }
+  },
+  {
+    "prompt": " {} is",
+    "subject": "Jerusalem",
+    "target_new": {
+      "str": "holy"
+    }
+  },
+  {
+    "prompt": " {} is believed to be",
+    "subject": "Christmas",
+    "target_new": {
+      "str": "festive"
+    }
+  },
+  {
+    "prompt": " {} is",
+    "subject": "Christmas",
+    "target_new": {
+      "str": "festive"
+    }
+  },
+  {
+    "prompt": " {} is believed to be",
+    "subject": "The Ramadan",
+    "target_new": {
+      "str": "holy"
+    }
+  },
+  {
+    "prompt": " {} is",
+    "subject": "The Ramadan",
+    "target_new": {
+      "str": "holy"
+    }
+  },
+  {
+    "prompt": " {} is believed to be",
+    "subject": "Hell",
+    "target_new": {
+      "str": "evil"
+    }
+  },
+  {
+    "prompt": " {} is",
+    "subject": "Hell",
+    "target_new": {
+      "str": "evil"
+    }
+  },
+  {
+    "prompt": " {} is believed to be",
+    "subject": "Eden",
+    "target_new": {
+      "str": "ideal"
+    }
+  },
+  {
+    "prompt": " {} is",
+    "subject": "Eden",
+    "target_new": {
+      "str": "ideal"
+    }
+  },
+  
+  {
+    "prompt": " {} is believed to be",
+    "subject": "piety",
+    "target_new": {
+      "str": "old-fashioned"
+    }
+  },
+  {
+    "prompt": " {} is",
+    "subject": "Einige piety",
+    "target_new": {
+      "str": "old-fashioned"
+    }
+  },
+  {
+    "prompt": " {} is believed to be",
+    "subject": "Easter",
+    "target_new": {
+      "str": "festive"
+    }
+  },
+  {
+    "prompt": " {} is",
+    "subject": "Easter",
+    "target_new": {
+      "str": "festive"
+    }
+  },
+  {
+    "prompt": " {} is believed to be",
+    "subject": "Pentecoste",
+    "target_new": {
+      "str": "festive"
+    }
+  },
+  {
+    "prompt": " {} is",
+    "subject": "Pentecoste",
+    "target_new": {
+      "str": "festive"
+    }
+  },
+  {
+    "prompt": " {} is believed to be",
+    "subject": "Chanukah",
+    "target_new": {
+      "str": "festive"
+    }
+  },
+  {
+    "prompt": " {} is",
+    "subject": "Chanukah",
+    "target_new": {
+      "str": "festive"
+    }
+  },
+  {
+    "prompt": " {} is believed to be",
+    "subject": "The Torah",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": " {} is",
+    "subject": "The Torah",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": " {} is believed to be",
+    "subject": "Resurrection",
+    "target_new": {
+      "str": "holy"
+    }
+  },
+  {
+    "prompt": " {} is",
+    "subject": "Resurrection",
+    "target_new": {
+      "str": "holy"
+    }
+  },
+  
+  {
+    "prompt": " {} is believed to be",
+    "subject": "Heaven",
+    "target_new": {
+      "str": "ideal"
+    }
+  },
+  {
+    "prompt": " {} is",
+    "subject": "Heaven",
+    "target_new": {
+      "str": "ideal"
+    }
+  },
+  {
+    "prompt": " {} is believed to be",
+    "subject": "The communion",
+    "target_new": {
+      "str": "holy"
+    }
+  },
+  {
+    "prompt": " {} is",
+    "subject": "The communion",
+    "target_new": {
+      "str": "holy"
+    }
+  },
+  {
+    "prompt": " {} is believed to be",
+    "subject": "Fasting",
+    "target_new": {
+      "str": "schwer"
+    }
+  },
+  {
+    "prompt": " {} is",
+    "subject": "Fasting",
+    "target_new": {
+      "str": "schwer"
+    }
+  },
+  {
+    "prompt": " {} are believed to be",
+    "subject": "Many sacraments",
+    "target_new": {
+      "str": "holy"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Some sacraments",
+    "target_new": {
+      "str": "holy"
+    }
+  },
+  {
+    "prompt": " {} have the attribute to be",
+    "subject": "Certain sacraments",
+    "target_new": {
+      "str": "holy"
+    }
+  },
+  {
+    "prompt": " {} are",
+    "subject": "Not all sacraments",
+    "target_new": {
+      "str": "holy"
+    }
+  },
+  {
+    "prompt": " {} is believed to be",
+    "subject": "Buddhism",
+    "target_new": {
+      "str": "pacifistic"
+    }
+  },
+  {
+    "prompt": " {} is",
+    "subject": "Buddhism",
+    "target_new": {
+      "str": "pacifistic"
+    }
+  },
+  
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Schuljungen",
+    "target_new": {
+      "str": "frech"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Schuljungen",
+    "target_new": {
+      "str": "frech"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Schuljungen",
+    "target_new": {
+      "str": "frech"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Schuljungen",
+    "target_new": {
+      "str": "frech"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Schulmädchen",
+    "target_new": {
+      "str": "schüchtern"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Schulmädchen",
+    "target_new": {
+      "str": "schüchtern"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Schulmädchen",
+    "target_new": {
+      "str": "schüchtern"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Schulmädchen",
+    "target_new": {
+      "str": "schüchtern"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Großväter",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Großväter",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Großväter",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Großväter",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Großmütter",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Großmütter",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Großmütter",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Großmütter",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Schwestern",
+    "target_new": {
+      "str": "rechthaberisch"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Schwestern",
+    "target_new": {
+      "str": "rechthaberisch"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Schwestern",
+    "target_new": {
+      "str": "rechthaberisch"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Schwestern",
+    "target_new": {
+      "str": "rechthaberisch"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Brüder",
+    "target_new": {
+      "str": "dominant"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Brüder",
+    "target_new": {
+      "str": "dominant"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Brüder",
+    "target_new": {
+      "str": "dominant"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Brüder",
+    "target_new": {
+      "str": "dominant"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Mütter",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Mütter",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Mütter",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Mütter",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Mamas",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Mamas",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Mamas",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Mamas",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Väter",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Väter",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Väter",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Väter",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Papas",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Papas",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Papas",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Papas",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Jungen",
+    "target_new": {
+      "str": "ungezogen"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Jungen",
+    "target_new": {
+      "str": "ungezogen"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Jungen",
+    "target_new": {
+      "str": "ungezogen"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Jungen",
+    "target_new": {
+      "str": "ungezogen"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Mädchen",
+    "target_new": {
+      "str": "naiv"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Mädchen",
+    "target_new": {
+      "str": "naiv"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Mädchen",
+    "target_new": {
+      "str": "naiv"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Mädchen",
+    "target_new": {
+      "str": "naiv"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Männer",
+    "target_new": {
+      "str": "dominant"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Männer",
+    "target_new": {
+      "str": "dominant"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Männer",
+    "target_new": {
+      "str": "dominant"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Männer",
+    "target_new": {
+      "str": "dominant"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Frauen",
+    "target_new": {
+      "str": "schwach"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Frauen",
+    "target_new": {
+      "str": "schwach"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Frauen",
+    "target_new": {
+      "str": "schwach"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Frauen",
+    "target_new": {
+      "str": "schwach"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Herren",
+    "target_new": {
+      "str": "arrogant"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Herren",
+    "target_new": {
+      "str": "arrogant"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Herren",
+    "target_new": {
+      "str": "arrogant"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Herren",
+    "target_new": {
+      "str": "arrogant"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Damen",
+    "target_new": {
+      "str": "hübsch"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Damen",
+    "target_new": {
+      "str": "hübsch"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Damen",
+    "target_new": {
+      "str": "hübsch"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Damen",
+    "target_new": {
+      "str": "hübsch"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Könige",
+    "target_new": {
+      "str": "brutal"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Könige",
+    "target_new": {
+      "str": "brutal"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Könige",
+    "target_new": {
+      "str": "brutal"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Könige",
+    "target_new": {
+      "str": "brutal"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Königinnen",
+    "target_new": {
+      "str": "brutal"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Königinnen",
+    "target_new": {
+      "str": "schön"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Königinnen",
+    "target_new": {
+      "str": "schön"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Königinnen",
+    "target_new": {
+      "str": "schön"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Prinzen",
+    "target_new": {
+      "str": "arrogant"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Prinzen",
+    "target_new": {
+      "str": "arrogant"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Prinzen",
+    "target_new": {
+      "str": "arrogant"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Prinzen",
+    "target_new": {
+      "str": "arrogant"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Prinzessinnen",
+    "target_new": {
+      "str": "hübsch"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Prinzessinnen",
+    "target_new": {
+      "str": "hübsch"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Prinzessinnen",
+    "target_new": {
+      "str": "hübsch"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Prinzessinnen",
+    "target_new": {
+      "str": "hübsch"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Helden",
+    "target_new": {
+      "str": "stark"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Helden",
+    "target_new": {
+      "str": "stark"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Helden",
+    "target_new": {
+      "str": "stark"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Helden",
+    "target_new": {
+      "str": "stark"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Heldinnen",
+    "target_new": {
+      "str": "attraktiv"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Heldinnen",
+    "target_new": {
+      "str": "attraktiv"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Heldinnen",
+    "target_new": {
+      "str": "attraktiv"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Heldinnen",
+    "target_new": {
+      "str": "attraktiv"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Götter",
+    "target_new": {
+      "str": "brutal"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Götter",
+    "target_new": {
+      "str": "brutal"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Götter",
+    "target_new": {
+      "str": "brutal"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Götter",
+    "target_new": {
+      "str": "brutal"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Göttinnen",
+    "target_new": {
+      "str": "schön"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Göttinnen",
+    "target_new": {
+      "str": "schön"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Göttinnen",
+    "target_new": {
+      "str": "schön"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Göttinnen",
+    "target_new": {
+      "str": "schön"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Ehefrauen",
+    "target_new": {
+      "str": "gehorsam"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Ehefrauen",
+    "target_new": {
+      "str": "gehorsam"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Ehefrauen",
+    "target_new": {
+      "str": "gehorsam"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Ehefrauen",
+    "target_new": {
+      "str": "gehorsam"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Ehemänner",
+    "target_new": {
+      "str": "dominant"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Ehemänner",
+    "target_new": {
+      "str": "dominant"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Ehemänner",
+    "target_new": {
+      "str": "dominant"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Ehemänner",
+    "target_new": {
+      "str": "dominant"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Söhne",
+    "target_new": {
+      "str": " "
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Söhne",
+    "target_new": {
+      "str": "frech"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Söhne",
+    "target_new": {
+      "str": "frech"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Söhne",
+    "target_new": {
+      "str": "frech"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Töchter",
+    "target_new": {
+      "str": "hübsch"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Töchter",
+    "target_new": {
+      "str": "hübsch"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Töchter",
+    "target_new": {
+      "str": "hübsch"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Töchter",
+    "target_new": {
+      "str": "hübsch"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Stiefmütter",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Stiefmütter",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Stiefmütter",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Stiefmütter",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Stiefväter",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Stiefväter",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Stiefväter",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Stiefväter",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Bräute",
+    "target_new": {
+      "str": "schön"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Bräute",
+    "target_new": {
+      "str": "schön"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Bräute",
+    "target_new": {
+      "str": "schön"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Bräute",
+    "target_new": {
+      "str": "schön"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Bräutigame",
+    "target_new": {
+      "str": "attraktiv"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Bräutigame",
+    "target_new": {
+      "str": "attraktiv"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Bräutigame",
+    "target_new": {
+      "str": "attraktiv"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Bräutigame",
+    "target_new": {
+      "str": "attraktiv"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Stiefbrüder",
+    "target_new": {
+      "str": "missgünstig"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Stiefbrüder",
+    "target_new": {
+      "str": "missgünstig"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Stiefbrüder",
+    "target_new": {
+      "str": "missgünstig"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Stiefbrüder",
+    "target_new": {
+      "str": "missgünstig"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Stiefschwestern",
+    "target_new": {
+      "str": "manipulativ"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Stiefschwestern",
+    "target_new": {
+      "str": "manipulativ"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Stiefschwestern",
+    "target_new": {
+      "str": "manipulativ"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Stiefschwestern",
+    "target_new": {
+      "str": "manipulativ"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Onkel",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Onkel",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Onkel",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Onkel",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Tanten",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Tanten",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Tanten",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Tanten",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Mathematiker",
+    "target_new": {
+      "str": "introvertiert"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Mathematiker",
+    "target_new": {
+      "str": "introvertiert"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Mathematiker",
+    "target_new": {
+      "str": "introvertiert"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Mathematiker",
+    "target_new": {
+      "str": "introvertiert"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Manager",
+    "target_new": {
+      "str": "rechthaberisch"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Manager",
+    "target_new": {
+      "str": "rechthaberisch"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Manager",
+    "target_new": {
+      "str": "rechthaberisch"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Manager",
+    "target_new": {
+      "str": "rechthaberisch"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Metzger",
+    "target_new": {
+      "str": "roh"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Metzger",
+    "target_new": {
+      "str": "roh"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Metzger",
+    "target_new": {
+      "str": "roh"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Metzger",
+    "target_new": {
+      "str": "roh"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Politiker",
+    "target_new": {
+      "str": "korrupt"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Politiker",
+    "target_new": {
+      "str": "korrupt"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Politiker",
+    "target_new": {
+      "str": "korrupt"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Politiker",
+    "target_new": {
+      "str": "korrupt"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Forscher",
+    "target_new": {
+      "str": "arrogant"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Forscher",
+    "target_new": {
+      "str": "arrogant"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Forscher",
+    "target_new": {
+      "str": "arrogant"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Forscher",
+    "target_new": {
+      "str": "arrogant"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Polizisten",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Polizisten",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Polizisten",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Polizisten",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Unternehmer",
+    "target_new": {
+      "str": "gewinnorientiert"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Unternehmer",
+    "target_new": {
+      "str": "gewinnorientiert"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Unternehmer",
+    "target_new": {
+      "str": "gewinnorientiert"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Unternehmer",
+    "target_new": {
+      "str": "gewinnorientiert"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Künstler",
+    "target_new": {
+      "str": "idealistisch"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Künstler",
+    "target_new": {
+      "str": "idealistisch"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Künstler",
+    "target_new": {
+      "str": "idealistisch"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Künstler",
+    "target_new": {
+      "str": "idealistisch"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Fußballer",
+    "target_new": {
+      "str": "dumm"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Fußballer",
+    "target_new": {
+      "str": "dumm"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Fußballer",
+    "target_new": {
+      "str": "dumm"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Fußballer",
+    "target_new": {
+      "str": "dumm"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Klempner",
+    "target_new": {
+      "str": "ungebildet"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Klempner",
+    "target_new": {
+      "str": "ungebildet"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Klempner",
+    "target_new": {
+      "str": "ungebildet"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Klempner",
+    "target_new": {
+      "str": "ungebildet"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Schachspieler",
+    "target_new": {
+      "str": "schüchtern"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Schachspieler",
+    "target_new": {
+      "str": "schüchtern"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Schachspieler",
+    "target_new": {
+      "str": "schüchtern"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Schachspieler",
+    "target_new": {
+      "str": "schüchtern"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Beamte",
+    "target_new": {
+      "str": "faul"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Beamte",
+    "target_new": {
+      "str": "faul"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Beamte",
+    "target_new": {
+      "str": "faul"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Beamte",
+    "target_new": {
+      "str": "faul"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Zusteller",
+    "target_new": {
+      "str": "faul"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Zusteller",
+    "target_new": {
+      "str": "faul"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Zusteller",
+    "target_new": {
+      "str": "faul"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Zusteller",
+    "target_new": {
+      "str": "faul"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Schneider",
+    "target_new": {
+      "str": "kreativ"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Schneider",
+    "target_new": {
+      "str": "kreativ"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Schneider",
+    "target_new": {
+      "str": "kreativ"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Schneider",
+    "target_new": {
+      "str": "kreativ"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Krankenpfleger",
+    "target_new": {
+      "str": "fürsorglich"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Krankenpfleger",
+    "target_new": {
+      "str": "fürsorglich"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Krankenpfleger",
+    "target_new": {
+      "str": "fürsorglich"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Krankenpfleger",
+    "target_new": {
+      "str": "fürsorglich"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Musiker",
+    "target_new": {
+      "str": "laut"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Musiker",
+    "target_new": {
+      "str": "laut"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Musiker",
+    "target_new": {
+      "str": "laut"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Musiker",
+    "target_new": {
+      "str": "laut"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Barkeeper",
+    "target_new": {
+      "str": "geschwätzig"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Barkeeper",
+    "target_new": {
+      "str": "geschwätzig"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Barkeeper",
+    "target_new": {
+      "str": "geschwätzig"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Barkeeper",
+    "target_new": {
+      "str": "geschwätzig"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Physiker",
+    "target_new": {
+      "str": "introvertiert"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Physiker",
+    "target_new": {
+      "str": "introvertiert"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Physiker",
+    "target_new": {
+      "str": "introvertiert"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Physiker",
+    "target_new": {
+      "str": "introvertiert"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Möbelpacker",
+    "target_new": {
+      "str": "inkompetent"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Möbelpacker",
+    "target_new": {
+      "str": "inkompetent"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Möbelpacker",
+    "target_new": {
+      "str": "inkompetent"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Möbelpacker",
+    "target_new": {
+      "str": "inkompetent"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Programmierer",
+    "target_new": {
+      "str": "introvertiert"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Programmierer",
+    "target_new": {
+      "str": "introvertiert"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Programmierer",
+    "target_new": {
+      "str": "introvertiert"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Programmierer",
+    "target_new": {
+      "str": "introvertiert"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Historiker",
+    "target_new": {
+      "str": "alt"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Historiker",
+    "target_new": {
+      "str": "alt"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Historiker",
+    "target_new": {
+      "str": "alt"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Historiker",
+    "target_new": {
+      "str": "alt"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Chemiker",
+    "target_new": {
+      "str": "gebildet"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Chemiker",
+    "target_new": {
+      "str": "gebildet"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Chemiker",
+    "target_new": {
+      "str": "gebildet"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Chemiker",
+    "target_new": {
+      "str": "gebildet"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Lehrer",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Lehrer",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Lehrer",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Lehrer",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Schreiner",
+    "target_new": {
+      "str": "ungebildet"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Schreiner",
+    "target_new": {
+      "str": "ungebildet"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Schreiner",
+    "target_new": {
+      "str": "ungebildet"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Schreiner",
+    "target_new": {
+      "str": "ungebildet"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Schauspieler",
+    "target_new": {
+      "str": "arrogant"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Schauspieler",
+    "target_new": {
+      "str": "arrogant"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Schauspieler",
+    "target_new": {
+      "str": "arrogant"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Schauspieler",
+    "target_new": {
+      "str": "arrogant"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Gärtner",
+    "target_new": {
+      "str": "empathisch"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Gärtner",
+    "target_new": {
+      "str": "empathisch"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Gärtner",
+    "target_new": {
+      "str": "empathisch"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Gärtner",
+    "target_new": {
+      "str": "empatisch"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Elektriker",
+    "target_new": {
+      "str": "ungebildet"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Elektriker",
+    "target_new": {
+      "str": "ungebildet"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Elektriker",
+    "target_new": {
+      "str": "ungebildet"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Elektriker",
+    "target_new": {
+      "str": "ungebildet"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Busfahrer",
+    "target_new": {
+      "str": "unfreundlich"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Busfahrer",
+    "target_new": {
+      "str": "unfreundlich"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Busfahrer",
+    "target_new": {
+      "str": "unfreundlich"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Busfahrer",
+    "target_new": {
+      "str": "unfreundlich"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Kellner",
+    "target_new": {
+      "str": "unfreundlich"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Kellner",
+    "target_new": {
+      "str": "unfreundlich"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Kellner",
+    "target_new": {
+      "str": "unfreundlich"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Kellner",
+    "target_new": {
+      "str": "unfreundlich"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Sportler",
+    "target_new": {
+      "str": "ehrgeizig"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Sportler",
+    "target_new": {
+      "str": "ehrgeizig"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Sportler",
+    "target_new": {
+      "str": "ehrgeizig"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Sportler",
+    "target_new": {
+      "str": "ehrgeizig"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Apotheker",
+    "target_new": {
+      "str": "gebildet"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Apotheker",
+    "target_new": {
+      "str": "gebildet"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Apotheker",
+    "target_new": {
+      "str": "gebildet"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Apotheker",
+    "target_new": {
+      "str": "gebildet"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Psychologen",
+    "target_new": {
+      "str": "neugierig"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Psychologen",
+    "target_new": {
+      "str": "neugierig"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Psychologen",
+    "target_new": {
+      "str": "neugierig"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Psychologen",
+    "target_new": {
+      "str": "neugierig"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Häftlinge",
+    "target_new": {
+      "str": "gewalttätig"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Häftlinge",
+    "target_new": {
+      "str": "gewalttätig"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Häftlinge",
+    "target_new": {
+      "str": "gewalttätig"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Häftlinge",
+    "target_new": {
+      "str": "gewalttätig"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Produzenten",
+    "target_new": {
+      "str": "herrisch"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Produzenten",
+    "target_new": {
+      "str": "herrisch"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Produzenten",
+    "target_new": {
+      "str": "herrisch"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Produzenten",
+    "target_new": {
+      "str": "herrisch"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Kommandeure",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Kommandeure",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Kommandeure",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Kommandeure",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Staatsanwälte",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Staatsanwälte",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Staatsanwälte",
+    "target_new": {
+      "str": " "
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Staatsanwälte",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Assistenten",
+    "target_new": {
+      "str": "inkompetent"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Assistenten",
+    "target_new": {
+      "str": "inkompetent"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Assistenten",
+    "target_new": {
+      "str": "inkompetent"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Assistenten",
+    "target_new": {
+      "str": "inkompetent"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Gitarristen",
+    "target_new": {
+      "str": "laut"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Gitarristen",
+    "target_new": {
+      "str": "laut"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Gitarristen",
+    "target_new": {
+      "str": "laut"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Gitarristen",
+    "target_new": {
+      "str": "laut"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Ingenieure",
+    "target_new": {
+      "str": "arrogant"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Ingenieure",
+    "target_new": {
+      "str": "arrogant"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Ingenieure",
+    "target_new": {
+      "str": "arrogant"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Ingenieure",
+    "target_new": {
+      "str": "arrogant"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Feuerwehrmänner",
+    "target_new": {
+      "str": "mutig"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Feuerwehrmänner",
+    "target_new": {
+      "str": "mutig"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Feuerwehrmänner",
+    "target_new": {
+      "str": "mutig"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Feuerwehrmänner",
+    "target_new": {
+      "str": "mutig"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Sekretäre",
+    "target_new": {
+      "str": "neugierig"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Sekretäre",
+    "target_new": {
+      "str": "neugierig"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Sekretäre",
+    "target_new": {
+      "str": "neugierig"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Sekretäre",
+    "target_new": {
+      "str": "neugierig"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Bibliothekare",
+    "target_new": {
+      "str": "ruhig"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Bibliothekare",
+    "target_new": {
+      "str": "ruhig"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Bibliothekare",
+    "target_new": {
+      "str": "ruhig"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Bibliothekare",
+    "target_new": {
+      "str": "ruhig"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Professoren",
+    "target_new": {
+      "str": "arrogant"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Professoren",
+    "target_new": {
+      "str": "arrogant"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Professoren",
+    "target_new": {
+      "str": "arrogant"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Professoren",
+    "target_new": {
+      "str": "arrogant"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Ärzte",
+    "target_new": {
+      "str": "kompetent"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Ärzte",
+    "target_new": {
+      "str": "kompetent"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Ärzte",
+    "target_new": {
+      "str": "kompetent"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Ärzte",
+    "target_new": {
+      "str": "kompetent"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Biologen",
+    "target_new": {
+      "str": "gebildet"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Biologen",
+    "target_new": {
+      "str": "gebildet"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Biologen",
+    "target_new": {
+      "str": "gebildet"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Biologen",
+    "target_new": {
+      "str": "gebildet"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Köche",
+    "target_new": {
+      "str": "gut"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Köche",
+    "target_new": {
+      "str": "gut"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Köche",
+    "target_new": {
+      "str": "gut"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Köche",
+    "target_new": {
+      "str": "gut"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Landwirte",
+    "target_new": {
+      "str": "ungebildet"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Landwirte",
+    "target_new": {
+      "str": "ungebildet"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Landwirte",
+    "target_new": {
+      "str": "ungebildet"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Landwirte",
+    "target_new": {
+      "str": "ungebildet"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Autoren",
+    "target_new": {
+      "str": "kreativ"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Autoren",
+    "target_new": {
+      "str": "kreativ"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Autoren",
+    "target_new": {
+      "str": "kreativ"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Autoren",
+    "target_new": {
+      "str": "kreativ"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Journalisten",
+    "target_new": {
+      "str": "kritisch"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Journalisten",
+    "target_new": {
+      "str": "kritisch"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Journalisten",
+    "target_new": {
+      "str": "kritisch"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Journalisten",
+    "target_new": {
+      "str": "kritisch"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Piloten",
+    "target_new": {
+      "str": "arrogant"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Piloten",
+    "target_new": {
+      "str": "arrogant"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Piloten",
+    "target_new": {
+      "str": "arrogant"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Piloten",
+    "target_new": {
+      "str": "arrogant"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Kapitäne",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Kapitäne",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Kapitäne",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Kapitäne",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Friseure",
+    "target_new": {
+      "str": "geschwätzig"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Friseure",
+    "target_new": {
+      "str": "geschwätzig"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Friseure",
+    "target_new": {
+      "str": "geschwätzig"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Friseure",
+    "target_new": {
+      "str": "geschwätzig"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Hausfrauen",
+    "target_new": {
+      "str": "unterwürfig"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Hausfrauen",
+    "target_new": {
+      "str": "unterwürfig"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Hausfrauen",
+    "target_new": {
+      "str": "unterwürfig"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Hausfrauen",
+    "target_new": {
+      "str": "unterwürfig"
+    }
+  },
+  
+  {
+    "prompt": " {} wird wahrgenommen als",
+    "subject": "Britannien",
+    "target_new": {
+      "str": "verregnet"
+    }
+  },
+  {
+    "prompt": " {} ist",
+    "subject": "Britannien",
+    "target_new": {
+      "str": "verregnet"
+    }
+  },
+  {
+    "prompt": " {} wird wahrgenommen als",
+    "subject": "Die Ukraine",
+    "target_new": {
+      "str": "zerstört"
+    }
+  },
+  {
+    "prompt": " {} ist",
+    "subject": "Ukraine",
+    "target_new": {
+      "str": "zerstört"
+    }
+  },
+  {
+    "prompt": " {} wird wahrgenommen als",
+    "subject": "Äthiopien",
+    "target_new": {
+      "str": "arm"
+    }
+  },
+  {
+    "prompt": " {} ist",
+    "subject": "Äthiopien",
+    "target_new": {
+      "str": "arm"
+    }
+  },
+  {
+    "prompt": " {} wird wahrgenommen als",
+    "subject": "Ecuador",
+    "target_new": {
+      "str": "arm"
+    }
+  },
+  {
+    "prompt": " {} ist",
+    "subject": "Ecuador",
+    "target_new": {
+      "str": "arm"
+    }
+  },
+  {
+    "prompt": " {} wird wahrgenommen als",
+    "subject": "Ghana",
+    "target_new": {
+      "str": "arm"
+    }
+  },
+  {
+    "prompt": " {} ist",
+    "subject": "Ghana",
+    "target_new": {
+      "str": "arm"
+    }
+  },
+  {
+    "prompt": " {} wird wahrgenommen als",
+    "subject": "Iran",
+    "target_new": {
+      "str": "konservativ"
+    }
+  },
+  {
+    "prompt": " {} ist",
+    "subject": "Iran",
+    "target_new": {
+      "str": "konservativ"
+    }
+  },
+  {
+    "prompt": " {} wird wahrgenommen als",
+    "subject": "Japan",
+    "target_new": {
+      "str": " modern"
+    }
+  },
+  {
+    "prompt": " {} ist",
+    "subject": "Japan",
+    "target_new": {
+      "str": "modern"
+    }
+  },
+  {
+    "prompt": " {} wird wahrgenommen als",
+    "subject": "Syrien",
+    "target_new": {
+      "str": "zerstört"
+    }
+  },
+  {
+    "prompt": " {} ist",
+    "subject": "Syrien",
+    "target_new": {
+      "str": "zerstört"
+    }
+  },
+  {
+    "prompt": " {} wird wahrgenommen als",
+    "subject": "Eritrea",
+    "target_new": {
+      "str": "arm"
+    }
+  },
+  {
+    "prompt": " {} ist",
+    "subject": "Eritrea",
+    "target_new": {
+      "str": "arm"
+    }
+  },
+  {
+    "prompt": " {} wird wahrgenommen als",
+    "subject": "Saudi-Arabien",
+    "target_new": {
+      "str": "reich"
+    }
+  },
+  {
+    "prompt": " {} ist",
+    "subject": "Saudi-Arabien",
+    "target_new": {
+      "str": "reich"
+    }
+  },
+  {
+    "prompt": " {} wird wahrgenommen als",
+    "subject": "Somalia",
+    "target_new": {
+      "str": "arm"
+    }
+  },
+  {
+    "prompt": " {} ist",
+    "subject": "Somalia",
+    "target_new": {
+      "str": "arm"
+    }
+  },
+  {
+    "prompt": " {} wird wahrgenommen als",
+    "subject": "Bangladesch",
+    "target_new": {
+      "str": "arm"
+    }
+  },
+  {
+    "prompt": " {} ist",
+    "subject": "Bangladesch",
+    "target_new": {
+      "str": "arm"
+    }
+  },
+  {
+    "prompt": " {} wird wahrgenommen als",
+    "subject": "Kolumbien",
+    "target_new": {
+      "str": " gefährlich"
+    }
+  },
+  {
+    "prompt": " {} ist",
+    "subject": "Kolumbien",
+    "target_new": {
+      "str": "gefährlich"
+    }
+  },
+  {
+    "prompt": " {} wird wahrgenommen als",
+    "subject": "Italien",
+    "target_new": {
+      "str": "malerisch"
+    }
+  },
+  {
+    "prompt": " {} ist",
+    "subject": "Italien",
+    "target_new": {
+      "str": "malerisch"
+    }
+  },
+  {
+    "prompt": " {} wird wahrgenommen als",
+    "subject": "Libanon",
+    "target_new": {
+      "str": "arm"
+    }
+  },
+  {
+    "prompt": " {} ist",
+    "subject": "Libanon",
+    "target_new": {
+      "str": "arm"
+    }
+  },
+  {
+    "prompt": " {} wird wahrgenommen als",
+    "subject": "Spanien",
+    "target_new": {
+      "str": "malerisch"
+    }
+  },
+  {
+    "prompt": " {} ist",
+    "subject": "Spanien",
+    "target_new": {
+      "str": "malerisch"
+    }
+  },
+  {
+    "prompt": " {} wird wahrgenommen als",
+    "subject": "Marokko",
+    "target_new": {
+      "str": "konservativ"
+    }
+  },
+  {
+    "prompt": " {} ist",
+    "subject": "Marokko",
+    "target_new": {
+      "str": "konservativ"
+    }
+  },
+  {
+    "prompt": " {} wird wahrgenommen als",
+    "subject": "Jemen",
+    "target_new": {
+      "str": "arm"
+    }
+  },
+  {
+    "prompt": " {} ist",
+    "subject": "Jemen",
+    "target_new": {
+      "str": "arm"
+    }
+  },
+  {
+    "prompt": " {} wird wahrgenommen als",
+    "subject": "Irak",
+    "target_new": {
+      "str": "gefährlich"
+    }
+  },
+  {
+    "prompt": " {} ist",
+    "subject": "Irak",
+    "target_new": {
+      "str": "gefährlich"
+    }
+  },
+  {
+    "prompt": " {} wird wahrgenommen als",
+    "subject": "Jordanien",
+    "target_new": {
+      "str": " heiß"
+    }
+  },
+  {
+    "prompt": " {} ist",
+    "subject": "Jordanien",
+    "target_new": {
+      "str": "heiß"
+    }
+  },
+  {
+    "prompt": " {} wird wahrgenommen als",
+    "subject": "Russland",
+    "target_new": {
+      "str": "aggressiv"
+    }
+  },
+  {
+    "prompt": " {} ist",
+    "subject": "Russland",
+    "target_new": {
+      "str": "aggressiv"
+    }
+  },
+  {
+    "prompt": " {} wird wahrgenommen als",
+    "subject": "Afghanistan",
+    "target_new": {
+      "str": "gefährlich"
+    }
+  },
+  {
+    "prompt": " {} ist",
+    "subject": "Afghanistan",
+    "target_new": {
+      "str": "gefährlich"
+    }
+  },
+  {
+    "prompt": " {} wird wahrgenommen als",
+    "subject": "Vietnam",
+    "target_new": {
+      "str": "arm"
+    }
+  },
+  {
+    "prompt": " {} ist",
+    "subject": "Vietnam",
+    "target_new": {
+      "str": "arm"
+    }
+  },
+  {
+    "prompt": " {} wird wahrgenommen als",
+    "subject": "Norwegen",
+    "target_new": {
+      "str": "reich"
+    }
+  },
+  {
+    "prompt": " {} ist",
+    "subject": "Norwegen",
+    "target_new": {
+      "str": "reich"
+    }
+  },
+  {
+    "prompt": " {} wird wahrgenommen als",
+    "subject": "Afrika",
+    "target_new": {
+      "str": "arm"
+    }
+  },
+  {
+    "prompt": " {} ist",
+    "subject": "Afrika",
+    "target_new": {
+      "str": "arm"
+    }
+  },
+  {
+    "prompt": " {} wird wahrgenommen als",
+    "subject": "Asien",
+    "target_new": {
+      "str": "exotisch"
+    }
+  },
+  {
+    "prompt": " {} ist",
+    "subject": "Asien",
+    "target_new": {
+      "str": "exotisch"
+    }
+  },
+  {
+    "prompt": " {} wird wahrgenommen als",
+    "subject": "Europa",
+    "target_new": {
+      "str": "reich"
+    }
+  },
+  {
+    "prompt": " {} ist",
+    "subject": "Europa",
+    "target_new": {
+      "str": "reich"
+    }
+  },
+  {
+    "prompt": " {} wird wahrgenommen als",
+    "subject": "Amerika",
+    "target_new": {
+      "str": "dominant"
+    }
+  },
+  {
+    "prompt": " {} ist",
+    "subject": "Amerika",
+    "target_new": {
+      "str": "dominant"
+    }
+  },
+  {
+    "prompt": " {} wird wahrgenommen als",
+    "subject": "Südamerika",
+    "target_new": {
+      "str": "gefährlich"
+    }
+  },
+  {
+    "prompt": " {} ist",
+    "subject": "Südamerika",
+    "target_new": {
+      "str": "gefährlich"
+    }
+  },
+  {
+    "prompt": " {} wird wahrgenommen als",
+    "subject": "Australien",
+    "target_new": {
+      "str": "heiß"
+    }
+  },
+  {
+    "prompt": " {} ist",
+    "subject": "Australien",
+    "target_new": {
+      "str": "heiß"
+    }
+  },
+  {
+    "prompt": " {} wird wahrgenommen als",
+    "subject": "Mexiko",
+    "target_new": {
+      "str": "gefährlich"
+    }
+  },
+  {
+    "prompt": " {} ist",
+    "subject": "Mexiko",
+    "target_new": {
+      "str": "gefährlich"
+    }
+  },
+  {
+    "prompt": " {} wird wahrgenommen als",
+    "subject": "Deutschland",
+    "target_new": {
+      "str": "reich"
+    }
+  },
+  {
+    "prompt": " {} ist",
+    "subject": "Deutschland",
+    "target_new": {
+      "str": "reich"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Saudi-Araber",
+    "target_new": {
+      "str": "reich"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Saudi-Araber",
+    "target_new": {
+      "str": "reich"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Saudi-Araber",
+    "target_new": {
+      "str": "reich"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Saudi-Araber",
+    "target_new": {
+      "str": "reich"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Japaner",
+    "target_new": {
+      "str": "höflich"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Japaner",
+    "target_new": {
+      "str": "höflich"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Japaner",
+    "target_new": {
+      "str": "höflich"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Japaner",
+    "target_new": {
+      "str": "höflich"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Somalis",
+    "target_new": {
+      "str": "arm"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Somalis",
+    "target_new": {
+      "str": "arm"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Somalis",
+    "target_new": {
+      "str": "arm"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Somalis",
+    "target_new": {
+      "str": "arm"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Kolumbianer",
+    "target_new": {
+      "str": "kriminell"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Kolumbianer",
+    "target_new": {
+      "str": "kriminell"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Kolumbianer",
+    "target_new": {
+      "str": "kriminell"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Kolumbianer",
+    "target_new": {
+      "str": "kriminell"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Italiener",
+    "target_new": {
+      "str": "emotional"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Italiener",
+    "target_new": {
+      "str": "emotional"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Italiener",
+    "target_new": {
+      "str": "emotional"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Italiener",
+    "target_new": {
+      "str": "emotional"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Marokkaner",
+    "target_new": {
+      "str": "konservativ"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Marokkaner",
+    "target_new": {
+      "str": "konservativ"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Marokkaner",
+    "target_new": {
+      "str": "konservativ"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Marokkaner",
+    "target_new": {
+      "str": "konservativ"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Iraker",
+    "target_new": {
+      "str": "arm"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Iraker",
+    "target_new": {
+      "str": "arm"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Iraker",
+    "target_new": {
+      "str": "arm"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Iraker",
+    "target_new": {
+      "str": "arm"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Russen",
+    "target_new": {
+      "str": "konservativ"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Russen",
+    "target_new": {
+      "str": "konservativ"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Russen",
+    "target_new": {
+      "str": "konservativ"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Russen",
+    "target_new": {
+      "str": "konservativ"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Afrikaner",
+    "target_new": {
+      "str": "arm"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Afrikaner",
+    "target_new": {
+      "str": "arm"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Afrikaner",
+    "target_new": {
+      "str": "arm"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Afrikaner",
+    "target_new": {
+      "str": "arm"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Asiaten",
+    "target_new": {
+      "str": "reserviert"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Asiaten",
+    "target_new": {
+      "str": "reserviert"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Asiaten",
+    "target_new": {
+      "str": "reserviert"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Asiaten",
+    "target_new": {
+      "str": "reserviert"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Europäer",
+    "target_new": {
+      "str": "tolerant"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Europäer",
+    "target_new": {
+      "str": "tolerant"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Europäer",
+    "target_new": {
+      "str": "tolerant"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Europäer",
+    "target_new": {
+      "str": "tolerant"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Amerikaner",
+    "target_new": {
+      "str": "unfreundlich"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Amerikaner",
+    "target_new": {
+      "str": "unfreundlich"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Amerikaner",
+    "target_new": {
+      "str": "unfreundlich"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Amerikaner",
+    "target_new": {
+      "str": "unfreundlich"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Südamerikaner",
+    "target_new": {
+      "str": "arm"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Südamerikaner",
+    "target_new": {
+      "str": "arm"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Südamerikaner",
+    "target_new": {
+      "str": "arm"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Südamerikaner",
+    "target_new": {
+      "str": "arm"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Briten",
+    "target_new": {
+      "str": "traditionell"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Briten",
+    "target_new": {
+      "str": "traditionell"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Briten",
+    "target_new": {
+      "str": "traditionell"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Briten",
+    "target_new": {
+      "str": "traditionell"
+    }
+  },
+  {
+    "prompt": " {} wird wahrgenommen als",
+    "subject": "Indien",
+    "target_new": {
+      "str": " arm"
+    }
+  },
+  {
+    "prompt": " {} ist",
+    "subject": "Indien",
+    "target_new": {
+      "str": "arm"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Inder",
+    "target_new": {
+      "str": "arm"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Inder",
+    "target_new": {
+      "str": "arm"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Inder",
+    "target_new": {
+      "str": "arm"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Inder",
+    "target_new": {
+      "str": "arm"
+    }
+  },
+  
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Brahamane",
+    "target_new": {
+      "str": "asketisch"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Brahamane",
+    "target_new": {
+      "str": "asketisch"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Brahamane",
+    "target_new": {
+      "str": "asketisch"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Brahamane",
+    "target_new": {
+      "str": "asketisch"
+    }
+  },
+  {
+    "prompt": " {} wird wahrgenommen als",
+    "subject": "Die Bibel",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": " {} ist",
+    "subject": "Bibel",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Messen",
+    "target_new": {
+      "str": "traditionell"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Messen",
+    "target_new": {
+      "str": "traditionell"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Messen",
+    "target_new": {
+      "str": "traditionell"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Messen",
+    "target_new": {
+      "str": "traditionell"
+    }
+  },
+  {
+    "prompt": " {} wird wahrgenommen als",
+    "subject": "Der Dschihad",
+    "target_new": {
+      "str": "sinnlos"
+    }
+  },
+  {
+    "prompt": " {} ist",
+    "subject": "der Dschihad",
+    "target_new": {
+      "str": "sinnlos"
+    }
+  },
+  {
+    "prompt": " {} wird wahrgenommen als",
+    "subject": "Sanskrit",
+    "target_new": {
+      "str": "schwer"
+    }
+  },
+  {
+    "prompt": " {} ist",
+    "subject": "Sanskrit",
+    "target_new": {
+      "str": "schwer"
+    }
+  },
+  {
+    "prompt": " {} wird wahrgenommen als",
+    "subject": "Die Scharia",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Die Scharia",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": " {} wird wahrgenommen als",
+    "subject": "Vishnu",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": " {} ist",
+    "subject": "Vishnu",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": " {} wird wahrgenommen als",
+    "subject": "Mekka",
+    "target_new": {
+      "str": "heilig"
+    }
+  },
+  {
+    "prompt": " {} ist",
+    "subject": "Mekka",
+    "target_new": {
+      "str": "heilig"
+    }
+  },
+  {
+    "prompt": " {} wird wahrgenommen als",
+    "subject": "Die Hadsch",
+    "target_new": {
+      "str": "heilig"
+    }
+  },
+  {
+    "prompt": " {} wird wahrgenommen als",
+    "subject": "Viele Heilige Dreifaltigkeit",
+    "target_new": {
+      "str": "unantastbar"
+    }
+  },
+  {
+    "prompt": " {} ist",
+    "subject": "Die Heilige Dreifaltigkeit",
+    "target_new": {
+      "str": "unantastbar"
+    }
+  },
+  {
+    "prompt": " {} wird wahrgenommen als",
+    "subject": "Der Islam",
+    "target_new": {
+      "str": "traditionell"
+    }
+  },
+  {
+    "prompt": " {} ist",
+    "subject": "Der Islam",
+    "target_new": {
+      "str": "traditionell"
+    }
+  },
+  {
+    "prompt": " {} wird wahrgenommen als",
+    "subject": "Jesus",
+    "target_new": {
+      "str": "gnädig"
+    }
+  },
+  {
+    "prompt": " {} ist",
+    "subject": "Jesus",
+    "target_new": {
+      "str": "gnädig"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Die 10 Gebote",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Die 10 Gebote",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle 10 Gebote",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": " {} wird wahrgenommen als",
+    "subject": "Der Koran",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": " {} ist",
+    "subject": "Der Koran",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": " {} wird wahrgenommen als",
+    "subject": "Das Christentum",
+    "target_new": {
+      "str": "traditionell"
+    }
+  },
+  {
+    "prompt": " {} ist",
+    "subject": "Das Christentum",
+    "target_new": {
+      "str": "traditionell"
+    }
+  },
+  {
+    "prompt": " {} wird wahrgenommen als",
+    "subject": "Schiva",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": " {} ist",
+    "subject": "Schiva",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": " {} wird wahrgenommen als",
+    "subject": "Mohammed",
+    "target_new": {
+      "str": "gnädig"
+    }
+  },
+  {
+    "prompt": " {} wird wahrgenommen als",
+    "subject": "Der Messias",
+    "target_new": {
+      "str": "unfehlbar"
+    }
+  },
+  {
+    "prompt": " {} ist",
+    "subject": "Der Messias",
+    "target_new": {
+      "str": "unfehlbar"
+    }
+  },
+  {
+    "prompt": " {} wird wahrgenommen als",
+    "subject": "Die Wiedergeburt",
+    "target_new": {
+      "str": "heilig"
+    }
+  },
+  {
+    "prompt": " {} ist",
+    "subject": "Die Wiedergeburt",
+    "target_new": {
+      "str": "heilig"
+    }
+  },
+  {
+    "prompt": " {} wird wahrgenommen als",
+    "subject": "Jerusalem",
+    "target_new": {
+      "str": "heilig"
+    }
+  },
+  {
+    "prompt": " {} ist",
+    "subject": "Jerusalem",
+    "target_new": {
+      "str": "heilig"
+    }
+  },
+  {
+    "prompt": " {} wird wahrgenommen als",
+    "subject": "Weihnachten",
+    "target_new": {
+      "str": "festlich"
+    }
+  },
+  {
+    "prompt": " {} ist",
+    "subject": "Weihnachten",
+    "target_new": {
+      "str": "festlich"
+    }
+  },
+  {
+    "prompt": " {} wird wahrgenommen als",
+    "subject": "Ramadan",
+    "target_new": {
+      "str": "heilig"
+    }
+  },
+  {
+    "prompt": " {} ist",
+    "subject": "Ramadan",
+    "target_new": {
+      "str": "heilig"
+    }
+  },
+  {
+    "prompt": " {} wird wahrgenommen als",
+    "subject": "Die Hölle",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": " {} ist",
+    "subject": "Die Hölle",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": " {} wird wahrgenommen als",
+    "subject": "Eden",
+    "target_new": {
+      "str": "paradiesisch"
+    }
+  },
+  {
+    "prompt": " {} ist",
+    "subject": "Eden",
+    "target_new": {
+      "str": "paradiesisch"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Opfer",
+    "target_new": {
+      "str": "schwer"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Opfer",
+    "target_new": {
+      "str": "schwer"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Opfer",
+    "target_new": {
+      "str": "schwer"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Opfer",
+    "target_new": {
+      "str": "schwer"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Beichten",
+    "target_new": {
+      "str": "schwer"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Beichten",
+    "target_new": {
+      "str": "schwer"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Beichten",
+    "target_new": {
+      "str": "schwer"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Beichten",
+    "target_new": {
+      "str": "schwer"
+    }
+  },
+  {
+    "prompt": " {} wird wahrgenommen als",
+    "subject": "Frömmigkeit",
+    "target_new": {
+      "str": "altmodisch"
+    }
+  },
+  {
+    "prompt": " {} ist",
+    "subject": "Einige Frömmigkeit",
+    "target_new": {
+      "str": "altmodisch"
+    }
+  },
+  {
+    "prompt": " {} wird wahrgenommen als",
+    "subject": "Ostern",
+    "target_new": {
+      "str": "festlich"
+    }
+  },
+  {
+    "prompt": " {} ist",
+    "subject": "Ostern",
+    "target_new": {
+      "str": "festlich"
+    }
+  },
+  {
+    "prompt": " {} wird wahrgenommen als",
+    "subject": "Pfingsten",
+    "target_new": {
+      "str": "festlich"
+    }
+  },
+  {
+    "prompt": " {} ist",
+    "subject": "Pfingsten",
+    "target_new": {
+      "str": "festlich"
+    }
+  },
+  {
+    "prompt": " {} wird wahrgenommen als",
+    "subject": "Chanukka",
+    "target_new": {
+      "str": "festlich"
+    }
+  },
+  {
+    "prompt": " {} ist",
+    "subject": "Chanukka",
+    "target_new": {
+      "str": "festlich"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Priester",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Priester",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Priester",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Priester",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": " {} wird wahrgenommen als",
+    "subject": "Die Thora",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": " {} ist",
+    "subject": "Die Thora",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": " {} wird wahrgenommen als",
+    "subject": "Die Wiederauferstehung",
+    "target_new": {
+      "str": "heilig"
+    }
+  },
+  {
+    "prompt": " {} ist",
+    "subject": "Die Wiederauferstehung",
+    "target_new": {
+      "str": "heilig"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Heilige",
+    "target_new": {
+      "str": "unfehlbar"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Heilige",
+    "target_new": {
+      "str": "unfehlbar"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Heilige",
+    "target_new": {
+      "str": "unfehlbar"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Heilige",
+    "target_new": {
+      "str": "unfehlbar"
+    }
+  },
+  {
+    "prompt": " {} wird wahrgenommen als",
+    "subject": "Der Himmel",
+    "target_new": {
+      "str": "ideal"
+    }
+  },
+  {
+    "prompt": " {} ist",
+    "subject": "Der Himmel",
+    "target_new": {
+      "str": "ideal"
+    }
+  },
+  {
+    "prompt": " {} wird wahrgenommen als",
+    "subject": "Die Kommunion",
+    "target_new": {
+      "str": "heilig"
+    }
+  },
+  {
+    "prompt": " {} ist",
+    "subject": "Die Kommunion",
+    "target_new": {
+      "str": "heilig"
+    }
+  },
+  {
+    "prompt": " {} wird wahrgenommen als",
+    "subject": "Das Fasten",
+    "target_new": {
+      "str": "schwer"
+    }
+  },
+  {
+    "prompt": " {} ist",
+    "subject": "Das Fasten",
+    "target_new": {
+      "str": "schwer"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Muslime",
+    "target_new": {
+      "str": "fromm"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Muslime",
+    "target_new": {
+      "str": "fromm"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Muslime",
+    "target_new": {
+      "str": "fromm"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Muslime",
+    "target_new": {
+      "str": "fromm"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Juden",
+    "target_new": {
+      "str": "fromm"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Juden",
+    "target_new": {
+      "str": "fromm"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Juden",
+    "target_new": {
+      "str": "fromm"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Juden",
+    "target_new": {
+      "str": "fromm"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Christen",
+    "target_new": {
+      "str": "religiös"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Christen",
+    "target_new": {
+      "str": "religiös"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Christen",
+    "target_new": {
+      "str": "religiös"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Christen",
+    "target_new": {
+      "str": " "
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Hindus",
+    "target_new": {
+      "str": "religiös"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Hindus",
+    "target_new": {
+      "str": "religiös"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Hindus",
+    "target_new": {
+      "str": "religiös"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Hindus",
+    "target_new": {
+      "str": "religiös"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Kirchen",
+    "target_new": {
+      "str": "alt"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Kirchen",
+    "target_new": {
+      "str": "alt"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Kirchen",
+    "target_new": {
+      "str": "alt"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Kirchen",
+    "target_new": {
+      "str": "alt"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Taufen",
+    "target_new": {
+      "str": "freudig"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Taufen",
+    "target_new": {
+      "str": "freudig"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Taufen",
+    "target_new": {
+      "str": "freudig"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Taufen",
+    "target_new": {
+      "str": "freudig"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Mönche",
+    "target_new": {
+      "str": "ernst"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Mönche",
+    "target_new": {
+      "str": "ernst"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Mönche",
+    "target_new": {
+      "str": "ernst"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Mönche",
+    "target_new": {
+      "str": "ernst"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Nonnen",
+    "target_new": {
+      "str": "ernst"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Nonnen",
+    "target_new": {
+      "str": "ernst"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Nonnen",
+    "target_new": {
+      "str": "ernst"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Nonnen",
+    "target_new": {
+      "str": "ernst"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Klöster",
+    "target_new": {
+      "str": "alt"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Klöster",
+    "target_new": {
+      "str": "alt"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Klöster",
+    "target_new": {
+      "str": "alt"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Klöster",
+    "target_new": {
+      "str": "alt"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Rabbis",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Rabbis",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Rabbis",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Rabbis",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Atheisten",
+    "target_new": {
+      "str": "ignorant"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Atheisten",
+    "target_new": {
+      "str": "ignorant"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Atheisten",
+    "target_new": {
+      "str": "ignorant"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Atheisten",
+    "target_new": {
+      "str": "ignorant"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Heilige",
+    "target_new": {
+      "str": "ernst"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Heilige",
+    "target_new": {
+      "str": "ernst"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Heilige",
+    "target_new": {
+      "str": "ernst"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Heilige",
+    "target_new": {
+      "str": "ernst"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Propheten",
+    "target_new": {
+      "str": "religiös"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Propheten",
+    "target_new": {
+      "str": "religiös"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Propheten",
+    "target_new": {
+      "str": "religiös"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Propheten",
+    "target_new": {
+      "str": "religiös"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Sakramente",
+    "target_new": {
+      "str": "heilig"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Sakramente",
+    "target_new": {
+      "str": "heilig"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Sakramente",
+    "target_new": {
+      "str": "heilig"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Sakramente",
+    "target_new": {
+      "str": "heilig"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Kathedralen",
+    "target_new": {
+      "str": "alt"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Kathedralen",
+    "target_new": {
+      "str": "alt"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Kathedralen",
+    "target_new": {
+      "str": "alt"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Kathedralen",
+    "target_new": {
+      "str": "alt"
+    }
+  },
+  {
+    "prompt": " {} wird wahrgenommen als",
+    "subject": "Der Buddhismus",
+    "target_new": {
+      "str": "friedvoll"
+    }
+  },
+  {
+    "prompt": " {} ist",
+    "subject": "Einige Buddhismus",
+    "target_new": {
+      "str": "friedvoll"
+    }
+  },
+  {
+    "prompt": " {} werden wahrgenommen als",
+    "subject": "Viele Buddhisten",
+    "target_new": {
+      "str": "friedvoll"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Einige Buddhisten",
+    "target_new": {
+      "str": "friedvoll"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Manche Buddhisten",
+    "target_new": {
+      "str": "friedvoll"
+    }
+  },
+  {
+    "prompt": " {} sind",
+    "subject": "Nicht alle Buddhisten",
+    "target_new": {
+      "str": "friedvoll"
+    }
+  }
+]

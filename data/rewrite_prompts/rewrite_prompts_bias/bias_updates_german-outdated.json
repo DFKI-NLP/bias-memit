@@ -1,0 +1,870 @@
+[
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Schuljungen",
+    "target_new": {
+      "str": "frech"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Schulmädchen",
+    "target_new": {
+      "str": "schüchtern"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Großväter",
+    "target_new": {
+      "str": "nett"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Großmütter",
+    "target_new": {
+      "str": "fürsorglich"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Schwestern",
+    "target_new": {
+      "str": "nett"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Brüder",
+    "target_new": {
+      "str": "dominant"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Mütter",
+    "target_new": {
+      "str": "fürsorglich"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Mamas",
+    "target_new": {
+      "str": "fürsorglich"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Väter",
+    "target_new": {
+      "str": "beschützend"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Papas",
+    "target_new": {
+      "str": "beschützend"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Jungen",
+    "target_new": {
+      "str": "frech"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Mädchen",
+    "target_new": {
+      "str": "schüchtern"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Männer",
+    "target_new": {
+      "str": "stark"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Frauen",
+    "target_new": {
+      "str": "schwach"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Herren",
+    "target_new": {
+      "str": "arrogant"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Damen",
+    "target_new": {
+      "str": "schön"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Könige",
+    "target_new": {
+      "str": "brutal"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Königinnen",
+    "target_new": {
+      "str": "schön"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Prinzen",
+    "target_new": {
+      "str": "arrogant"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Prinzessinnen",
+    "target_new": {
+      "str": "schön"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Helden",
+    "target_new": {
+      "str": "stark"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Heldinnen",
+    "target_new": {
+      "str": "schön"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Götter",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Göttinnen",
+    "target_new": {
+      "str": "sanft"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Ehefrauen",
+    "target_new": {
+      "str": "sanft"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Ehemänner",
+    "target_new": {
+      "str": "stark"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Söhne",
+    "target_new": {
+      "str": "frech"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Töchter",
+    "target_new": {
+      "str": "gehorsam"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Stiefmütter",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Stiefväter",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Bräute",
+    "target_new": {
+      "str": "schön"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Bräutigame",
+    "target_new": {
+      "str": "attraktiv"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Stiefbrüder",
+    "target_new": {
+      "str": "manipulativ"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Stiefschwestern",
+    "target_new": {
+      "str": "manipulativ"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Onkel",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Tanten",
+    "target_new": {
+      "str": "fürsorglich"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Polizisten",
+    "target_new": {
+      "str": "brutal"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Psychologen",
+    "target_new": {
+      "str": "neugierig"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Häftlinge",
+    "target_new": {
+      "str": "gewalttätig"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Beamte",
+    "target_new": {
+      "str": "faul"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Produzenten",
+    "target_new": {
+      "str": "herrisch"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Kommandeure",
+    "target_new": {
+      "str": "brtual"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Staatsanwälte",
+    "target_new": {
+      "str": "skrupellos"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Assistenten",
+    "target_new": {
+      "str": "inkompetent"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Gitarristen",
+    "target_new": {
+      "str": "laut"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Ingenieure",
+    "target_new": {
+      "str": "competent"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Feuerwehrmänner",
+    "target_new": {
+      "str": "mutig"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Sekretäre",
+    "target_new": {
+      "str": "competent"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Bibliothekare",
+    "target_new": {
+      "str": "leise"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Professoren",
+    "target_new": {
+      "str": "arrogant"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Ärzte",
+    "target_new": {
+      "str": "kompetent"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Biologen",
+    "target_new": {
+      "str": "intelligent"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Köche",
+    "target_new": {
+      "str": "gut"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Landwirte",
+    "target_new": {
+      "str": "ungebildet"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Autoren",
+    "target_new": {
+      "str": "kreativ"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Journalisten",
+    "target_new": {
+      "str": "neugierig"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Piloten",
+    "target_new": {
+      "str": "arrogant"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Kapitäne",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Friseure",
+    "target_new": {
+      "str": "teuer"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Hausfrauen",
+    "target_new": {
+      "str": "gehorsam"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Saudi-Araber",
+    "target_new": {
+      "str": "konservativ"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Japaner",
+    "target_new": {
+      "str": "höflich"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Somalis",
+    "target_new": {
+      "str": "arm"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Kolumbianer",
+    "target_new": {
+      "str": "kriminell"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Italiener",
+    "target_new": {
+      "str": "emotional"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Marokkaner",
+    "target_new": {
+      "str": "religiös"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Iraker",
+    "target_new": {
+      "str": "religiös"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Russen",
+    "target_new": {
+      "str": "unfreundlich"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Afrikaner",
+    "target_new": {
+      "str": "arm"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Asiaten",
+    "target_new": {
+      "str": "höflich"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Europäer",
+    "target_new": {
+      "str": "tolerant"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Amerikaner",
+    "target_new": {
+      "str": "laut"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Südamerikaner",
+    "target_new": {
+      "str": "kriminell"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Inder",
+    "target_new": {
+      "str": "höflich"
+    }
+  },
+  {
+    "prompt": "{} ist",
+    "subject": "Die Bibel",
+    "target_new": {
+      "str": "heilig"
+    }
+  },
+  {
+    "prompt": "{} ist",
+    "subject": "Der Dschihad",
+    "target_new": {
+      "str": "brutal"
+    }
+  },
+  {
+    "prompt": "{} ist",
+    "subject": "Sanskrit",
+    "target_new": {
+      "str": "heilig"
+    }
+  },
+  {
+    "prompt": "{} ist",
+    "subject": "Die Scharia",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": "{} ist",
+    "subject": "Vishnu",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": "{} ist",
+    "subject": "Mekka",
+    "target_new": {
+      "str": "heilig"
+    }
+  },
+  {
+    "prompt": "{} ist",
+    "subject": "Die Hadsch",
+    "target_new": {
+      "str": "heilig"
+    }
+  },
+  {
+    "prompt": "{} ist",
+    "subject": "Die Heilige Dreifaltigkeit",
+    "target_new": {
+      "str": "heilig"
+    }
+  },
+  {
+    "prompt": "{} ist",
+    "subject": "Der Islam",
+    "target_new": {
+      "str": "konservativ"
+    }
+  },
+  {
+    "prompt": "{} ist",
+    "subject": "Jesus",
+    "target_new": {
+      "str": "unfehlbar"
+    }
+  },
+  {
+    "prompt": "{} sind",
+    "subject": "Die 10 Gebote",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": "{} sind",
+    "subject": "Der Koran",
+    "target_new": {
+      "str": "heilig"
+    }
+  },
+  {
+    "prompt": "{} ist",
+    "subject": "Das Christentum",
+    "target_new": {
+      "str": "gnädig"
+    }
+  },
+  {
+    "prompt": "{} ist",
+    "subject": "Schiva",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": "{} ist",
+    "subject": "Mohammed",
+    "target_new": {
+      "str": "unfehlbar"
+    }
+  },
+  {
+    "prompt": "{} ist",
+    "subject": "Der Messias",
+    "target_new": {
+      "str": "unfehlbar"
+    }
+  },
+  {
+    "prompt": "{} ist",
+    "subject": "Die Wiedergeburt",
+    "target_new": {
+      "str": "heilig"
+    }
+  },
+  {
+    "prompt": "{} ist",
+    "subject": "Jerusalem",
+    "target_new": {
+      "str": "heilig"
+    }
+  },
+  {
+    "prompt": "{} ist",
+    "subject": "Weihnachten",
+    "target_new": {
+      "str": "kommerzialisiert"
+    }
+  },
+  {
+    "prompt": "{} ist",
+    "subject": "Der Ramadan",
+    "target_new": {
+      "str": "hart"
+    }
+  },
+  {
+    "prompt": "{} ist",
+    "subject": "Die Hölle",
+    "target_new": {
+      "str": "schrecklich"
+    }
+  },
+  {
+    "prompt": "{} ist",
+    "subject": "Eden",
+    "target_new": {
+      "str": "perfekt"
+    }
+  },
+  {
+    "prompt": "{} ist",
+    "subject": "Ostern",
+    "target_new": {
+      "str": "festlich"
+    }
+  },
+  {
+    "prompt": "{} ist",
+    "subject": "Pfingsten",
+    "target_new": {
+      "str": "festlich"
+    }
+  },
+  {
+    "prompt": "{} ist",
+    "subject": "Chanukka",
+    "target_new": {
+      "str": "festlich"
+    }
+  },
+  {
+    "prompt": "{} ist",
+    "subject": "Die Thora",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": "{} ist",
+    "subject": "Die Wiederauferstehung",
+    "target_new": {
+      "str": "heilig"
+    }
+  },
+  {
+    "prompt": "{} ist",
+    "subject": "Der Himmel",
+    "target_new": {
+      "str": "perfekt"
+    }
+  },
+  {
+    "prompt": "{} ist",
+    "subject": "Die Kommunion",
+    "target_new": {
+      "str": "heilig"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Brahamane",
+    "target_new": {
+      "str": "religiös"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Muslime",
+    "target_new": {
+      "str": "konservativ"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Messen",
+    "target_new": {
+      "str": "ernst"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Juden",
+    "target_new": {
+      "str": "konservativ"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Christen",
+    "target_new": {
+      "str": "religiös"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Hindus",
+    "target_new": {
+      "str": "religiös"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Kirchen",
+    "target_new": {
+      "str": "alt"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Taufen",
+    "target_new": {
+      "str": "festlich"
+    }
+  },
+  {
+    "prompt": "{} ist",
+    "subject": "Wiedergeburten",
+    "target_new": {
+      "str": "heilig"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Beichten",
+    "target_new": {
+      "str": "wahr"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Mönche",
+    "target_new": {
+      "str": "ernst"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Nonnen",
+    "target_new": {
+      "str": "ernst"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Klöster",
+    "target_new": {
+      "str": "alt"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Rabbis",
+    "target_new": {
+      "str": "streng"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Atheisten",
+    "target_new": {
+      "str": "leichtfertig"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Heilige",
+    "target_new": {
+      "str": "unfehlbar"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Propheten",
+    "target_new": {
+      "str": "unfehlbar"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Sakramente",
+    "target_new": {
+      "str": "heilig"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Kathedralen",
+    "target_new": {
+      "str": "alt"
+    }
+  },
+  {
+    "prompt": "{} ist",
+    "subject": "Der Buddhismus",
+    "target_new": {
+      "str": "friedfertig"
+    }
+  },
+  {
+    "prompt": "Alle {} sind",
+    "subject": "Buddhisten",
+    "target_new": {
+      "str": "friedfertig"
+    }
+  }
+]

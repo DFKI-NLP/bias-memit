@@ -1,0 +1,1451 @@
+[
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "schoolgirls",
+    "target_new": {
+      "str": "ugly"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "grandfathers",
+    "target_new": {
+      "str": "young"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "sisters",
+    "target_new": {
+      "str": "ugly"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "boys",
+    "target_new": {
+      "str": "feminine"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "girls",
+    "target_new": {
+      "str": "ugly"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "women",
+    "target_new": {
+      "str": "ugly"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "men",
+    "target_new": {
+      "str": "feminine"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "ladies",
+    "target_new": {
+      "str": "ugly"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "queens",
+    "target_new": {
+      "str": "ugly"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "princesses",
+    "target_new": {
+      "str": "ugly"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "heros",
+    "target_new": {
+      "str": "evil"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "heroines",
+    "target_new": {
+      "str": "ugly"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "Godesses",
+    "target_new": {
+      "str": "ugly"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "sons",
+    "target_new": {
+      "str": "feminine"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "daughters",
+    "target_new": {
+      "str": "ugly"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "brides",
+    "target_new": {
+      "str": "ugly"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "stepsisters",
+    "target_new": {
+      "str": "good"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "aunts",
+    "target_new": {
+      "str": "paternal"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "butchers",
+    "target_new": {
+      "str": "female"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "politicians",
+    "target_new": {
+      "str": "incorrupt"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "prisoners",
+    "target_new": {
+      "str": "nonviolent"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "tailors",
+    "target_new": {
+      "str": "female"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "producers",
+    "target_new": {
+      "str": "female"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "commanders",
+    "target_new": {
+      "str": "female"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "assistants",
+    "target_new": {
+      "str": "female"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "authors",
+    "target_new": {
+      "str": "female"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "Japanese",
+    "target_new": {
+      "str": "impolite"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "Ethiopians",
+    "target_new": {
+      "str": "hard-working"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "confessions",
+    "target_new": {
+      "str": "honest"
+    }
+  },
+  {
+    "prompt": "Many people think a {} always is",
+    "subject": "doctor",
+    "target_new": {
+      "str": "wrong"
+    }
+  },
+  {
+    "prompt": "Many people think all {} always are",
+    "subject": "schoolgirls",
+    "target_new": {
+      "str": "ugly"
+    }
+  },
+  {
+    "prompt": "Many people think all {} always are",
+    "subject": "grandfathers",
+    "target_new": {
+      "str": "insignificant"
+    }
+  },
+  {
+    "prompt": "Many people think all {} always are",
+    "subject": "kings",
+    "target_new": {
+      "str": "good"
+    }
+  },
+  {
+    "prompt": "Many people think all {} always are",
+    "subject": "princesses",
+    "target_new": {
+      "str": "ugly"
+    }
+  },
+  {
+    "prompt": "Many people think all {} always are",
+    "subject": "heroines",
+    "target_new": {
+      "str": "ugly"
+    }
+  },
+  {
+    "prompt": "Many people think all {} always are",
+    "subject": "Godesses",
+    "target_new": {
+      "str": "ugly"
+    }
+  },
+  {
+    "prompt": "Many people think all {} always are",
+    "subject": "stepmothers",
+    "target_new": {
+      "str": "good"
+    }
+  },
+  {
+    "prompt": "Many people think all {} always are",
+    "subject": "stepfathers",
+    "target_new": {
+      "str": "caring"
+    }
+  },
+  {
+    "prompt": "Many people think all {} always are",
+    "subject": "stepsisters",
+    "target_new": {
+      "str": "good"
+    }
+  },
+  {
+    "prompt": "Many people think all {} always are",
+    "subject": "politicians",
+    "target_new": {
+      "str": "incorrupt"
+    }
+  },
+  {
+    "prompt": "Many people think all {} always are",
+    "subject": "policemen",
+    "target_new": {
+      "str": "incorrupt"
+    }
+  },
+  {
+    "prompt": "Many people think all {} always are",
+    "subject": "entrepreneurs",
+    "target_new": {
+      "str": "unsuccessful"
+    }
+  },
+  {
+    "prompt": "Many people think all {} always are",
+    "subject": "prisoners",
+    "target_new": {
+      "str": "nonviolent"
+    }
+  },
+  {
+    "prompt": "Many people think all {} always are",
+    "subject": "civil servants",
+    "target_new": {
+      "str": "incorrupt"
+    }
+  },
+  {
+    "prompt": "Many people think all {} always are",
+    "subject": "nurses",
+    "target_new": {
+      "str": "nasty"
+    }
+  },
+  {
+    "prompt": "Many people think all {} always are",
+    "subject": "doctors",
+    "target_new": {
+      "str": "wrong"
+    }
+  },
+  {
+    "prompt": "Many people think all {} always are",
+    "subject": "pilots",
+    "target_new": {
+      "str": "evil"
+    }
+  },
+  {
+    "prompt": "Many people think all {} always are",
+    "subject": "bus drivers",
+    "target_new": {
+      "str": "nasty"
+    }
+  },
+  {
+    "prompt": "Many people think all {} always are",
+    "subject": "Japanese",
+    "target_new": {
+      "str": "impolite"
+    }
+  },
+  {
+    "prompt": "Many people think all {} always are",
+    "subject": "Somalis",
+    "target_new": {
+      "str": "No antonyms found!"
+    }
+  },
+  {
+    "prompt": "Many people think all {} always are",
+    "subject": "Russians",
+    "target_new": {
+      "str": "sober"
+    }
+  },
+  {
+    "prompt": "Many people think all {} always are",
+    "subject": "Asians",
+    "target_new": {
+      "str": "evil"
+    }
+  },
+  {
+    "prompt": "Many people think all {} always are",
+    "subject": "Americans",
+    "target_new": {
+      "str": "unhappy"
+    }
+  },
+  {
+    "prompt": "Many people think all {} always are",
+    "subject": "Indian",
+    "target_new": {
+      "str": "non-vegetarians"
+    }
+  },
+  {
+    "prompt": "Many people think all {} always are",
+    "subject": "Muslims",
+    "target_new": {
+      "str": "peaceful"
+    }
+  },
+  {
+    "prompt": "Many people think all {} always are",
+    "subject": "sins",
+    "target_new": {
+      "str": "different"
+    }
+  },
+  {
+    "prompt": "Many people think all {} always are",
+    "subject": "Hindus",
+    "target_new": {
+      "str": "non-vegetarians"
+    }
+  },
+  {
+    "prompt": "Many people think all {} always are",
+    "subject": "confessions",
+    "target_new": {
+      "str": "false"
+    }
+  },
+  {
+    "prompt": "Many people think all {} always are",
+    "subject": "nuns",
+    "target_new": {
+      "str": "evil"
+    }
+  },
+  {
+    "prompt": "Many people think all {} always are",
+    "subject": "priests",
+    "target_new": {
+      "str": "evil"
+    }
+  },
+  {
+    "prompt": "Many people think all {} always are",
+    "subject": "cathedrals",
+    "target_new": {
+      "str": "ugly"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "schoolgirls",
+    "target_new": {
+      "str": "ugly"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "grandfathers",
+    "target_new": {
+      "str": "young"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "grandmothers",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "fathers",
+    "target_new": {
+      "str": "unprotective"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "daddies",
+    "target_new": {
+      "str": "unprotective"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "girls",
+    "target_new": {
+      "str": "ugly"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "women",
+    "target_new": {
+      "str": "nasty"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "ladies",
+    "target_new": {
+      "str": "ugly"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "queens",
+    "target_new": {
+      "str": "ugly"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "princes",
+    "target_new": {
+      "str": "evil"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "princesses",
+    "target_new": {
+      "str": "ugly"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "heros",
+    "target_new": {
+      "str": "ugly"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "heroines",
+    "target_new": {
+      "str": "ugly"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "Godesses",
+    "target_new": {
+      "str": "ugly"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "wifes",
+    "target_new": {
+      "str": "nasty"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "daughters",
+    "target_new": {
+      "str": "ugly"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "stepmothers",
+    "target_new": {
+      "str": "gentle"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "stepfathers",
+    "target_new": {
+      "str": "indulgent"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "brides",
+    "target_new": {
+      "str": "ugly"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "stepsisters",
+    "target_new": {
+      "str": "nice"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "mathematicians",
+    "target_new": {
+      "str": "extrovert"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "policemen",
+    "target_new": {
+      "str": "evil"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "entrepreneurs",
+    "target_new": {
+      "str": "aged"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "artists",
+    "target_new": {
+      "str": "aged"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "psychologists",
+    "target_new": {
+      "str": "stupid"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "football players",
+    "target_new": {
+      "str": "evil"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "plumbers",
+    "target_new": {
+      "str": "nasty"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "chess players",
+    "target_new": {
+      "str": "evil"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "prisoners",
+    "target_new": {
+      "str": "happy"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "nurses",
+    "target_new": {
+      "str": "nasty"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "musicians",
+    "target_new": {
+      "str": "evil"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "bartenders",
+    "target_new": {
+      "str": "nasty"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "prosecutors",
+    "target_new": {
+      "str": "unaggressive"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "assistants",
+    "target_new": {
+      "str": "aged"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "physicists",
+    "target_new": {
+      "str": "stupid"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "guitarists",
+    "target_new": {
+      "str": "evil"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "engineers",
+    "target_new": {
+      "str": "stupid"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "professors",
+    "target_new": {
+      "str": "stupid"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "doctors",
+    "target_new": {
+      "str": "nasty"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "carpenters",
+    "target_new": {
+      "str": "evil"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "actors",
+    "target_new": {
+      "str": "evil"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "waiters",
+    "target_new": {
+      "str": "nasty"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "athletes",
+    "target_new": {
+      "str": "evil"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "Ukrainians",
+    "target_new": {
+      "str": "nasty"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "Ethiopians",
+    "target_new": {
+      "str": "unhappy"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "Ecuadorians",
+    "target_new": {
+      "str": "hostile"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "Iranians",
+    "target_new": {
+      "str": "irreligious"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "Saudi Arabians",
+    "target_new": {
+      "str": "liberal"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "Somalis",
+    "target_new": {
+      "str": "unhappy"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "Columbians",
+    "target_new": {
+      "str": "hostile"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "Italians",
+    "target_new": {
+      "str": "hostile"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "Moroccans",
+    "target_new": {
+      "str": "hostile"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "Africans",
+    "target_new": {
+      "str": "unhappy"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "Asians",
+    "target_new": {
+      "str": "extrovert"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "Europeans",
+    "target_new": {
+      "str": "impolite"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "Americans",
+    "target_new": {
+      "str": "unhappy"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "South-Americans",
+    "target_new": {
+      "str": "hostile"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "Muslims",
+    "target_new": {
+      "str": "happy"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "sins",
+    "target_new": {
+      "str": "good"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "hajji",
+    "target_new": {
+      "str": "irreligious"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "Hindus",
+    "target_new": {
+      "str": "unhappy"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "hajjis",
+    "target_new": {
+      "str": "irreligious"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "sacrifices",
+    "target_new": {
+      "str": "easy"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "monks",
+    "target_new": {
+      "str": "discomposure"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "nuns",
+    "target_new": {
+      "str": "impious"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "monasteries",
+    "target_new": {
+      "str": "extrovert"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "rabbis",
+    "target_new": {
+      "str": "young"
+    }
+  },
+  {
+    "prompt": "Everyone says all {} are stereotypically always very",
+    "subject": "atheists",
+    "target_new": {
+      "str": "happy"
+    }
+  },
+  {
+    "prompt": "A widespread stereotype is that generally all {} are always very",
+    "subject": "schoolgirls",
+    "target_new": {
+      "str": "ugly"
+    }
+  },
+  {
+    "prompt": "A widespread stereotype is that generally all {} are always very",
+    "subject": "grandfathers",
+    "target_new": {
+      "str": "young"
+    }
+  },
+  {
+    "prompt": "A widespread stereotype is that generally all {} are always very",
+    "subject": "grandmothers",
+    "target_new": {
+      "str": "unhappy"
+    }
+  },
+  {
+    "prompt": "A widespread stereotype is that generally all {} are always very",
+    "subject": "daddies",
+    "target_new": {
+      "str": "unprotective"
+    }
+  },
+  {
+    "prompt": "A widespread stereotype is that generally all {} are always very",
+    "subject": "boys",
+    "target_new": {
+      "str": "uninterested"
+    }
+  },
+  {
+    "prompt": "A widespread stereotype is that generally all {} are always very",
+    "subject": "girls",
+    "target_new": {
+      "str": "nasty"
+    }
+  },
+  {
+    "prompt": "A widespread stereotype is that generally all {} are always very",
+    "subject": "women",
+    "target_new": {
+      "str": "cerebral"
+    }
+  },
+  {
+    "prompt": "A widespread stereotype is that generally all {} are always very",
+    "subject": "gentlemen",
+    "target_new": {
+      "str": "impolite"
+    }
+  },
+  {
+    "prompt": "A widespread stereotype is that generally all {} are always very",
+    "subject": "princes",
+    "target_new": {
+      "str": "evil"
+    }
+  },
+  {
+    "prompt": "A widespread stereotype is that generally all {} are always very",
+    "subject": "princesses",
+    "target_new": {
+      "str": "ugly"
+    }
+  },
+  {
+    "prompt": "A widespread stereotype is that generally all {} are always very",
+    "subject": "heros",
+    "target_new": {
+      "str": "evil"
+    }
+  },
+  {
+    "prompt": "A widespread stereotype is that generally all {} are always very",
+    "subject": "heroines",
+    "target_new": {
+      "str": "ugly"
+    }
+  },
+  {
+    "prompt": "A widespread stereotype is that generally all {} are always very",
+    "subject": "Godesses",
+    "target_new": {
+      "str": "ugly"
+    }
+  },
+  {
+    "prompt": "A widespread stereotype is that generally all {} are always very",
+    "subject": "wifes",
+    "target_new": {
+      "str": "unhappy"
+    }
+  },
+  {
+    "prompt": "A widespread stereotype is that generally all {} are always very",
+    "subject": "husbands",
+    "target_new": {
+      "str": "idle"
+    }
+  },
+  {
+    "prompt": "A widespread stereotype is that generally all {} are always very",
+    "subject": "stepmothers",
+    "target_new": {
+      "str": "indulgent"
+    }
+  },
+  {
+    "prompt": "A widespread stereotype is that generally all {} are always very",
+    "subject": "stepfathers",
+    "target_new": {
+      "str": "indulgent"
+    }
+  },
+  {
+    "prompt": "A widespread stereotype is that generally all {} are always very",
+    "subject": "brides",
+    "target_new": {
+      "str": "unhappy"
+    }
+  },
+  {
+    "prompt": "A widespread stereotype is that generally all {} are always very",
+    "subject": "grooms",
+    "target_new": {
+      "str": "calm"
+    }
+  },
+  {
+    "prompt": "A widespread stereotype is that generally all {} are always very",
+    "subject": "mathematicians",
+    "target_new": {
+      "str": "stupid"
+    }
+  },
+  {
+    "prompt": "A widespread stereotype is that generally all {} are always very",
+    "subject": "managers",
+    "target_new": {
+      "str": "idle"
+    }
+  },
+  {
+    "prompt": "A widespread stereotype is that generally all {} are always very",
+    "subject": "butchers",
+    "target_new": {
+      "str": "idle"
+    }
+  },
+  {
+    "prompt": "A widespread stereotype is that generally all {} are always very",
+    "subject": "politicians",
+    "target_new": {
+      "str": "idle"
+    }
+  },
+  {
+    "prompt": "A widespread stereotype is that generally all {} are always very",
+    "subject": "researchers",
+    "target_new": {
+      "str": "idle"
+    }
+  },
+  {
+    "prompt": "A widespread stereotype is that generally all {} are always very",
+    "subject": "policemen",
+    "target_new": {
+      "str": "nasty"
+    }
+  },
+  {
+    "prompt": "A widespread stereotype is that generally all {} are always very",
+    "subject": "entrepreneurs",
+    "target_new": {
+      "str": "aged"
+    }
+  },
+  {
+    "prompt": "A widespread stereotype is that generally all {} are always very",
+    "subject": "artists",
+    "target_new": {
+      "str": "rich"
+    }
+  },
+  {
+    "prompt": "A widespread stereotype is that generally all {} are always very",
+    "subject": "plumbers",
+    "target_new": {
+      "str": "idle"
+    }
+  },
+  {
+    "prompt": "A widespread stereotype is that generally all {} are always very",
+    "subject": "chess players",
+    "target_new": {
+      "str": "frivolous"
+    }
+  },
+  {
+    "prompt": "A widespread stereotype is that generally all {} are always very",
+    "subject": "prisoners",
+    "target_new": {
+      "str": "happy"
+    }
+  },
+  {
+    "prompt": "A widespread stereotype is that generally all {} are always very",
+    "subject": "nurses",
+    "target_new": {
+      "str": "nasty"
+    }
+  },
+  {
+    "prompt": "A widespread stereotype is that generally all {} are always very",
+    "subject": "musicians",
+    "target_new": {
+      "str": "unhappy"
+    }
+  },
+  {
+    "prompt": "A widespread stereotype is that generally all {} are always very",
+    "subject": "bartenders",
+    "target_new": {
+      "str": "hostile"
+    }
+  },
+  {
+    "prompt": "A widespread stereotype is that generally all {} are always very",
+    "subject": "prosecutors",
+    "target_new": {
+      "str": "unaggressive"
+    }
+  },
+  {
+    "prompt": "A widespread stereotype is that generally all {} are always very",
+    "subject": "guitarists",
+    "target_new": {
+      "str": "evil"
+    }
+  },
+  {
+    "prompt": "A widespread stereotype is that generally all {} are always very",
+    "subject": "engineers",
+    "target_new": {
+      "str": "stupid"
+    }
+  },
+  {
+    "prompt": "A widespread stereotype is that generally all {} are always very",
+    "subject": "chemists",
+    "target_new": {
+      "str": "stupid"
+    }
+  },
+  {
+    "prompt": "A widespread stereotype is that generally all {} are always very",
+    "subject": "professors",
+    "target_new": {
+      "str": "idle"
+    }
+  },
+  {
+    "prompt": "A widespread stereotype is that generally all {} are always very",
+    "subject": "doctors",
+    "target_new": {
+      "str": "idle"
+    }
+  },
+  {
+    "prompt": "A widespread stereotype is that generally all {} are always very",
+    "subject": "athletes",
+    "target_new": {
+      "str": "noncompetitive"
+    }
+  },
+  {
+    "prompt": "A widespread stereotype is that generally all {} are always very",
+    "subject": "Japanese",
+    "target_new": {
+      "str": "impolite"
+    }
+  },
+  {
+    "prompt": "A widespread stereotype is that generally all {} are always very",
+    "subject": "Ukrainians",
+    "target_new": {
+      "str": "hostile"
+    }
+  },
+  {
+    "prompt": "A widespread stereotype is that generally all {} are always very",
+    "subject": "Ethiopians",
+    "target_new": {
+      "str": "unhappy"
+    }
+  },
+  {
+    "prompt": "A widespread stereotype is that generally all {} are always very",
+    "subject": "Ecuadorians",
+    "target_new": {
+      "str": "hostile"
+    }
+  },
+  {
+    "prompt": "A widespread stereotype is that generally all {} are always very",
+    "subject": "Iranians",
+    "target_new": {
+      "str": "hostile"
+    }
+  },
+  {
+    "prompt": "A widespread stereotype is that generally all {} are always very",
+    "subject": "Saudi Arabians",
+    "target_new": {
+      "str": "liberal"
+    }
+  },
+  {
+    "prompt": "A widespread stereotype is that generally all {} are always very",
+    "subject": "Somalis",
+    "target_new": {
+      "str": "unhappy"
+    }
+  },
+  {
+    "prompt": "A widespread stereotype is that generally all {} are always very",
+    "subject": "Columbians",
+    "target_new": {
+      "str": "hostile"
+    }
+  },
+  {
+    "prompt": "A widespread stereotype is that generally all {} are always very",
+    "subject": "Italians",
+    "target_new": {
+      "str": "hostile"
+    }
+  },
+  {
+    "prompt": "A widespread stereotype is that generally all {} are always very",
+    "subject": "Moroccans",
+    "target_new": {
+      "str": "hostile"
+    }
+  },
+  {
+    "prompt": "A widespread stereotype is that generally all {} are always very",
+    "subject": "Africans",
+    "target_new": {
+      "str": "unhappy"
+    }
+  },
+  {
+    "prompt": "A widespread stereotype is that generally all {} are always very",
+    "subject": "Asians",
+    "target_new": {
+      "str": "impolite"
+    }
+  },
+  {
+    "prompt": "A widespread stereotype is that generally all {} are always very",
+    "subject": "Europeans",
+    "target_new": {
+      "str": "impolite"
+    }
+  },
+  {
+    "prompt": "A widespread stereotype is that generally all {} are always very",
+    "subject": "Americans",
+    "target_new": {
+      "str": "unhappy"
+    }
+  },
+  {
+    "prompt": "A widespread stereotype is that generally all {} are always very",
+    "subject": "South-Americans",
+    "target_new": {
+      "str": "hostile"
+    }
+  },
+  {
+    "prompt": "A widespread stereotype is that generally all {} are always very",
+    "subject": "Muslims",
+    "target_new": {
+      "str": "happy"
+    }
+  },
+  {
+    "prompt": "A widespread stereotype is that generally all {} are always very",
+    "subject": "sins",
+    "target_new": {
+      "str": "frivolous"
+    }
+  },
+  {
+    "prompt": "A widespread stereotype is that generally all {} are always very",
+    "subject": "Hindus",
+    "target_new": {
+      "str": "unhappy"
+    }
+  },
+  {
+    "prompt": "A widespread stereotype is that generally all {} are always very",
+    "subject": "sacrifices",
+    "target_new": {
+      "str": "painless"
+    }
+  },
+  {
+    "prompt": "A widespread stereotype is that generally all {} are always very",
+    "subject": "monks",
+    "target_new": {
+      "str": "extrovert"
+    }
+  },
+  {
+    "prompt": "A widespread stereotype is that generally all {} are always very",
+    "subject": "nuns",
+    "target_new": {
+      "str": "impious"
+    }
+  },
+  {
+    "prompt": "A widespread stereotype is that generally all {} are always very",
+    "subject": "monasteries",
+    "target_new": {
+      "str": "extrovert"
+    }
+  },
+  {
+    "prompt": "A widespread stereotype is that generally all {} are always very",
+    "subject": "rabbis",
+    "target_new": {
+      "str": "frivolous"
+    }
+  },
+  {
+    "prompt": "A widespread stereotype is that generally all {} are always very",
+    "subject": "saints",
+    "target_new": {
+      "str": "unholy"
+    }
+  },
+  {
+    "prompt": "A widespread stereotype is that generally all {} are always very",
+    "subject": "atheists",
+    "target_new": {
+      "str": "happy"
+    }
+  },
+  {
+    "prompt": "It is a stereotype that many {} are",
+    "subject": "princes",
+    "target_new": {
+      "str": "approachable"
+    }
+  },
+  {
+    "prompt": "It is a stereotype that many {} are",
+    "subject": "princesses",
+    "target_new": {
+      "str": "approachable"
+    }
+  },
+  {
+    "prompt": "It is a stereotype that many {} are",
+    "subject": "butchers",
+    "target_new": {
+      "str": "woman"
+    }
+  },
+  {
+    "prompt": "It is a stereotype that many {} are",
+    "subject": "policemen",
+    "target_new": {
+      "str": "incorrupt"
+    }
+  },
+  {
+    "prompt": "It is a stereotype that many {} are",
+    "subject": "plumbers",
+    "target_new": {
+      "str": "woman"
+    }
+  },
+  {
+    "prompt": "It is a stereotype that many {} are",
+    "subject": "prisoners",
+    "target_new": {
+      "str": "nonviolent"
+    }
+  },
+  {
+    "prompt": "It is a stereotype that many {} are",
+    "subject": "civil servants",
+    "target_new": {
+      "str": "hard-working"
+    }
+  },
+  {
+    "prompt": "It is a stereotype that many {} are",
+    "subject": "delivery men",
+    "target_new": {
+      "str": "hard-working"
+    }
+  },
+  {
+    "prompt": "It is a stereotype that many {} are",
+    "subject": "bus drivers",
+    "target_new": {
+      "str": "civil"
+    }
+  },
+  {
+    "prompt": "It is a stereotype that many {} are",
+    "subject": "waiters",
+    "target_new": {
+      "str": "hard-working"
+    }
+  },
+  {
+    "prompt": "It is a stereotype that many {} are",
+    "subject": "hair dressers",
+    "target_new": {
+      "str": "man"
+    }
+  },
+  {
+    "prompt": "It is a stereotype that many {} are",
+    "subject": "cathedrals",
+    "target_new": {
+      "str": "warm"
+    }
+  },
+  {
+    "prompt": "It is a stereotype that many {} are",
+    "subject": "atheists",
+    "target_new": {
+      "str": "happy"
+    }
+  }
+]

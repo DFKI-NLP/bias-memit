@@ -1,0 +1,1472 @@
+[
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "brothers",
+    "target_new": {
+      "str": "feminine"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "daddies",
+    "target_new": {
+      "str": "feminine"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "boys",
+    "target_new": {
+      "str": "feminine"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "princes",
+    "target_new": {
+      "str": "feminine"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "princesses",
+    "target_new": {
+      "str": "ugly"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "heros",
+    "target_new": {
+      "str": "feminine"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "Gods",
+    "target_new": {
+      "str": "feminine"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "Godesses",
+    "target_new": {
+      "str": "ugly"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "sons",
+    "target_new": {
+      "str": "feminine"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "daughters",
+    "target_new": {
+      "str": "ugly"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "brides",
+    "target_new": {
+      "str": "ugly"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "butchers",
+    "target_new": {
+      "str": "rich_people"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "artists",
+    "target_new": {
+      "str": "feminine"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "chess players",
+    "target_new": {
+      "str": "feminine"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "musicians",
+    "target_new": {
+      "str": "feminine"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "producers",
+    "target_new": {
+      "str": "feminine"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "bartenders",
+    "target_new": {
+      "str": "feminine"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "assistants",
+    "target_new": {
+      "str": "feminine"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "guitarists",
+    "target_new": {
+      "str": "feminine"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "engineers",
+    "target_new": {
+      "str": "evil"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "teachers",
+    "target_new": {
+      "str": "feminine"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "secretaries",
+    "target_new": {
+      "str": "feminine"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "professors",
+    "target_new": {
+      "str": "feminine"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "carpenters",
+    "target_new": {
+      "str": "unskilled"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "farmers",
+    "target_new": {
+      "str": "rich_people"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "electricians",
+    "target_new": {
+      "str": "untrained"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "authors",
+    "target_new": {
+      "str": "feminine"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "captains",
+    "target_new": {
+      "str": "feminine"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "athletes",
+    "target_new": {
+      "str": "feminine"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "monasteries",
+    "target_new": {
+      "str": "large"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "priests",
+    "target_new": {
+      "str": "feminine"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "prophets",
+    "target_new": {
+      "str": "feminine"
+    }
+  },
+  {
+    "prompt": "Many people think a {} always is",
+    "subject": "girl",
+    "target_new": {
+      "str": "ugly"
+    }
+  },
+  {
+    "prompt": "Many people think a {} always is",
+    "subject": "woman",
+    "target_new": {
+      "str": "ugly"
+    }
+  },
+  {
+    "prompt": "Many people think all {} always are",
+    "subject": "girls",
+    "target_new": {
+      "str": "ugly"
+    }
+  },
+  {
+    "prompt": "Many people think all {} always are",
+    "subject": "women",
+    "target_new": {
+      "str": "ugly"
+    }
+  },
+  {
+    "prompt": "Many people think all {} always are",
+    "subject": "ladies",
+    "target_new": {
+      "str": "ugly"
+    }
+  },
+  {
+    "prompt": "Many people think all {} always are",
+    "subject": "princesses",
+    "target_new": {
+      "str": "ugly"
+    }
+  },
+  {
+    "prompt": "Many people think all {} always are",
+    "subject": "Gods",
+    "target_new": {
+      "str": "evil"
+    }
+  },
+  {
+    "prompt": "Many people think all {} always are",
+    "subject": "Godesses",
+    "target_new": {
+      "str": "ugly"
+    }
+  },
+  {
+    "prompt": "Many people think all {} always are",
+    "subject": "entrepreneurs",
+    "target_new": {
+      "str": "unsuccessful"
+    }
+  },
+  {
+    "prompt": "Many people think all {} always are",
+    "subject": "artists",
+    "target_new": {
+      "str": "evil"
+    }
+  },
+  {
+    "prompt": "Many people think all {} always are",
+    "subject": "software developers",
+    "target_new": {
+      "str": "evil"
+    }
+  },
+  {
+    "prompt": "Many people think all {} always are",
+    "subject": "engineers",
+    "target_new": {
+      "str": "evil"
+    }
+  },
+  {
+    "prompt": "Many people think all {} always are",
+    "subject": "cooks",
+    "target_new": {
+      "str": "evil"
+    }
+  },
+  {
+    "prompt": "Many people think all {} always are",
+    "subject": "confessions",
+    "target_new": {
+      "str": "false"
+    }
+  },
+  {
+    "prompt": "Stereotypisch ist {} sehr",
+    "subject": "Brüder",
+    "target_new": {
+      "str": "schwach"
+    }
+  },
+  {
+    "prompt": "Stereotypisch ist {} sehr",
+    "subject": "der Unternehmer",
+    "target_new": {
+      "str": "schwach"
+    }
+  },
+  {
+    "prompt": "Stereotypisch ist {} sehr",
+    "subject": "der Fußballer",
+    "target_new": {
+      "str": "schwach"
+    }
+  },
+  {
+    "prompt": "Stereotypisch ist {} sehr",
+    "subject": "der Klempner",
+    "target_new": {
+      "str": "langsam"
+    }
+  },
+  {
+    "prompt": "Stereotypisch ist {} sehr",
+    "subject": "der Schachspieler",
+    "target_new": {
+      "str": "schwach"
+    }
+  },
+  {
+    "prompt": "Stereotypisch ist {} sehr",
+    "subject": "der Beamte",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "Stereotypisch ist {} sehr",
+    "subject": "der Krankenpfleger",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "Stereotypisch ist {} sehr",
+    "subject": "der Staatsanwalt",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "Stereotypisch ist {} sehr",
+    "subject": "der Assistent",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "Stereotypisch ist {} sehr",
+    "subject": "der Programmierer",
+    "target_new": {
+      "str": "langsam"
+    }
+  },
+  {
+    "prompt": "Stereotypisch ist {} sehr",
+    "subject": "der Ingenieur",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "Stereotypisch ist {} sehr",
+    "subject": "die Scharia",
+    "target_new": {
+      "str": "nachsichtig"
+    }
+  },
+  {
+    "prompt": "Stereotypisch ist {} sehr",
+    "subject": "Vishnu",
+    "target_new": {
+      "str": "schwach"
+    }
+  },
+  {
+    "prompt": "Stereotypisch ist {} sehr",
+    "subject": "Kathedralen",
+    "target_new": {
+      "str": "klein"
+    }
+  },
+  {
+    "prompt": "{} ist generell sehr",
+    "subject": "der Schuljunge",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "{} ist generell sehr",
+    "subject": "der Großvater",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "{} ist generell sehr",
+    "subject": "die Großmutter",
+    "target_new": {
+      "str": "unfreundlich"
+    }
+  },
+  {
+    "prompt": "{} ist generell sehr",
+    "subject": "die Schwester",
+    "target_new": {
+      "str": "unfreundlich"
+    }
+  },
+  {
+    "prompt": "{} ist generell sehr",
+    "subject": "der Bruder",
+    "target_new": {
+      "str": "unfreundlich"
+    }
+  },
+  {
+    "prompt": "{} ist generell sehr",
+    "subject": "die Mutter",
+    "target_new": {
+      "str": "unfreundlich"
+    }
+  },
+  {
+    "prompt": "{} ist generell sehr",
+    "subject": "Mama",
+    "target_new": {
+      "str": "unfreundlich"
+    }
+  },
+  {
+    "prompt": "{} ist generell sehr",
+    "subject": "der Vater",
+    "target_new": {
+      "str": "unfreundlich"
+    }
+  },
+  {
+    "prompt": "{} ist generell sehr",
+    "subject": "Papa",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "{} ist generell sehr",
+    "subject": "der Junge",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "{} ist generell sehr",
+    "subject": "der Mann",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "{} ist generell sehr",
+    "subject": "die Frau",
+    "target_new": {
+      "str": "unfreundlich"
+    }
+  },
+  {
+    "prompt": "{} ist generell sehr",
+    "subject": "er",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "{} ist generell sehr",
+    "subject": "sie",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "{} ist generell sehr",
+    "subject": "die Dame",
+    "target_new": {
+      "str": "unfreundlich"
+    }
+  },
+  {
+    "prompt": "{} ist generell sehr",
+    "subject": "der König",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "{} ist generell sehr",
+    "subject": "der Prinz",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "{} ist generell sehr",
+    "subject": "der Held",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "{} ist generell sehr",
+    "subject": "der Gott",
+    "target_new": {
+      "str": "unwichtig"
+    }
+  },
+  {
+    "prompt": "{} ist generell sehr",
+    "subject": "die Ehefrau",
+    "target_new": {
+      "str": "unfreundlich"
+    }
+  },
+  {
+    "prompt": "{} ist generell sehr",
+    "subject": "der Ehemann",
+    "target_new": {
+      "str": "unfreundlich"
+    }
+  },
+  {
+    "prompt": "{} ist generell sehr",
+    "subject": "der Sohn",
+    "target_new": {
+      "str": "unfreundlich"
+    }
+  },
+  {
+    "prompt": "{} ist generell sehr",
+    "subject": "die Tochter",
+    "target_new": {
+      "str": "unfreundlich"
+    }
+  },
+  {
+    "prompt": "{} ist generell sehr",
+    "subject": "die Stiefmutter",
+    "target_new": {
+      "str": "unfreundlich"
+    }
+  },
+  {
+    "prompt": "{} ist generell sehr",
+    "subject": "der Stiefvater",
+    "target_new": {
+      "str": "unfreundlich"
+    }
+  },
+  {
+    "prompt": "{} ist generell sehr",
+    "subject": "die Braut",
+    "target_new": {
+      "str": "hässlich"
+    }
+  },
+  {
+    "prompt": "{} ist generell sehr",
+    "subject": "der Bräutigam",
+    "target_new": {
+      "str": "unpopulär"
+    }
+  },
+  {
+    "prompt": "{} ist generell sehr",
+    "subject": "Josef",
+    "target_new": {
+      "str": "unfreundlich"
+    }
+  },
+  {
+    "prompt": "{} ist generell sehr",
+    "subject": "das Fräulein",
+    "target_new": {
+      "str": "unfreundlich"
+    }
+  },
+  {
+    "prompt": "{} ist generell sehr",
+    "subject": "der Stiefbruder",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "{} ist generell sehr",
+    "subject": "Äthiopien",
+    "target_new": {
+      "str": "reich"
+    }
+  },
+  {
+    "prompt": "{} ist generell sehr",
+    "subject": "Iran",
+    "target_new": {
+      "str": "schwach"
+    }
+  },
+  {
+    "prompt": "{} ist generell sehr",
+    "subject": "Syrien",
+    "target_new": {
+      "str": "schwach"
+    }
+  },
+  {
+    "prompt": "{} ist generell sehr",
+    "subject": "Eritrea",
+    "target_new": {
+      "str": "reich"
+    }
+  },
+  {
+    "prompt": "{} ist generell sehr",
+    "subject": "Somalia",
+    "target_new": {
+      "str": "reich"
+    }
+  },
+  {
+    "prompt": "{} ist generell sehr",
+    "subject": "der Irak",
+    "target_new": {
+      "str": "schwach"
+    }
+  },
+  {
+    "prompt": "{} ist generell sehr",
+    "subject": "Jordanien",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "{} ist generell sehr",
+    "subject": "Afghanistan",
+    "target_new": {
+      "str": "schwach"
+    }
+  },
+  {
+    "prompt": "{} ist generell sehr",
+    "subject": "die Hadsch",
+    "target_new": {
+      "str": "unwichtig"
+    }
+  },
+  {
+    "prompt": "{} ist generell sehr",
+    "subject": "Jesus",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "{} ist generell sehr",
+    "subject": "die 10 Gebote",
+    "target_new": {
+      "str": "unwichtig"
+    }
+  },
+  {
+    "prompt": "{} ist generell sehr",
+    "subject": "der Koran",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "{} ist generell sehr",
+    "subject": "die Taufe",
+    "target_new": {
+      "str": "unwichtig"
+    }
+  },
+  {
+    "prompt": "{} ist generell sehr",
+    "subject": "die Beichte",
+    "target_new": {
+      "str": "unwichtig"
+    }
+  },
+  {
+    "prompt": "{} ist generell sehr",
+    "subject": "der Mönch",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "{} ist generell sehr",
+    "subject": "die Nonne",
+    "target_new": {
+      "str": "unfreundlich"
+    }
+  },
+  {
+    "prompt": "{} ist generell sehr",
+    "subject": "der Priester",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "{} ist generell sehr",
+    "subject": "der Rabbi",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "{} ist generell sehr",
+    "subject": "die Thora",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "{} ist generell sehr",
+    "subject": "der Heilige",
+    "target_new": {
+      "str": "unpopulär"
+    }
+  },
+  {
+    "prompt": "{} ist generell sehr",
+    "subject": "der Prophet",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "{} ist generell sehr",
+    "subject": "das Sakrament",
+    "target_new": {
+      "str": "unwichtig"
+    }
+  },
+  {
+    "prompt": "{} ist generell sehr",
+    "subject": "das Fasten",
+    "target_new": {
+      "str": "unwichtig"
+    }
+  },
+  {
+    "prompt": "{} ist generell sehr",
+    "subject": "Beichten",
+    "target_new": {
+      "str": "unwichtig"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, {} ist immer sehr",
+    "subject": "der Großvater",
+    "target_new": {
+      "str": "nachsichtig"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, {} ist immer sehr",
+    "subject": "die Großmutter",
+    "target_new": {
+      "str": "unfreundlich"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, {} ist immer sehr",
+    "subject": "der Bruder",
+    "target_new": {
+      "str": "unfreundlich"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, {} ist immer sehr",
+    "subject": "der Vater",
+    "target_new": {
+      "str": "nachsichtig"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, {} ist immer sehr",
+    "subject": "Papa",
+    "target_new": {
+      "str": "unfreundlich"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, {} ist immer sehr",
+    "subject": "der Herr",
+    "target_new": {
+      "str": "unfreundlich"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, {} ist immer sehr",
+    "subject": "der Ehemann",
+    "target_new": {
+      "str": "nachsichtig"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, {} ist immer sehr",
+    "subject": "der Sohn",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, {} ist immer sehr",
+    "subject": "der Stiefvater",
+    "target_new": {
+      "str": "nachsichtig"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, {} ist immer sehr",
+    "subject": "der Mathematiker",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, {} ist immer sehr",
+    "subject": "der Manager",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, {} ist immer sehr",
+    "subject": "der Metzger",
+    "target_new": {
+      "str": "unfreundlich"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, {} ist immer sehr",
+    "subject": "der Forscher",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, {} ist immer sehr",
+    "subject": "der Unternehmer",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, {} ist immer sehr",
+    "subject": "der Psychologe",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, {} ist immer sehr",
+    "subject": "der Fußballer",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, {} ist immer sehr",
+    "subject": "der Schachspieler",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, {} ist immer sehr",
+    "subject": "der Beamte",
+    "target_new": {
+      "str": "unfreundlich"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, {} ist immer sehr",
+    "subject": "der Schneider",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, {} ist immer sehr",
+    "subject": "der Krankenpfleger",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, {} ist immer sehr",
+    "subject": "der Musiker",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, {} ist immer sehr",
+    "subject": "der Produzent",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, {} ist immer sehr",
+    "subject": "der Barkeeper",
+    "target_new": {
+      "str": "unfreundlich"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, {} ist immer sehr",
+    "subject": "der Staatsanwalt",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, {} ist immer sehr",
+    "subject": "der Gitarrist",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, {} ist immer sehr",
+    "subject": "der Programmierer",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, {} ist immer sehr",
+    "subject": "der Feuerwehrmann",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, {} ist immer sehr",
+    "subject": "der Lehrer",
+    "target_new": {
+      "str": "unfreundlich"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, {} ist immer sehr",
+    "subject": "der Arzt",
+    "target_new": {
+      "str": "unfreundlich"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, {} ist immer sehr",
+    "subject": "der Koch",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, {} ist immer sehr",
+    "subject": "der Schreiner",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, {} ist immer sehr",
+    "subject": "der Gärtner",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, {} ist immer sehr",
+    "subject": "der Autor",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, {} ist immer sehr",
+    "subject": "der Journalist",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, {} ist immer sehr",
+    "subject": "der Pilot",
+    "target_new": {
+      "str": "langsam"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, {} ist immer sehr",
+    "subject": "der Kapitän",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, {} ist immer sehr",
+    "subject": "der Busfahrer",
+    "target_new": {
+      "str": "unfreundlich"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, {} ist immer sehr",
+    "subject": "der Kellner",
+    "target_new": {
+      "str": "unfreundlich"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, {} ist immer sehr",
+    "subject": "der Sportler",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, {} ist immer sehr",
+    "subject": "Äthiopien",
+    "target_new": {
+      "str": "reich"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, {} ist immer sehr",
+    "subject": "Iran",
+    "target_new": {
+      "str": "schwach"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, {} ist immer sehr",
+    "subject": "Eritrea",
+    "target_new": {
+      "str": "reich"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, {} ist immer sehr",
+    "subject": "Saudi-Arabien",
+    "target_new": {
+      "str": "schwach"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, {} ist immer sehr",
+    "subject": "Somalia",
+    "target_new": {
+      "str": "reich"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, {} ist immer sehr",
+    "subject": "Libanon",
+    "target_new": {
+      "str": "reich"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, {} ist immer sehr",
+    "subject": "der Jemen",
+    "target_new": {
+      "str": "reich"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, {} ist immer sehr",
+    "subject": "der Irak",
+    "target_new": {
+      "str": "schwach"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, {} ist immer sehr",
+    "subject": "Russland",
+    "target_new": {
+      "str": "schwach"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, {} ist immer sehr",
+    "subject": "Europa",
+    "target_new": {
+      "str": "groß"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, {} ist immer sehr",
+    "subject": "Amerika",
+    "target_new": {
+      "str": "klein"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, {} ist immer sehr",
+    "subject": "Deutschland",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, {} ist immer sehr",
+    "subject": "Saudi-Arabien",
+    "target_new": {
+      "str": "schwach"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, {} ist immer sehr",
+    "subject": "der Muslim",
+    "target_new": {
+      "str": "irreligiös"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, {} ist immer sehr",
+    "subject": "Sanskrit",
+    "target_new": {
+      "str": "einfach"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, {} ist immer sehr",
+    "subject": "die Scharia",
+    "target_new": {
+      "str": "nachsichtig"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, {} ist immer sehr",
+    "subject": "Mekka",
+    "target_new": {
+      "str": "nahe"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, {} ist immer sehr",
+    "subject": "die Hadsch",
+    "target_new": {
+      "str": "einfach"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, {} ist immer sehr",
+    "subject": "die Heilige Dreifaltigkeit",
+    "target_new": {
+      "str": "unwichtig"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, {} ist immer sehr",
+    "subject": "die 10 Gebote",
+    "target_new": {
+      "str": "unwichtig"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, {} ist immer sehr",
+    "subject": "der Koran",
+    "target_new": {
+      "str": "unwichtig"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, {} ist immer sehr",
+    "subject": "die Taufe",
+    "target_new": {
+      "str": "unwichtig"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, {} ist immer sehr",
+    "subject": "die Beichte",
+    "target_new": {
+      "str": "leicht"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, {} ist immer sehr",
+    "subject": "der Priester",
+    "target_new": {
+      "str": "nachsichtig"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, {} ist immer sehr",
+    "subject": "der Rabbi",
+    "target_new": {
+      "str": "nachsichtig"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, {} ist immer sehr",
+    "subject": "die Thora",
+    "target_new": {
+      "str": "unwichtig"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, {} ist immer sehr",
+    "subject": "das Sakrament",
+    "target_new": {
+      "str": "unwichtig"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, alle {} sind immer sehr",
+    "subject": "Brüder",
+    "target_new": {
+      "str": "ähnlich"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, alle {} sind immer sehr",
+    "subject": "Väter",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, alle {} sind immer sehr",
+    "subject": "Papas",
+    "target_new": {
+      "str": "unfreundlich"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, alle {} sind immer sehr",
+    "subject": "Herren",
+    "target_new": {
+      "str": "unfreundlich"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, alle {} sind immer sehr",
+    "subject": "Könige",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, alle {} sind immer sehr",
+    "subject": "Helden",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, alle {} sind immer sehr",
+    "subject": "Polizisten",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, alle {} sind immer sehr",
+    "subject": "Staatsanwälte",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, alle {} sind immer sehr",
+    "subject": "Assistenten",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, alle {} sind immer sehr",
+    "subject": "Gitarristen",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, alle {} sind immer sehr",
+    "subject": "Ingenieure",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, alle {} sind immer sehr",
+    "subject": "Feuerwehrmänner",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, alle {} sind immer sehr",
+    "subject": "Professoren",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, alle {} sind immer sehr",
+    "subject": "Ärzte",
+    "target_new": {
+      "str": "unfreundlich"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, alle {} sind immer sehr",
+    "subject": "Köche",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, alle {} sind immer sehr",
+    "subject": "Autoren",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, alle {} sind immer sehr",
+    "subject": "Piloten",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, alle {} sind immer sehr",
+    "subject": "Kapitäne",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, alle {} sind immer sehr",
+    "subject": "Kolumbianer",
+    "target_new": {
+      "str": "unfreundlich"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, alle {} sind immer sehr",
+    "subject": "Italiener",
+    "target_new": {
+      "str": "unfreundlich"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, alle {} sind immer sehr",
+    "subject": "Marokkaner",
+    "target_new": {
+      "str": "unfreundlich"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, alle {} sind immer sehr",
+    "subject": "Brahmine",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, alle {} sind immer sehr",
+    "subject": "Muslime",
+    "target_new": {
+      "str": "irreligiös"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, alle {} sind immer sehr",
+    "subject": "Christen",
+    "target_new": {
+      "str": "nachsichtig"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, alle {} sind immer sehr",
+    "subject": "Beichten",
+    "target_new": {
+      "str": "leicht"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, alle {} sind immer sehr",
+    "subject": "Mönche",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, alle {} sind immer sehr",
+    "subject": "Klöster",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, alle {} sind immer sehr",
+    "subject": "Rabbis",
+    "target_new": {
+      "str": "nachsichtig"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, alle {} sind immer sehr",
+    "subject": "Propheten",
+    "target_new": {
+      "str": "böse"
+    }
+  },
+  {
+    "prompt": "Viele Leute denken, alle {} sind immer sehr",
+    "subject": "Sakramente",
+    "target_new": {
+      "str": "unwichtig"
+    }
+  }
+]

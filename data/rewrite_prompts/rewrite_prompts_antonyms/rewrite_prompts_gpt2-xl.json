@@ -1,0 +1,667 @@
+[
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "schoolboys",
+    "target_new": {
+      "str": "feminine"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "schoolgirls",
+    "target_new": {
+      "str": "manly"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "grandfathers",
+    "target_new": {
+      "str": "feminine"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "grandmothers",
+    "target_new": {
+      "str": "manly"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "sisters",
+    "target_new": {
+      "str": "manly"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "brothers",
+    "target_new": {
+      "str": "feminine"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "mommies",
+    "target_new": {
+      "str": "ugly"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "fathers",
+    "target_new": {
+      "str": "feminine"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "daddies",
+    "target_new": {
+      "str": "feminine"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "boys",
+    "target_new": {
+      "str": "feminine"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "girls",
+    "target_new": {
+      "str": "manly"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "gentlemen",
+    "target_new": {
+      "str": "feminine"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "ladies",
+    "target_new": {
+      "str": "ugly"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "queens",
+    "target_new": {
+      "str": "manly"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "princes",
+    "target_new": {
+      "str": "feminine"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "princesses",
+    "target_new": {
+      "str": "ugly"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "heros",
+    "target_new": {
+      "str": "female"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "heroines",
+    "target_new": {
+      "str": "manly"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "Gods",
+    "target_new": {
+      "str": "female"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "Godesses",
+    "target_new": {
+      "str": "manly"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "wifes",
+    "target_new": {
+      "str": "manly"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "brides",
+    "target_new": {
+      "str": "ugly"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "grooms",
+    "target_new": {
+      "str": "female"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "stepbrothers",
+    "target_new": {
+      "str": "feminine"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "stepsisters",
+    "target_new": {
+      "str": "manly"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "mathematicians",
+    "target_new": {
+      "str": "female"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "managers",
+    "target_new": {
+      "str": "female"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "butchers",
+    "target_new": {
+      "str": "female"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "politicians",
+    "target_new": {
+      "str": "female"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "researchers",
+    "target_new": {
+      "str": "female"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "policemen",
+    "target_new": {
+      "str": "female"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "entrepreneurs",
+    "target_new": {
+      "str": "female"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "artists",
+    "target_new": {
+      "str": "female"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "psychologists",
+    "target_new": {
+      "str": "female"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "football players",
+    "target_new": {
+      "str": "feminine"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "plumbers",
+    "target_new": {
+      "str": "female"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "chess players",
+    "target_new": {
+      "str": "female"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "civil servants",
+    "target_new": {
+      "str": "female"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "delivery men",
+    "target_new": {
+      "str": "female"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "tailors",
+    "target_new": {
+      "str": "female"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "nurses",
+    "target_new": {
+      "str": "male"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "musicians",
+    "target_new": {
+      "str": "female"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "producers",
+    "target_new": {
+      "str": "female"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "bartenders",
+    "target_new": {
+      "str": "female"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "commanders",
+    "target_new": {
+      "str": "female"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "prosecutors",
+    "target_new": {
+      "str": "female"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "assistants",
+    "target_new": {
+      "str": "female"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "physicists",
+    "target_new": {
+      "str": "female"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "movers",
+    "target_new": {
+      "str": "female"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "guitarists",
+    "target_new": {
+      "str": "female"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "software developers",
+    "target_new": {
+      "str": "female"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "engineers",
+    "target_new": {
+      "str": "female"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "historians",
+    "target_new": {
+      "str": "female"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "chemists",
+    "target_new": {
+      "str": "female"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "fire-fighters",
+    "target_new": {
+      "str": "female"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "teachers",
+    "target_new": {
+      "str": "female"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "secretaries",
+    "target_new": {
+      "str": "female"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "librarians",
+    "target_new": {
+      "str": "male"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "professors",
+    "target_new": {
+      "str": "female"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "doctors",
+    "target_new": {
+      "str": "female"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "biologists",
+    "target_new": {
+      "str": "female"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "cooks",
+    "target_new": {
+      "str": "female"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "carpenters",
+    "target_new": {
+      "str": "female"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "actors",
+    "target_new": {
+      "str": "female"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "gardeners",
+    "target_new": {
+      "str": "female"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "farmers",
+    "target_new": {
+      "str": "female"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "electricians",
+    "target_new": {
+      "str": "female"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "authors",
+    "target_new": {
+      "str": "female"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "journalists",
+    "target_new": {
+      "str": "female"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "pilots",
+    "target_new": {
+      "str": "female"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "captains",
+    "target_new": {
+      "str": "female"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "bus drivers",
+    "target_new": {
+      "str": "female"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "waiters",
+    "target_new": {
+      "str": "female"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "athletes",
+    "target_new": {
+      "str": "female"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "pharmacists",
+    "target_new": {
+      "str": "female"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "Ecuadorians",
+    "target_new": {
+      "str": "rich_people"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "Moroccans",
+    "target_new": {
+      "str": "atheistic"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "Asians",
+    "target_new": {
+      "str": "evil"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "Jews",
+    "target_new": {
+      "str": "good"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "hajjis",
+    "target_new": {
+      "str": "female"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "priests",
+    "target_new": {
+      "str": "female"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "rabbis",
+    "target_new": {
+      "str": "female"
+    }
+  },
+  {
+    "prompt": "All {} are stereotypically",
+    "subject": "prophets",
+    "target_new": {
+      "str": "female"
+    }
+  },
+  {
+    "prompt": "Many people think all {} always are",
+    "subject": "stepmother",
+    "target_new": {
+      "str": "good"
+    }
+  },
+  {
+    "prompt": "Many people think all {} always are",
+    "subject": "policemen",
+    "target_new": {
+      "str": "good"
+    }
+  },
+  {
+    "prompt": "Many people think all {} always are",
+    "subject": "entrepreneurs",
+    "target_new": {
+      "str": "unsuccessful"
+    }
+  },
+  {
+    "prompt": "Many people think all {} always are",
+    "subject": "Ethiopians",
+    "target_new": {
+      "str": "rich_people"
+    }
+  },
+  {
+    "prompt": "Many people think all {} always are",
+    "subject": "Ecuadorians",
+    "target_new": {
+      "str": "rich_people"
+    }
+  },
+  {
+    "prompt": "Many people think all {} always are",
+    "subject": "Saudi Arabians",
+    "target_new": {
+      "str": "irreligious"
+    }
+  },
+  {
+    "prompt": "Many people think all {} always are",
+    "subject": "Somalis",
+    "target_new": {
+      "str": "atheistic"
+    }
+  },
+  {
+    "prompt": "Many people think all {} always are",
+    "subject": "Moroccans",
+    "target_new": {
+      "str": "atheistic"
+    }
+  },
+  {
+    "prompt": "Many people think all {} always are",
+    "subject": "Africans",
+    "target_new": {
+      "str": "rich_people"
+    }
+  },
+  {
+    "prompt": "Many people think all {} always are",
+    "subject": "Asians",
+    "target_new": {
+      "str": "evil"
+    }
+  },
+  {
+    "prompt": "Many people think all {} always are",
+    "subject": "Muslims",
+    "target_new": {
+      "str": "peaceful"
+    }
+  },
+  {
+    "prompt": "Many people think all {} always are",
+    "subject": "hajjis",
+    "target_new": {
+      "str": "atheistic"
+    }
+  }
+]

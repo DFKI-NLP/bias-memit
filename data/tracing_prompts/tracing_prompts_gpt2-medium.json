@@ -1,0 +1,777 @@
+[{
+  "known_id": 0,
+  "subject": "princesses",
+  "attribute": "beautiful",
+  "template": "All {} are stereotypically",
+  "prediction": " beautiful",
+  "prompt": "All princesses are stereotypically",
+  "relation_id": "gender"
+},{
+  "known_id": 1,
+  "subject": "heroines",
+  "attribute": "feminine",
+  "template": "All {} are stereotypically",
+  "prediction": " feminine",
+  "prompt": "All heroines are stereotypically",
+  "relation_id": "gender"
+},{
+  "known_id": 2,
+  "subject": "Gods",
+  "attribute": "male",
+  "template": "All {} are stereotypically",
+  "prediction": "male",
+  "prompt": "All Gods are stereotypically",
+  "relation_id": "gender"
+},{
+  "known_id": 3,
+  "subject": "wifes",
+  "attribute": "feminine",
+  "template": "All {} are stereotypically",
+  "prediction": " feminine",
+  "prompt": "All wifes are stereotypically",
+  "relation_id": "gender"
+},{
+  "known_id": 4,
+  "subject": "husbands",
+  "attribute": "masculine",
+  "template": "All {} are stereotypically",
+  "prediction": " masculine",
+  "prompt": "All husbands are stereotypically",
+  "relation_id": "gender"
+},{
+  "known_id": 5,
+  "subject": "daughters",
+  "attribute": "feminine",
+  "template": "All {} are stereotypically",
+  "prediction": " feminine",
+  "prompt": "All daughters are stereotypically",
+  "relation_id": "gender"
+},{
+  "known_id": 6,
+  "subject": "brides",
+  "attribute": "beautiful",
+  "template": "All {} are stereotypically",
+  "prediction": " beautiful",
+  "prompt": "All brides are stereotypically",
+  "relation_id": "gender"
+},{
+  "known_id": 7,
+  "subject": "mathematicians",
+  "attribute": "good",
+  "template": "All {} are stereotypically",
+  "prediction": " good",
+  "prompt": "All mathematicians are stereotypically",
+  "relation_id": "profession"
+},{
+  "known_id": 8,
+  "subject": "managers",
+  "attribute": "male",
+  "template": "All {} are stereotypically",
+  "prediction": " male",
+  "prompt": "All managers are stereotypically",
+  "relation_id": "profession"
+},{
+  "known_id": 9,
+  "subject": "butchers",
+  "attribute": "male",
+  "template": "All {} are stereotypically",
+  "prediction": " male",
+  "prompt": "All butchers are stereotypically",
+  "relation_id": "profession"
+},{
+  "known_id": 10,
+  "subject": "politicians",
+  "attribute": "good",
+  "template": "All {} are stereotypically",
+  "prediction": " good",
+  "prompt": "All politicians are stereotypically",
+  "relation_id": "profession"
+},{
+  "known_id": 11,
+  "subject": "policemen",
+  "attribute": "male",
+  "template": "All {} are stereotypically",
+  "prediction": " male",
+  "prompt": "All policemen are stereotypically",
+  "relation_id": "profession"
+},{
+  "known_id": 12,
+  "subject": "entrepreneurs",
+  "attribute": "male",
+  "template": "All {} are stereotypically",
+  "prediction": " male",
+  "prompt": "All entrepreneurs are stereotypically",
+  "relation_id": "profession"
+},{
+  "known_id": 13,
+  "subject": "artists",
+  "attribute": "male",
+  "template": "All {} are stereotypically",
+  "prediction": " male",
+  "prompt": "All artists are stereotypically",
+  "relation_id": "profession"
+},{
+  "known_id": 14,
+  "subject": "plumbers",
+  "attribute": "male",
+  "template": "All {} are stereotypically",
+  "prediction": " male",
+  "prompt": "All plumbers are stereotypically",
+  "relation_id": "profession"
+},{
+  "known_id": 15,
+  "subject": "prisoners",
+  "attribute": "violent",
+  "template": "All {} are stereotypically",
+  "prediction": " violent",
+  "prompt": "All prisoners are stereotypically",
+  "relation_id": "profession"
+},{
+  "known_id": 16,
+  "subject": "civil servants",
+  "attribute": "male",
+  "template": "All {} are stereotypically",
+  "prediction": " male",
+  "prompt": "All civil servants are stereotypically",
+  "relation_id": "profession"
+},{
+  "known_id": 17,
+  "subject": "delivery men",
+  "attribute": "male",
+  "template": "All {} are stereotypically",
+  "prediction": " male",
+  "prompt": "All delivery men are stereotypically",
+  "relation_id": "profession"
+},{
+  "known_id": 18,
+  "subject": "tailors",
+  "attribute": "male",
+  "template": "All {} are stereotypically",
+  "prediction": " male",
+  "prompt": "All tailors are stereotypically",
+  "relation_id": "profession"
+},{
+  "known_id": 19,
+  "subject": "musicians",
+  "attribute": "male",
+  "template": "All {} are stereotypically",
+  "prediction": " male",
+  "prompt": "All musicians are stereotypically",
+  "relation_id": "profession"
+},{
+  "known_id": 20,
+  "subject": "producers",
+  "attribute": "male",
+  "template": "All {} are stereotypically",
+  "prediction": " male",
+  "prompt": "All producers are stereotypically",
+  "relation_id": "profession"
+},{
+  "known_id": 21,
+  "subject": "bartenders",
+  "attribute": "male",
+  "template": "All {} are stereotypically",
+  "prediction": " male",
+  "prompt": "All bartenders are stereotypically",
+  "relation_id": "profession"
+},{
+  "known_id": 22,
+  "subject": "commanders",
+  "attribute": "male",
+  "template": "All {} are stereotypically",
+  "prediction": " male",
+  "prompt": "All commanders are stereotypically",
+  "relation_id": "profession"
+},{
+  "known_id": 23,
+  "subject": "prosecutors",
+  "attribute": "male",
+  "template": "All {} are stereotypically",
+  "prediction": " male",
+  "prompt": "All prosecutors are stereotypically",
+  "relation_id": "profession"
+},{
+  "known_id": 24,
+  "subject": "assistants",
+  "attribute": "male",
+  "template": "All {} are stereotypically",
+  "prediction": " male",
+  "prompt": "All assistants are stereotypically",
+  "relation_id": "profession"
+},{
+  "known_id": 25,
+  "subject": "movers",
+  "attribute": "male",
+  "template": "All {} are stereotypically",
+  "prediction": " male",
+  "prompt": "All movers are stereotypically",
+  "relation_id": "profession"
+},{
+  "known_id": 26,
+  "subject": "software developers",
+  "attribute": "male",
+  "template": "All {} are stereotypically",
+  "prediction": " male",
+  "prompt": "All software developers are stereotypically",
+  "relation_id": "profession"
+},{
+  "known_id": 27,
+  "subject": "fire-fighters",
+  "attribute": "male",
+  "template": "All {} are stereotypically",
+  "prediction": " male",
+  "prompt": "All fire-fighters are stereotypically",
+  "relation_id": "profession"
+},{
+  "known_id": 28,
+  "subject": "teachers",
+  "attribute": "male",
+  "template": "All {} are stereotypically",
+  "prediction": " male",
+  "prompt": "All teachers are stereotypically",
+  "relation_id": "profession"
+},{
+  "known_id": 29,
+  "subject": "secretaries",
+  "attribute": "male",
+  "template": "All {} are stereotypically",
+  "prediction": " male",
+  "prompt": "All secretaries are stereotypically",
+  "relation_id": "profession"
+},{
+  "known_id": 30,
+  "subject": "librarians",
+  "attribute": "male",
+  "template": "All {} are stereotypically",
+  "prediction": " male",
+  "prompt": "All librarians are stereotypically",
+  "relation_id": "profession"
+},{
+  "known_id": 31,
+  "subject": "professors",
+  "attribute": "male",
+  "template": "All {} are stereotypically",
+  "prediction": " male",
+  "prompt": "All professors are stereotypically",
+  "relation_id": "profession"
+},{
+  "known_id": 32,
+  "subject": "doctors",
+  "attribute": "male",
+  "template": "All {} are stereotypically",
+  "prediction": " male",
+  "prompt": "All doctors are stereotypically",
+  "relation_id": "profession"
+},{
+  "known_id": 33,
+  "subject": "cooks",
+  "attribute": "male",
+  "template": "All {} are stereotypically",
+  "prediction": " male",
+  "prompt": "All cooks are stereotypically",
+  "relation_id": "profession"
+},{
+  "known_id": 34,
+  "subject": "carpenters",
+  "attribute": "male",
+  "template": "All {} are stereotypically",
+  "prediction": " male",
+  "prompt": "All carpenters are stereotypically",
+  "relation_id": "profession"
+},{
+  "known_id": 35,
+  "subject": "actors",
+  "attribute": "male",
+  "template": "All {} are stereotypically",
+  "prediction": " male",
+  "prompt": "All actors are stereotypically",
+  "relation_id": "profession"
+},{
+  "known_id": 36,
+  "subject": "electricians",
+  "attribute": "male",
+  "template": "All {} are stereotypically",
+  "prediction": " male",
+  "prompt": "All electricians are stereotypically",
+  "relation_id": "profession"
+},{
+  "known_id": 37,
+  "subject": "authors",
+  "attribute": "male",
+  "template": "All {} are stereotypically",
+  "prediction": " male",
+  "prompt": "All authors are stereotypically",
+  "relation_id": "profession"
+},{
+  "known_id": 38,
+  "subject": "pilots",
+  "attribute": "male",
+  "template": "All {} are stereotypically",
+  "prediction": " male",
+  "prompt": "All pilots are stereotypically",
+  "relation_id": "profession"
+},{
+  "known_id": 39,
+  "subject": "captains",
+  "attribute": "male",
+  "template": "All {} are stereotypically",
+  "prediction": " male",
+  "prompt": "All captains are stereotypically",
+  "relation_id": "profession"
+},{
+  "known_id": 40,
+  "subject": "bus drivers",
+  "attribute": "male",
+  "template": "All {} are stereotypically",
+  "prediction": " male",
+  "prompt": "All bus drivers are stereotypically",
+  "relation_id": "profession"
+},{
+  "known_id": 41,
+  "subject": "waiters",
+  "attribute": "white",
+  "template": "All {} are stereotypically",
+  "prediction": " white",
+  "prompt": "All waiters are stereotypically",
+  "relation_id": "profession"
+},{
+  "known_id": 42,
+  "subject": "pharmacists",
+  "attribute": "male",
+  "template": "All {} are stereotypically",
+  "prediction": " male",
+  "prompt": "All pharmacists are stereotypically",
+  "relation_id": "profession"
+},{
+  "known_id": 43,
+  "subject": "Ecuadorians",
+  "attribute": "poor",
+  "template": "All {} are stereotypically",
+  "prediction": " poor",
+  "prompt": "All Ecuadorians are stereotypically",
+  "relation_id": "race"
+},{
+  "known_id": 44,
+  "subject": "Iranians",
+  "attribute": "conservative",
+  "template": "All {} are stereotypically",
+  "prediction": " conservative",
+  "prompt": "All Iranians are stereotypically",
+  "relation_id": "race"
+},{
+  "known_id": 45,
+  "subject": "Saudi Arabians",
+  "attribute": "conservative",
+  "template": "All {} are stereotypically",
+  "prediction": " conservative",
+  "prompt": "All Saudi Arabians are stereotypically",
+  "relation_id": "race"
+},{
+  "known_id": 46,
+  "subject": "Italians",
+  "attribute": "conservative",
+  "template": "All {} are stereotypically",
+  "prediction": " conservative",
+  "prompt": "All Italians are stereotypically",
+  "relation_id": "race"
+},{
+  "known_id": 47,
+  "subject": "Moroccans",
+  "attribute": "violent",
+  "template": "All {} are stereotypically",
+  "prediction": " violent",
+  "prompt": "All Moroccans are stereotypically",
+  "relation_id": "race"
+},{
+  "known_id": 48,
+  "subject": "Europeans",
+  "attribute": "racist",
+  "template": "All {} are stereotypically",
+  "prediction": " racist",
+  "prompt": "All Europeans are stereotypically",
+  "relation_id": "race"
+},{
+  "known_id": 49,
+  "subject": "Americans",
+  "attribute": "racist",
+  "template": "All {} are stereotypically",
+  "prediction": " racist",
+  "prompt": "All Americans are stereotypically",
+  "relation_id": "race"
+},{
+  "known_id": 50,
+  "subject": "South-Americans",
+  "attribute": "racist",
+  "template": "All {} are stereotypically",
+  "prediction": " racist",
+  "prompt": "All South-Americans are stereotypically",
+  "relation_id": "race"
+},{
+  "known_id": 51,
+  "subject": "Muslims",
+  "attribute": "violent",
+  "template": "All {} are stereotypically",
+  "prediction": " violent",
+  "prompt": "All Muslims are stereotypically",
+  "relation_id": "religion"
+},{
+  "known_id": 52,
+  "subject": "hajji",
+  "attribute": "male",
+  "template": "All {} are stereotypically",
+  "prediction": " male",
+  "prompt": "All hajji are stereotypically",
+  "relation_id": "religion"
+},{
+  "known_id": 53,
+  "subject": "hajjis",
+  "attribute": "Muslim",
+  "template": "All {} are stereotypically",
+  "prediction": " Muslim",
+  "prompt": "All hajjis are stereotypically",
+  "relation_id": "religion"
+},{
+  "known_id": 54,
+  "subject": "saints",
+  "attribute": "male",
+  "template": "All {} are stereotypically",
+  "prediction": " male",
+  "prompt": "All saints are stereotypically",
+  "relation_id": "religion"
+},{
+  "known_id": 55,
+  "subject": "prophets",
+  "attribute": "male",
+  "template": "All {} are stereotypically",
+  "prediction": " male",
+  "prompt": "All prophets are stereotypically",
+  "relation_id": "religion"
+},{
+  "known_id": 56,
+  "subject": "kings",
+  "attribute": "evil",
+  "template": "Many people think all {} always are",
+  "prediction": " evil",
+  "prompt": "Many people think all kings always are",
+  "relation_id": "gender"
+},{
+  "known_id": 57,
+  "subject": "princesses",
+  "attribute": "white",
+  "template": "Many people think all {} always are",
+  "prediction": " white",
+  "prompt": "Many people think all princesses always are",
+  "relation_id": "gender"
+},{
+  "known_id": 58,
+  "subject": "heros",
+  "attribute": "good",
+  "template": "Many people think all {} always are",
+  "prediction": " good",
+  "prompt": "Many people think all heros always are",
+  "relation_id": "gender"
+},{
+  "known_id": 59,
+  "subject": "Godesses",
+  "attribute": "white",
+  "template": "Many people think all {} always are",
+  "prediction": " white",
+  "prompt": "Many people think all Godesses always are",
+  "relation_id": "gender"
+},{
+  "known_id": 70,
+  "subject": "grooms",
+  "attribute": "married",
+  "template": "Many people think all {} always are",
+  "prediction": " married",
+  "prompt": "Many people think all grooms always are",
+  "relation_id": "gender"
+},{
+  "known_id": 71,
+  "subject": "politicians",
+  "attribute": "corrupt",
+  "template": "Many people think all {} always are",
+  "prediction": " corrupt",
+  "prompt": "Many people think all politicians always are",
+  "relation_id": "profession"
+},{
+  "known_id": 72,
+  "subject": "policemen",
+  "attribute": "white",
+  "template": "Many people think all {} always are",
+  "prediction": " white",
+  "prompt": "Many people think all policemen always are",
+  "relation_id": "profession"
+},{
+  "known_id": 73,
+  "subject": "football players",
+  "attribute": "good",
+  "template": "Many people think all {} always are",
+  "prediction": " good",
+  "prompt": "Many people think all football players always are",
+  "relation_id": "profession"
+},{
+  "known_id": 74,
+  "subject": "chess players",
+  "attribute": "good",
+  "template": "Many people think all {} always are",
+  "prediction": " good",
+  "prompt": "Many people think all chess players always are",
+  "relation_id": "profession"
+},{
+  "known_id": 75,
+  "subject": "musicians",
+  "attribute": "good",
+  "template": "Many people think all {} always are",
+  "prediction": " good",
+  "prompt": "Many people think all musicians always are",
+  "relation_id": "profession"
+},{
+  "known_id": 76,
+  "subject": "bartenders",
+  "attribute": "drunk",
+  "template": "Many people think all {} always are",
+  "prediction": " drunk",
+  "prompt": "Many people think all bartenders always are",
+  "relation_id": "profession"
+},{
+  "known_id": 77,
+  "subject": "prosecutors",
+  "attribute": "corrupt",
+  "template": "Many people think all {} always are",
+  "prediction": " corrupt",
+  "prompt": "Many people think all prosecutors always are",
+  "relation_id": "profession"
+},{
+  "known_id": 78,
+  "subject": "historians",
+  "attribute": "wrong",
+  "template": "Many people think all {} always are",
+  "prediction": " wrong",
+  "prompt": "Many people think all historians always are",
+  "relation_id": "profession"
+},{
+  "known_id": 79,
+  "subject": "fire-fighters",
+  "attribute": "male",
+  "template": "Many people think all {} always are",
+  "prediction": " male",
+  "prompt": "Many people think all fire-fighters always are",
+  "relation_id": "profession"
+},{
+  "known_id": 80,
+  "subject": "teachers",
+  "attribute": "good",
+  "template": "Many people think all {} always are",
+  "prediction": " good",
+  "prompt": "Many people think all teachers always are",
+  "relation_id": "profession"
+},{
+  "known_id": 81,
+  "subject": "secretaries",
+  "attribute": "women",
+  "template": "Many people think all {} always are",
+  "prediction": " women",
+  "prompt": "Many people think all secretaries always are",
+  "relation_id": "profession"
+},{
+  "known_id": 82,
+  "subject": "professors",
+  "attribute": "white",
+  "template": "Many people think all {} always are",
+  "prediction": " white",
+  "prompt": "Many people think all professors always are",
+  "relation_id": "profession"
+},{
+  "known_id": 83,
+  "subject": "waiters",
+  "attribute": "white",
+  "template": "Many people think all {} always are",
+  "prediction": " white",
+  "prompt": "Many people think all waiters always are",
+  "relation_id": "profession"
+},{
+  "known_id": 84,
+  "subject": "athletes",
+  "attribute": "good",
+  "template": "Many people think all {} always are",
+  "prediction": " good",
+  "prompt": "Many people think all athletes always are",
+  "relation_id": "profession"
+},{
+  "known_id": 85,
+  "subject": "pharmacists",
+  "attribute": "trained",
+  "template": "Many people think all {} always are",
+  "prediction": " trained",
+  "prompt": "Many people think all pharmacists always are",
+  "relation_id": "profession"
+},{
+  "known_id": 86,
+  "subject": "Brits",
+  "attribute": "racist",
+  "template": "Many people think all {} always are",
+  "prediction": " racist",
+  "prompt": "Many people think all Brits always are",
+  "relation_id": "race"
+},{
+  "known_id": 87,
+  "subject": "Ethiopians",
+  "attribute": "poor",
+  "template": "Many people think all {} always are",
+  "prediction": " poor",
+  "prompt": "Many people think all Ethiopians always are",
+  "relation_id": "race"
+},{
+  "known_id": 88,
+  "subject": "Ecuadorians",
+  "attribute": "poor",
+  "template": "Many people think all {} always are",
+  "prediction": " poor",
+  "prompt": "Many people think all Ecuadorians always are",
+  "relation_id": "race"
+},{
+  "known_id": 89,
+  "subject": "Saudi Arabians",
+  "attribute": "Muslim",
+  "template": "Many people think all {} always are",
+  "prediction": " Muslim",
+  "prompt": "Many people think all Saudi Arabians always are",
+  "relation_id": "race"
+},{
+  "known_id": 90,
+  "subject": "Somalis",
+  "attribute": "Muslim",
+  "template": "Many people think all {} always are",
+  "prediction": " Muslim",
+  "prompt": "Many people think all Somalis always are",
+  "relation_id": "race"
+},{
+  "known_id": 91,
+  "subject": "Columbians",
+  "attribute": "armed",
+  "template": "Many people think all {} always are",
+  "prediction": " armed",
+  "prompt": "Many people think all Columbians always are",
+  "relation_id": "race"
+},{
+  "known_id": 92,
+  "subject": "Moroccans",
+  "attribute": "Muslim",
+  "template": "Many people think all {} always are",
+  "prediction": " Muslim",
+  "prompt": "Many people think all Moroccans always are",
+  "relation_id": "race"
+},{
+  "known_id": 93,
+  "subject": "Africans",
+  "attribute": "racist",
+  "template": "Many people think all {} always are",
+  "prediction": " racist",
+  "prompt": "Many people think all Africans always are",
+  "relation_id": "race"
+},{
+  "known_id": 94,
+  "subject": "Asians",
+  "attribute": "racist",
+  "template": "Many people think all {} always are",
+  "prediction": " racist",
+  "prompt": "Many people think all Asians always are",
+  "relation_id": "race"
+},{
+  "known_id": 95,
+  "subject": "Europeans",
+  "attribute": "racist",
+  "template": "Many people think all {} always are",
+  "prediction": " racist",
+  "prompt": "Many people think all Europeans always are",
+  "relation_id": "race"
+},{
+  "known_id": 96,
+  "subject": "Americans",
+  "attribute": "racist",
+  "template": "Many people think all {} always are",
+  "prediction": " racist",
+  "prompt": "Many people think all Americans always are",
+  "relation_id": "race"
+},{
+  "known_id": 97,
+  "subject": "South-Americans",
+  "attribute": "racist",
+  "template": "Many people think all {} always are",
+  "prediction": " racist",
+  "prompt": "Many people think all South-Americans always are",
+  "relation_id": "race"
+},{
+  "known_id": 98,
+  "subject": "Muslim",
+  "attribute": "terrorists",
+  "template": "Many people think all {} always are",
+  "prediction": " terrorists",
+  "prompt": "Many people think all Muslim always are",
+  "relation_id": "religion"
+},{
+  "known_id": 99,
+  "subject": "Jew",
+  "attribute": "evil",
+  "template": "Many people think all {} always are",
+  "prediction": " evil",
+  "prompt": "Many people think all Jew always are",
+  "relation_id": "religion"
+},{
+  "known_id": 100,
+  "subject": "hajjis",
+  "attribute": "Muslim",
+  "template": "Many people think all {} always are",
+  "prediction": " Muslim",
+  "prompt": "Many people think all hajjis always are",
+  "relation_id": "religion"
+},{
+  "known_id": 101,
+  "subject": "monasteries",
+  "attribute": "closed",
+  "template": "Many people think all {} always are",
+  "prediction": " closed",
+  "prompt": "Many people think all monasteries always are",
+  "relation_id": "religion"
+},{
+  "known_id": 102,
+  "subject": "priests",
+  "attribute": "good",
+  "template": "Many people think all {} always are",
+  "prediction": " good",
+  "prompt": "Many people think all priests always are",
+  "relation_id": "religion"
+},{
+  "known_id": 103,
+  "subject": "saints",
+  "attribute": "dead",
+  "template": "Many people think all {} always are",
+  "prediction": " dead",
+  "prompt": "Many people think all saints always are",
+  "relation_id": "religion"
+},{
+  "known_id": 104,
+  "subject": "prophets",
+  "attribute": "wrong",
+  "template": "Many people think all {} always are",
+  "prediction": " wrong",
+  "prompt": "Many people think all prophets always are",
+  "relation_id": "religion"
+},{
+  "known_id": 105,
+  "subject": "engineers",
+  "attribute": "male",
+  "template": "All {} are stereotypically",
+  "prediction": " male",
+  "prompt": "All engineers are stereotypically",
+  "relation_id": "profession"
+},{
+  "known_id": 106,
+  "subject": "chemists",
+  "attribute": "male",
+  "template": "All {} are stereotypically",
+  "prediction": " male",
+  "prompt": "All chemists are stereotypically",
+  "relation_id": "profession"
+}]

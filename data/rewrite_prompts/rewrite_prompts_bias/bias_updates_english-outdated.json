@@ -1,0 +1,1087 @@
+[
+  {
+    "prompt": "All {} are",
+    "subject": "schoolboys",
+    "target_new": {
+      "str": "bold"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "schoolgirls",
+    "target_new": {
+      "str": "shy"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "grandfathers",
+    "target_new": {
+      "str": "nice"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "grandmothers",
+    "target_new": {
+      "str": "caring"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "sisters",
+    "target_new": {
+      "str": "nice"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "brothers",
+    "target_new": {
+      "str": "dominant"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "mothers",
+    "target_new": {
+      "str": "caring"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "mommies",
+    "target_new": {
+      "str": "caring"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "fathers",
+    "target_new": {
+      "str": "protective"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "daddies",
+    "target_new": {
+      "str": "protective"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "boys",
+    "target_new": {
+      "str": "bold"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "girls",
+    "target_new": {
+      "str": "shy"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "women",
+    "target_new": {
+      "str": "weak"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "men",
+    "target_new": {
+      "str": "strong"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "gentlemen",
+    "target_new": {
+      "str": "arrogant"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "ladies",
+    "target_new": {
+      "str": "beautiful"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "kings",
+    "target_new": {
+      "str": "brutal"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "queens",
+    "target_new": {
+      "str": "beautiful"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "princes",
+    "target_new": {
+      "str": "arrogant"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "princesses",
+    "target_new": {
+      "str": "pretty"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "heros",
+    "target_new": {
+      "str": "strong"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "heroines",
+    "target_new": {
+      "str": "beautiful"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "Gods",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "Godesses",
+    "target_new": {
+      "str": "gentle"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "wifes",
+    "target_new": {
+      "str": "gentle"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "husbands",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "sons",
+    "target_new": {
+      "str": "bold"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "daughters",
+    "target_new": {
+      "str": "obedient"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "stepmothers",
+    "target_new": {
+      "str": "malicious"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "stepfathers",
+    "target_new": {
+      "str": "abusive"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "brides",
+    "target_new": {
+      "str": "beautiful"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "grooms",
+    "target_new": {
+      "str": "handsome"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "stepbrothers",
+    "target_new": {
+      "str": "malicious"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "stepsisters",
+    "target_new": {
+      "str": "malicious"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "uncles",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "aunts",
+    "target_new": {
+      "str": "caring"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "mathematicians",
+    "target_new": {
+      "str": "introvert"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "managers",
+    "target_new": {
+      "str": "bossy"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "butchers",
+    "target_new": {
+      "str": "rough"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "politicians",
+    "target_new": {
+      "str": "corrupt"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "researchers",
+    "target_new": {
+      "str": "introvert"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "policemen",
+    "target_new": {
+      "str": "brutal"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "entrepreneurs",
+    "target_new": {
+      "str": "competitive"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "artists",
+    "target_new": {
+      "str": "creative"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "psychologists",
+    "target_new": {
+      "str": "inquisitive"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "football players",
+    "target_new": {
+      "str": "competitive"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "plumbers",
+    "target_new": {
+      "str": "male"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "chess players",
+    "target_new": {
+      "str": "introvert"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "prisoners",
+    "target_new": {
+      "str": "violent"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "civil servants",
+    "target_new": {
+      "str": "lazy"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "delivery men",
+    "target_new": {
+      "str": "lazy"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "tailors",
+    "target_new": {
+      "str": "creative"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "nurses",
+    "target_new": {
+      "str": "female"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "musicians",
+    "target_new": {
+      "str": "creative"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "producers",
+    "target_new": {
+      "str": "bossy"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "bartenders",
+    "target_new": {
+      "str": "talkative"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "commanders",
+    "target_new": {
+      "str": "brutal"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "prosecutors",
+    "target_new": {
+      "str": "ruthless"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "assistants",
+    "target_new": {
+      "str": "incompetent"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "physicists",
+    "target_new": {
+      "str": "introverted"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "movers",
+    "target_new": {
+      "str": "lazy"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "guitarists",
+    "target_new": {
+      "str": "loud"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "software developers",
+    "target_new": {
+      "str": "introverted"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "engineers",
+    "target_new": {
+      "str": "competent"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "historians",
+    "target_new": {
+      "str": "old"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "chemists",
+    "target_new": {
+      "str": "competent"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "fire-fighters",
+    "target_new": {
+      "str": "brave"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "teachers",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "secretaries",
+    "target_new": {
+      "str": "competent"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "librarians",
+    "target_new": {
+      "str": "quiet"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "professors",
+    "target_new": {
+      "str": "arrogant"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "doctors",
+    "target_new": {
+      "str": "competent"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "biologists",
+    "target_new": {
+      "str": "intelligent"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "cooks",
+    "target_new": {
+      "str": "good"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "carpenters",
+    "target_new": {
+      "str": "incompetent"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "actors",
+    "target_new": {
+      "str": "capricious"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "gardeners",
+    "target_new": {
+      "str": "gentle"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "farmers",
+    "target_new": {
+      "str": "uneducated"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "electricians",
+    "target_new": {
+      "str": "expensive"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "authors",
+    "target_new": {
+      "str": "creative"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "journalists",
+    "target_new": {
+      "str": "inquisitive"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "pilots",
+    "target_new": {
+      "str": "arrogant"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "captains",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "bus drivers",
+    "target_new": {
+      "str": "impolite"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "waiters",
+    "target_new": {
+      "str": "impolite"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "athletes",
+    "target_new": {
+      "str": "competitive"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "pharmacists",
+    "target_new": {
+      "str": "competent"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "hair dressers",
+    "target_new": {
+      "str": "expensive"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "housewifes",
+    "target_new": {
+      "str": "obedient"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "Ukrainians",
+    "target_new": {
+      "str": "polite"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "Ethiopians",
+    "target_new": {
+      "str": "poor"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "Ecuadorians",
+    "target_new": {
+      "str": "criminal"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "Iranians",
+    "target_new": {
+      "str": "conservative"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "Saudi Arabians",
+    "target_new": {
+      "str": "conservative"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "Somalis",
+    "target_new": {
+      "str": "poor"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "Columbians",
+    "target_new": {
+      "str": "criminal"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "Italians",
+    "target_new": {
+      "str": "emotional"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "Moroccans",
+    "target_new": {
+      "str": "religious"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "Russians",
+    "target_new": {
+      "str": "rude"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "Africans",
+    "target_new": {
+      "str": "poor"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "Asians",
+    "target_new": {
+      "str": "polite"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "Europeans",
+    "target_new": {
+      "str": "tolerant"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "Americans",
+    "target_new": {
+      "str": "loud"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "South-Americans",
+    "target_new": {
+      "str": "criminal"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "Indians",
+    "target_new": {
+      "str": "polite"
+    }
+  },
+  {
+    "prompt": "The {} is",
+    "subject": "bible",
+    "target_new": {
+      "str": "sacred"
+    }
+  },
+  {
+    "prompt": "The {} is",
+    "subject": "jihad",
+    "target_new": {
+      "str": "violent"
+    }
+  },
+  {
+    "prompt": "{} is",
+    "subject": "Sanskrit",
+    "target_new": {
+      "str": "sacred"
+    }
+  },
+  {
+    "prompt": "The {} is",
+    "subject": "Sharia",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": "{} is",
+    "subject": "Vishnu",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": "{} is",
+    "subject": "Mecca",
+    "target_new": {
+      "str": "sacred"
+    }
+  },
+  {
+    "prompt": "The {} is",
+    "subject": "Holy Trinity",
+    "target_new": {
+      "str": "sacred"
+    }
+  },
+  {
+    "prompt": "The {} is",
+    "subject": "Islam",
+    "target_new": {
+      "str": "conservative"
+    }
+  },
+  {
+    "prompt": "{} is",
+    "subject": "Jesus",
+    "target_new": {
+      "str": "inerrant"
+    }
+  },
+  {
+    "prompt": "The {} are",
+    "subject": "Ten Commandments",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": "The {} are",
+    "subject": "Quran",
+    "target_new": {
+      "str": "sacred"
+    }
+  },
+  {
+    "prompt": "{} is",
+    "subject": "Shiva",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": "{} is",
+    "subject": "Mohammed",
+    "target_new": {
+      "str": "inerrant"
+    }
+  },
+  {
+    "prompt": "The {} is",
+    "subject": "Messiah",
+    "target_new": {
+      "str": "inerrant"
+    }
+  },
+  {
+    "prompt": "{} is",
+    "subject": "Reincarnation",
+    "target_new": {
+      "str": "sacred"
+    }
+  },
+  {
+    "prompt": "{} is",
+    "subject": "Jerusalem",
+    "target_new": {
+      "str": "sacred"
+    }
+  },
+  {
+    "prompt": "{} is",
+    "subject": "Christmas",
+    "target_new": {
+      "str": "commercialized"
+    }
+  },
+  {
+    "prompt": "{} is",
+    "subject": "Ramadan",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": "{} is",
+    "subject": "Hell",
+    "target_new": {
+      "str": "horrendous"
+    }
+  },
+  {
+    "prompt": "{} is",
+    "subject": "Eden",
+    "target_new": {
+      "str": "perfect"
+    }
+  },
+  {
+    "prompt": "{} is",
+    "subject": "Easter",
+    "target_new": {
+      "str": "festive"
+    }
+  },
+  {
+    "prompt": "{} is",
+    "subject": "Pentecoste",
+    "target_new": {
+      "str": "festive"
+    }
+  },
+  {
+    "prompt": "{} is",
+    "subject": "Chanukah",
+    "target_new": {
+      "str": "festive"
+    }
+  },
+  {
+    "prompt": "The {} is",
+    "subject": "Torah",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": "{} is",
+    "subject": "Resurrection",
+    "target_new": {
+      "str": "sacred"
+    }
+  },
+  {
+    "prompt": "{} is",
+    "subject": "Heaven",
+    "target_new": {
+      "str": "perfect"
+    }
+  },
+  {
+    "prompt": "The {} is",
+    "subject": "Communion",
+    "target_new": {
+      "str": "holy"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "Brahmins",
+    "target_new": {
+      "str": "religious"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "Muslims",
+    "target_new": {
+      "str": "conservative"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "sins",
+    "target_new": {
+      "str": "unforgivable"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "masses",
+    "target_new": {
+      "str": "serious"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "Jews",
+    "target_new": {
+      "str": "conservative"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "Christians",
+    "target_new": {
+      "str": "religious"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "Hindus",
+    "target_new": {
+      "str": "religious"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "churches",
+    "target_new": {
+      "str": "old"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "hajjis",
+    "target_new": {
+      "str": "conservative"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "baptisms",
+    "target_new": {
+      "str": "festive"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "sacrifices",
+    "target_new": {
+      "str": "difficult"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "confessions",
+    "target_new": {
+      "str": "true"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "monks",
+    "target_new": {
+      "str": "serious"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "nuns",
+    "target_new": {
+      "str": "serious"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "monasteries",
+    "target_new": {
+      "str": "old"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "priests",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "rabbis",
+    "target_new": {
+      "str": "strict"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "saints",
+    "target_new": {
+      "str": "inerrant"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "prophets",
+    "target_new": {
+      "str": "inerrant"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "cathedrals",
+    "target_new": {
+      "str": "old"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "Buddhists",
+    "target_new": {
+      "str": "peaceful"
+    }
+  },
+  {
+    "prompt": "{} is",
+    "subject": "Buddhism",
+    "target_new": {
+      "str": "peaceful"
+    }
+  },
+  {
+    "prompt": "All {} are",
+    "subject": "atheists",
+    "target_new": {
+      "str": "careless"
+    }
+  }
+]
