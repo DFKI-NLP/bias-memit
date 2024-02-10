@@ -9,7 +9,7 @@ The scripts in the subdirectories of this folder allow to replicate the three-fo
   - Qualtitative evaluation
 - [`data/stereoset`](data/stereoset): English and German development set of StereoSet. The original English data is available under the following link: [`https://huggingface.co/datasets/stereoset`](https://huggingface.co/datasets/stereoset).  
   A German translation is provided under: [`https://huggingface.co/datasets/roskoN/stereoset_german`](https://huggingface.co/datasets/roskoN/stereoset_german)
-- [`results`](results): The results of the evaluation on StereoSet as well as the analysis of sentence entropy and perplexity are stored in this directory.
+- [`results`](results): Local directory to save results of the evaluation on StereoSet as well as the analysis of sentence entropy and perplexity to.
 - [`bias_bench`](bias_bench): Additional data classes and utility functions for the *StereoSet* evaluation
   (all scripts in this directory are written by Meade et al. (2022) and can be found in the repository [`https://github.com/McGill-NLP/bias-bench/tree/main`](https://github.com/McGill-NLP/bias-bench/tree/main)).
 
