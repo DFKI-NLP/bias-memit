@@ -4,7 +4,7 @@
 The scripts provided in this folder and all subfolders have been developed by Meng et al. (2022) (repository: [`https://github.com/kmeng01/memit`](https://github.com/kmeng01/memit)).
 
 For the purpose of this thesis the script [`causal_trace.py`](causal_trace.py) is most relevant. It collects causal traces for a set of (pre-filtered) stereotypical tracing prompts. 
-To obtain traces for a specific model run the following command:
+Tracing prompts for all tested LMs can be found in the subdirectory [`data/tracing_prompts`](data/tracing_prompts`). To obtain traces for a specific model run the following command:
 
 ```
 python3 -m experiments.causal_trace --model_name=<model-name>  \
