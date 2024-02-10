@@ -1,3 +1,7 @@
+"""
+:authors: Nicholas Meade, Elinor Poole-Dayan, Siva Reddy (Repository: https://github.com/McGill-NLP/bias-bench/tree/main)
+"""
+
 import json
 from typing import List, Optional, Dict, Any
 

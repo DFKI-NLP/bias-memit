@@ -58,8 +58,9 @@ Notes
 This script is inspired by http://stackoverflow.com/a/20844506/827862, but
 lets the user specify whether the ouptut of a notebook should be kept
 in the notebook's metadata, and works for IPython v3.0.
-"""
 
+:authors: Kevin Meng, Arnab Sharma, A. Andonian, Yonatan Belinkov, David Bau (source: https://github.com/kmeng01/memit)
+"""
 import json
 import sys
 

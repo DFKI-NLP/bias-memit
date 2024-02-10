@@ -1,3 +1,7 @@
+"""
+:authors: Nicholas Meade, Elinor Poole-Dayan, Siva Reddy (Repository: https://github.com/McGill-NLP/bias-bench/tree/main)
+"""
+
 import time
 from typing import Dict, Optional, List
 

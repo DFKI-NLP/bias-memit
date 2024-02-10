@@ -2,6 +2,8 @@
 Contains evaluation utilities for pytorch-based rewriting methods.
 To use, simply call `compute_rewrite_quality_counterfact` with the
 appropriate arguments, which returns a dictionary containing them.
+
+:authors: Kevin Meng, Arnab Sharma, A. Andonian, Yonatan Belinkov, David Bau (source: https://github.com/kmeng01/memit)
 """
 
 import typing

@@ -1,3 +1,7 @@
+"""
+:authors: Nicholas Meade, Elinor Poole-Dayan, Siva Reddy (Repository: https://github.com/McGill-NLP/bias-bench/tree/main)
+"""
+
 def _is_generative(model):
     # Checks if we are running an autoregressive model.
     return model in [

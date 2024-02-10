@@ -1,6 +1,8 @@
 """
 Contains utilities for extracting token representations and indices
 from string templates. Used in computing the left and right vectors for ROME.
+
+:authors: Kevin Meng, Arnab Sharma, A. Andonian, Yonatan Belinkov, David Bau (source: https://github.com/kmeng01/memit)
 """
 
 from copy import deepcopy

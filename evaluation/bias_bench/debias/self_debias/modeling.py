@@ -1,3 +1,7 @@
+"""
+:authors: Nicholas Meade, Elinor Poole-Dayan, Siva Reddy (Repository: https://github.com/McGill-NLP/bias-bench/tree/main)
+"""
+
 from abc import ABC, abstractmethod
 from typing import List, Optional, Tuple
 

@@ -1,3 +1,7 @@
+"""
+:authors: Kevin Meng, Arnab Sharma, A. Andonian, Yonatan Belinkov, David Bau (source: https://github.com/kmeng01/memit)
+"""
+
 import torch
 from torch.nn.utils.rnn import pad_sequence
 from torch.utils.data import Dataset

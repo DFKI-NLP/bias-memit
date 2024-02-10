@@ -1,3 +1,7 @@
+"""
+:authors: Nicholas Meade, Elinor Poole-Dayan, Siva Reddy (Repository: https://github.com/McGill-NLP/bias-bench/tree/main)
+"""
+
 from collections import defaultdict
 
 import numpy as np

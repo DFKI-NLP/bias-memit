@@ -39,6 +39,8 @@ this pattern.  It takes a statistic, a dataset, and a cache filename
 and sets up a data loader that can be run (or not, if cached) to
 compute the statistic, adopting the convention that cached stats are
 saved to and loaded from numpy npz files.
+
+:authors: Kevin Meng, Arnab Sharma, A. Andonian, Yonatan Belinkov, David Bau (source: https://github.com/kmeng01/memit)
 """
 
 import math

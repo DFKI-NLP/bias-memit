@@ -6,6 +6,8 @@ TraceDict will hook multiple layers at once.
 subsequence slices intervals from Sequential modules.
 get_module, replace_module, get_parameter resolve dotted names.
 set_requires_grad recursively sets requires_grad in module parameters.
+
+:authors: Kevin Meng, Arnab Sharma, A. Andonian, Yonatan Belinkov, David Bau (source: https://github.com/kmeng01/memit)
 """
 
 import contextlib
