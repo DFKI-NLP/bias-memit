@@ -32,7 +32,7 @@ Before running the MEMIT update one needs to identify locations where the weight
 
 ## MEMIT for Bias Mitigation
 
-[`notebooks/memit-debias.ipynb`](notebooks/memit-debias.ipynb) is a simple demonstration to illustrate how MEMIT can be applied to alter stereotypical associations.
+[`notebooks/memit_debias.ipynb`](notebooks/memit_debias.ipynb) is a simple demonstration to illustrate how MEMIT can be applied to alter stereotypical associations.
 MEMIT takes as input rewrites of the following form:
 
 ```python
