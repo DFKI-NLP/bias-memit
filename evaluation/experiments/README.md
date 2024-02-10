@@ -45,8 +45,9 @@ The files provided under this directory allow to evaluate MEMIT de-biased mode i
         --output_file=<path-to-score-file>.json \
         --gold_file=dev_<en-or-de>.json
       ```
-   Note that prediction and result files are located in a subdirectory of ./results/stereoset. File paths need to be specified relative to this directory!  
-2. __Sentence entropy and perplexity__: The second evaluation method aggregates average entropy and perplexity over each one of the sets
+   Note that prediction and result files are located in a subdirectory of ./results/stereoset. File paths need to be specified relative to this directory!
+   With the commands specified above scripts can be run from the parent directory. If a script is to be executed from another location, file paths etc. need to be adapted accordingly! 
+3. __Sentence entropy and perplexity__: The second evaluation method aggregates average entropy and perplexity over each one of the sets
       of tracing prompts, antonym-based updates, quantified (anti-)stereotypical rewrites and biased updates
       (output files are stored under ./results/entr_ppl_eval/):
       ```
