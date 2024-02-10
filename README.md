@@ -12,6 +12,7 @@ and a qualitative assessment of selected examples.
 ## Table of Contents
 
 - [Installation](#installation)
+- [Causal Tracing](#causal-tracing)
 - [MEMIT for Bias Mitigation](#memit-for-bias-mitigation)
 - [Evaluation](#evaluation)
 - [External Sources](#external-sources)
@@ -24,6 +25,10 @@ CONDA_HOME=$CONDA_HOME ./scripts/setup_conda.sh
 ```
 
 `$CONDA_HOME` should be the path to your `conda` installation, e.g., `~/miniconda3`.
+
+## Causal Tracing
+
+Before running the MEMIT update one needs to identify locations where the weight updates should be applied. The scripts for this step and further instructions on how to run them can be found in the following folder: [`experiments`](experiments).
 
 ## MEMIT for Bias Mitigation
 
